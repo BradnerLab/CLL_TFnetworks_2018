@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document contains scripts used to analyze data and generate figures for Ott et al (2018) in Cancer Cell. For inquries about specific analyses, please contact Alex Federation at federation@altius.org or Christopher Ott at christopher.ott@mgh.harvard.edu. In this README file, provide either an explination in pseodocode or the exact scripts used to generate each figure. For an up-to-date distribution of the code for network construction, please use pip (https://pypi.org/project/coltron/)
+This document contains scripts used to analyze data and generate figures for Ott et al (2018) in Cancer Cell. For inquries about specific analyses, please contact Alex Federation at federation@altius.org or Christopher Ott at christopher.ott@mgh.harvard.edu. In this README file, we provide either a detailed description  or the exact scripts used to generate each figure. For an up-to-date distribution of the code for network construction, please use pip (https://pypi.org/project/coltron/). For additional information about supplemental figures, please contact Alex Federation.
 
 ## Figure 1
 
@@ -40,10 +40,24 @@ Plots are generated as a standard output of the network construction algorithm c
 
 ### C
 
-Target genes of CRCs were assigned using extendedSuperNetwork.py. Input files include super enhancer data from ROSE2.0, ATAC peak files called from Zinba and annotation files downloaded from the UCSC browser or motif databases. The output is a large matrix with the number of motif occurances for each node TF in the CLL sample within ATAC peaks found in each super enhancers present in that sample.
+Target genes of CRCs were assigned using extendedSuperNetwork.py. Input files include super enhancer data from ROSE2.0, ATAC peak files called from Zinba and annotation files downloaded from the UCSC browser or motif databases. The output is a large matrix with the number of motif occurances for each node TF in the CLL sample within ATAC peaks found in each super enhancers present in that sample. Enhenacers were assiged to genes using targetGenes.py
 
 ### D
 
 Clique scores are generated as a standard output of the	network	construction algorithm contained in COLTRON, with the file name *_ENRICHED_CLIQUE_FACTORS.txt
 
 ## Figure 4
+
+### A
+
+Clique scores are generated as a standard output of the network construction algorithm contained in COLTRON, with the file name	*_ENRICHED_CLIQUE_FACTORS.txt
+
+### B
+
+RSA p values were calculated using previously published code (König et al., 2007)
+
+## Figure 5
+
+### A
+
+Boxplots were generated using JQ1_RNAseq.py, using annotation files, ROSE2.0 output and normalized RNA-seq FPKM expression data.
