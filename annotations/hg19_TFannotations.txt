@@ -1,0 +1,2378 @@
+From	To	Species	Gene Name
+ENSG00000198521	NM_003423	Homo sapiens	zinc finger protein 43
+ESNG12432132443	NM_017617	Homo sapiens	Notch 1
+ENSG00000163884	NM_014079	Homo sapiens	Kruppel-like factor 15
+ENSG00000169946	NM_012082	Homo sapiens	zinc finger protein, multitype 2
+ENSG00000160685	NM_015872	Homo sapiens	zinc finger and BTB domain containing 7B
+ENSG00000167981	NM_152457	Homo sapiens	zinc finger protein 597
+ENSG00000164330	NM_024007	Homo sapiens	early B-cell factor 1
+ENSG00000167800	NM_005995	Homo sapiens	T-box 10
+ENSG00000170616	NM_031309	Homo sapiens	scratch homolog 1, zinc finger protein (Drosophila)
+ENSG00000171223	NM_002229	Homo sapiens	jun B proto-oncogene
+ENSG00000170178	NM_021193	Homo sapiens	homeobox D12
+ENSG00000126778	NM_005982	Homo sapiens	SIX homeobox 1
+ENSG00000171425	NM_016535	Homo sapiens	zinc finger protein 581
+ENSG00000170581	NM_005419	Homo sapiens	signal transducer and activator of transcription 2, 113kDa
+ENSG00000185219	NM_181489	Homo sapiens	zinc finger protein 445
+ENSG00000092607	NM_152380	Homo sapiens	T-box 15
+ENSG00000100968	NM_001136022	Homo sapiens	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 4
+ENSG00000100968	NM_004554	Homo sapiens	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 4
+ENSG00000104903	NM_005583	Homo sapiens	lymphoblastic leukemia derived sequence 1
+ENSG00000185404	NM_138402	Homo sapiens	SP140 nuclear body protein-like
+ENSG00000198914	NM_006236	Homo sapiens	POU class 3 homeobox 3
+ENSG00000184939	NM_133458	Homo sapiens	zinc finger protein 90 homolog (mouse)
+ENSG00000198911	NM_004599	Homo sapiens	sterol regulatory element binding transcription factor 2
+ENSG00000109787	NM_016531	Homo sapiens	Kruppel-like factor 3 (basic)
+ENSG00000184937	NM_024426	Homo sapiens	Wilms tumor 1
+ENSG00000184937	NM_024425	Homo sapiens	Wilms tumor 1
+ENSG00000184937	NM_024424	Homo sapiens	Wilms tumor 1
+ENSG00000184937	NM_000378	Homo sapiens	Wilms tumor 1
+ENSG00000136870	NM_197977	Homo sapiens	zinc finger protein 189
+ENSG00000136870	NM_003452	Homo sapiens	zinc finger protein 189
+ENSG00000197857	NM_001164276	Homo sapiens	zinc finger protein 44
+ENSG00000197857	NM_016264	Homo sapiens	zinc finger protein 44
+ENSG00000204060	XM_002342102	Homo sapiens	forkhead box protein O6
+ENSG00000204060	XM_002346379	Homo sapiens	forkhead box protein O6
+ENSG00000080298	NM_134428	Homo sapiens	regulatory factor X, 3 (influences HLA class II expression)
+ENSG00000080298	NM_002919	Homo sapiens	regulatory factor X, 3 (influences HLA class II expression)
+ENSG00000141905	NM_005597	Homo sapiens	nuclear factor I/C (CCAAT-binding transcription factor)
+ENSG00000141905	NM_205843	Homo sapiens	nuclear factor I/C (CCAAT-binding transcription factor)
+ENSG00000064195	NM_005220	Homo sapiens	distal-less homeobox 3
+ENSG00000185002	NM_173560	Homo sapiens	regulatory factor X, 6
+ENSG00000169957	NM_024671	Homo sapiens	zinc finger protein 768
+ENSG00000109381	NM_006874	Homo sapiens	E74-like factor 2 (ets domain transcription factor)
+ENSG00000109381	NM_201999	Homo sapiens	E74-like factor 2 (ets domain transcription factor)
+ENSG00000196597	NM_001001662	Homo sapiens	zinc finger protein 782
+ENSG00000165702	NM_001135031	Homo sapiens	growth factor independent 1B transcription repressor
+ENSG00000165702	NM_004188	Homo sapiens	growth factor independent 1B transcription repressor
+ENSG00000196092	NM_016734	Homo sapiens	paired box 5
+ENSG00000185610	NM_001004329	Homo sapiens	developing brain homeobox 2
+ENSG00000205922	NM_001080488	Homo sapiens	one cut homeobox 3
+ENSG00000170374	NM_152860	Homo sapiens	Sp7 transcription factor
+ENSG00000170608	NM_004497	Homo sapiens	forkhead box A3
+ENSG00000205927	NM_005806	Homo sapiens	oligodendrocyte lineage transcription factor 2
+ENSG00000170370	NM_001165924	Homo sapiens	empty spiracles homeobox 2
+ENSG00000170370	NM_004098	Homo sapiens	empty spiracles homeobox 2
+ENSG00000198517	NM_002360	Homo sapiens	v-maf musculoaponeurotic fibrosarcoma oncogene homolog K (avian)
+ENSG00000110851	NM_012406	Homo sapiens	PR domain containing 4
+ENSG00000054267	NM_016374	Homo sapiens	AT rich interactive domain 4B (RBP1-like)
+ENSG00000054267	NM_031371	Homo sapiens	AT rich interactive domain 4B (RBP1-like)
+ENSG00000169953	NM_152584	Homo sapiens	heat shock transcription factor, Y-linked 1; heat shock transcription factor, Y linked 2
+ENSG00000169953	NM_033108	Homo sapiens	heat shock transcription factor, Y-linked 1; heat shock transcription factor, Y linked 2
+ENSG00000169953	NM_001001877	Homo sapiens	heat shock transcription factor, Y-linked 1; heat shock transcription factor, Y linked 2
+ENSG00000169953	NM_153716	Homo sapiens	heat shock transcription factor, Y-linked 1; heat shock transcription factor, Y linked 2
+ENSG00000106261	NM_003439	Homo sapiens	zinc finger with KRAB and SCAN domains 1
+ENSG00000128709	NM_014213	Homo sapiens	homeobox D9
+ENSG00000169951	NM_033410	Homo sapiens	zinc finger protein 764
+ENSG00000137834	NM_001142861	Homo sapiens	SMAD family member 6
+ENSG00000137834	NM_005585	Homo sapiens	SMAD family member 6
+ENSG00000100146	NM_006941	Homo sapiens	SRY (sex determining region Y)-box 10
+ENSG00000065970	NM_018416	Homo sapiens	forkhead box J2
+ENSG00000148200	NM_033334	Homo sapiens	nuclear receptor subfamily 6, group A, member 1
+ENSG00000148200	NM_001489	Homo sapiens	nuclear receptor subfamily 6, group A, member 1
+ENSG00000196793	NM_001099283	Homo sapiens	zinc finger protein 239
+ENSG00000196793	NM_005674	Homo sapiens	zinc finger protein 239
+ENSG00000196793	NM_001099284	Homo sapiens	zinc finger protein 239
+ENSG00000196793	NM_001099282	Homo sapiens	zinc finger protein 239
+ENSG00000109101	NM_003593	Homo sapiens	forkhead box N1
+ENSG00000128573	NM_148898	Homo sapiens	forkhead box P2
+ENSG00000128573	NM_148899	Homo sapiens	forkhead box P2
+ENSG00000128573	NM_014491	Homo sapiens	forkhead box P2
+ENSG00000141510	NM_001126113	Homo sapiens	tumor protein p53
+ENSG00000141510	NM_001126112	Homo sapiens	tumor protein p53
+ENSG00000141510	NM_000546	Homo sapiens	tumor protein p53
+ENSG00000141510	NM_001126116	Homo sapiens	tumor protein p53
+ENSG00000141510	NM_001126117	Homo sapiens	tumor protein p53
+ENSG00000141510	NM_001126114	Homo sapiens	tumor protein p53
+ENSG00000141510	NM_001126115	Homo sapiens	tumor protein p53
+ENSG00000198315	NM_006298	Homo sapiens	zinc finger protein 192
+ENSG00000197841	NM_001145665	Homo sapiens	zinc finger protein 181
+ENSG00000197841	NM_001029997	Homo sapiens	zinc finger protein 181
+ENSG00000170577	NM_016932	Homo sapiens	SIX homeobox 2
+ENSG00000065978	NM_004559	Homo sapiens	Y box binding protein 1
+ENSG00000186350	NM_002957	Homo sapiens	retinoid X receptor, alpha
+ENSG00000157429	NM_006961	Homo sapiens	zinc finger protein 19
+ENSG00000108264	NM_001166105	Homo sapiens	transcriptional adaptor 2 (ADA2 homolog, yeast)-like
+ENSG00000108264	NM_001488	Homo sapiens	transcriptional adaptor 2 (ADA2 homolog, yeast)-like
+ENSG00000108264	NM_133439	Homo sapiens	transcriptional adaptor 2 (ADA2 homolog, yeast)-like
+ENSG00000128713	NM_021192	Homo sapiens	homeobox D11
+ENSG00000128714	NM_000523	Homo sapiens	homeobox D13
+ENSG00000152926	NM_015852	Homo sapiens	zinc finger protein 117
+ENSG00000197128	NM_001024596	Homo sapiens	zinc finger protein 772
+ENSG00000197128	NM_001144068	Homo sapiens	zinc finger protein 772
+ENSG00000103343	NM_001032292	Homo sapiens	zinc finger protein 174
+ENSG00000103343	NM_003450	Homo sapiens	zinc finger protein 174
+ENSG00000128710	NM_002148	Homo sapiens	homeobox D10
+ENSG00000076108	NM_013449	Homo sapiens	bromodomain adjacent to zinc finger domain, 2A
+ENSG00000129194	NM_006942	Homo sapiens	SRY (sex determining region Y)-box 15
+ENSG00000197123	XM_002346880	Homo sapiens	zinc finger protein 679; zinc finger protein 735
+ENSG00000197123	XM_001719651	Homo sapiens	zinc finger protein 679; zinc finger protein 735
+ENSG00000197123	XM_002344353	Homo sapiens	zinc finger protein 679; zinc finger protein 735
+ENSG00000197123	XM_001719618	Homo sapiens	zinc finger protein 679; zinc finger protein 735
+ENSG00000197123	NM_153363	Homo sapiens	zinc finger protein 679; zinc finger protein 735
+ENSG00000197123	NM_001159524	Homo sapiens	zinc finger protein 679; zinc finger protein 735
+ENSG00000167967	NM_004424	Homo sapiens	E4F transcription factor 1
+ENSG00000106038	NM_001989	Homo sapiens	even-skipped homeobox 1
+ENSG00000169016	NM_198256	Homo sapiens	E2F transcription factor 6
+ENSG00000197124	NM_033196	Homo sapiens	zinc finger protein 682
+ENSG00000197124	NM_001077349	Homo sapiens	zinc finger protein 682
+ENSG00000101216	NM_012384	Homo sapiens	glucocorticoid modulatory element binding protein 2
+ENSG00000005073	NM_005523	Homo sapiens	homeobox A11
+ENSG00000108001	NM_001005463	Homo sapiens	early B-cell factor 3
+ENSG00000171443	NM_153219	Homo sapiens	zinc finger protein 524
+ENSG00000109132	NM_003924	Homo sapiens	paired-like homeobox 2b
+ENSG00000106031	NM_000522	Homo sapiens	homeobox A13
+ENSG00000165066	NM_152568	Homo sapiens	NK6 homeobox 3
+ENSG00000179627	NM_001137601	Homo sapiens	zinc finger and BTB domain containing 42
+ENSG00000101412	NM_005225	Homo sapiens	E2F transcription factor 1
+ENSG00000198300	NM_006210	Homo sapiens	paternally expressed 3; PEG3 antisense RNA (non-protein coding); zinc finger, imprinted 2
+ENSG00000198300	NM_001146326	Homo sapiens	paternally expressed 3; PEG3 antisense RNA (non-protein coding); zinc finger, imprinted 2
+ENSG00000198300	NM_001146327	Homo sapiens	paternally expressed 3; PEG3 antisense RNA (non-protein coding); zinc finger, imprinted 2
+ENSG00000198300	NM_001146184	Homo sapiens	paternally expressed 3; PEG3 antisense RNA (non-protein coding); zinc finger, imprinted 2
+ENSG00000198300	NM_001146185	Homo sapiens	paternally expressed 3; PEG3 antisense RNA (non-protein coding); zinc finger, imprinted 2
+ENSG00000198300	NM_001146186	Homo sapiens	paternally expressed 3; PEG3 antisense RNA (non-protein coding); zinc finger, imprinted 2
+ENSG00000198300	NM_001146187	Homo sapiens	paternally expressed 3; PEG3 antisense RNA (non-protein coding); zinc finger, imprinted 2
+ENSG00000198300	NM_015363	Homo sapiens	paternally expressed 3; PEG3 antisense RNA (non-protein coding); zinc finger, imprinted 2
+ENSG00000204644	NM_001109809	Homo sapiens	zinc finger protein 57 homolog (mouse)
+ENSG00000057657	NM_182907	Homo sapiens	PR domain containing 1, with ZNF domain
+ENSG00000057657	NM_001198	Homo sapiens	PR domain containing 1, with ZNF domain
+ENSG00000139352	NM_004316	Homo sapiens	achaete-scute complex homolog 1 (Drosophila)
+ENSG00000147124	NM_153380	Homo sapiens	zinc finger protein 41
+ENSG00000147124	NM_007130	Homo sapiens	zinc finger protein 41
+ENSG00000126561	NM_003152	Homo sapiens	signal transducer and activator of transcription 5A
+ENSG00000171448	NM_020924	Homo sapiens	zinc finger and BTB domain containing 26
+ENSG00000126767	NM_005229	Homo sapiens	ELK1, member of ETS oncogene family
+ENSG00000126767	NM_001114123	Homo sapiens	ELK1, member of ETS oncogene family
+ENSG00000197134	NM_033468	Homo sapiens	zinc finger protein 257
+ENSG00000185811	NM_006060	Homo sapiens	IKAROS family zinc finger 1 (Ikaros)
+ENSG00000007866	NM_003214	Homo sapiens	TEA domain family member 3
+ENSG00000153266	NM_018008	Homo sapiens	FEZ family zinc finger 2
+ENSG00000170631	NM_001029976	Homo sapiens	zinc finger protein 16
+ENSG00000170631	NM_006958	Homo sapiens	zinc finger protein 16
+ENSG00000071655	NM_003926	Homo sapiens	methyl-CpG binding domain protein 3
+ENSG00000066422	NM_014415	Homo sapiens	zinc finger and BTB domain containing 11
+ENSG00000180318	NM_006982	Homo sapiens	ALX homeobox 1
+ENSG00000004399	NM_015103	Homo sapiens	plexin D1
+ENSG00000167182	NM_003110	Homo sapiens	Sp2 transcription factor
+ENSG00000197863	NM_206894	Homo sapiens	zinc finger protein 790
+ENSG00000066827	NM_020863	Homo sapiens	zinc finger and AT hook domain containing
+ENSG00000066827	NM_001029939	Homo sapiens	zinc finger and AT hook domain containing
+ENSG00000066827	NM_001167583	Homo sapiens	zinc finger and AT hook domain containing
+ENSG00000186376	NM_007131	Homo sapiens	zinc finger protein 75D
+ENSG00000188801	NM_199005	Homo sapiens	zinc finger protein 322B
+ENSG00000164379	NM_033260	Homo sapiens	forkhead box Q1
+ENSG00000196946	NM_001004328	Homo sapiens	zinc finger protein 705A
+ENSG00000177888	NM_194314	Homo sapiens	zinc finger and BTB domain containing 41
+ENSG00000075407	NM_001007094	Homo sapiens	zinc finger protein 37A
+ENSG00000075407	NM_003421	Homo sapiens	zinc finger protein 37A
+ENSG00000141040	NM_020653	Homo sapiens	zinc finger protein 287
+ENSG00000170345	NM_005252	Homo sapiens	v-fos FBJ murine osteosarcoma viral oncogene homolog
+ENSG00000141956	NM_001040424	Homo sapiens	PR domain containing 15
+ENSG00000141956	NM_022115	Homo sapiens	PR domain containing 15
+ENSG00000147117	NM_003446	Homo sapiens	zinc finger protein 157
+ENSG00000147118	NM_006962	Homo sapiens	zinc finger protein 182
+ENSG00000147118	NM_001007088	Homo sapiens	zinc finger protein 182
+ENSG00000197808	NM_153257	Homo sapiens	zinc finger protein 461
+ENSG00000185252	NM_003426	Homo sapiens	zinc finger protein 74
+ENSG00000177683	NM_001130475	Homo sapiens	THAP domain containing 5
+ENSG00000177683	NM_182529	Homo sapiens	THAP domain containing 5
+ENSG00000102034	NM_001127197	Homo sapiens	E74-like factor 4 (ets domain transcription factor)
+ENSG00000102034	NM_001421	Homo sapiens	E74-like factor 4 (ets domain transcription factor)
+ENSG00000141946	NM_052882	Homo sapiens	zinc finger, imprinted 3
+ENSG00000171469	NM_152289	Homo sapiens	zinc finger protein 561; zinc finger protein 812
+ENSG00000171469	XM_001726949	Homo sapiens	zinc finger protein 561; zinc finger protein 812
+ENSG00000171469	XM_001726943	Homo sapiens	zinc finger protein 561; zinc finger protein 812
+ENSG00000171469	XM_001719513	Homo sapiens	zinc finger protein 561; zinc finger protein 812
+ENSG00000011451	NM_021241	Homo sapiens	widely interspaced zinc finger motifs
+ENSG00000131849	NM_003433	Homo sapiens	zinc finger protein 132
+ENSG00000136451	NM_007146	Homo sapiens	vascular endothelial zinc finger 1
+ENSG00000171466	NM_001130031	Homo sapiens	zinc finger protein 562
+ENSG00000171466	NM_001130032	Homo sapiens	zinc finger protein 562
+ENSG00000171466	NM_017656	Homo sapiens	zinc finger protein 562
+ENSG00000131848	NM_024303	Homo sapiens	zinc finger and SCAN domain containing 5A
+ENSG00000177494	NM_024508	Homo sapiens	zinc finger, BED-type containing 2
+ENSG00000125285	NM_007084	Homo sapiens	SRY (sex determining region Y)-box 21
+ENSG00000081386	NM_014930	Homo sapiens	zinc finger protein 510
+ENSG00000158711	NM_021795	Homo sapiens	ELK4, ETS-domain protein (SRF accessory protein 1)
+ENSG00000158711	NM_001973	Homo sapiens	ELK4, ETS-domain protein (SRF accessory protein 1)
+ENSG00000131845	NM_020657	Homo sapiens	zinc finger protein 304
+ENSG00000198556	NM_213603	Homo sapiens	zinc finger protein 789
+ENSG00000198556	NM_001013258	Homo sapiens	zinc finger protein 789
+ENSG00000198551	NM_145295	Homo sapiens	zinc finger protein 627
+ENSG00000105419	NM_001009813	Homo sapiens	Meis homeobox 3; Meis homeobox 3 pseudogene 2
+ENSG00000105419	NM_020160	Homo sapiens	Meis homeobox 3; Meis homeobox 3 pseudogene 2
+ENSG00000172201	NM_001546	Homo sapiens	inhibitor of DNA binding 4, dominant negative helix-loop-helix protein
+ENSG00000182111	XM_002346878	Homo sapiens	zinc finger protein 716
+ENSG00000182111	XM_002345993	Homo sapiens	zinc finger protein 716
+ENSG00000182111	NM_001159279	Homo sapiens	zinc finger protein 716
+ENSG00000182111	XM_002344314	Homo sapiens	zinc finger protein 716
+ENSG00000182111	XM_002342727	Homo sapiens	zinc finger protein 716
+ENSG00000116604	NM_005920	Homo sapiens	myocyte enhancer factor 2D
+ENSG00000198963	NM_006914	Homo sapiens	RAR-related orphan receptor B
+ENSG00000061455	NM_001136239	Homo sapiens	PR domain containing 6
+ENSG00000183647	NM_020880	Homo sapiens	zinc finger protein 530
+ENSG00000170653	NM_001130060	Homo sapiens	activating transcription factor 7
+ENSG00000170653	NM_006856	Homo sapiens	activating transcription factor 7
+ENSG00000170653	NM_001130059	Homo sapiens	activating transcription factor 7
+ENSG00000121903	NM_145238	Homo sapiens	zinc finger and SCAN domain containing 20
+ENSG00000196967	NM_199126	Homo sapiens	zinc finger protein 585A
+ENSG00000196967	NM_152655	Homo sapiens	zinc finger protein 585A
+ENSG00000037965	NM_022658	Homo sapiens	homeobox C8
+ENSG00000075426	NM_005253	Homo sapiens	FOS-like antigen 2
+ENSG00000137871	NM_017661	Homo sapiens	zinc finger protein 280D
+ENSG00000137871	NM_001002844	Homo sapiens	zinc finger protein 280D
+ENSG00000137871	NM_001002843	Homo sapiens	zinc finger protein 280D
+ENSG00000171476	NM_139211	Homo sapiens	HOP homeobox
+ENSG00000171476	NM_139212	Homo sapiens	HOP homeobox
+ENSG00000171476	NM_001145459	Homo sapiens	HOP homeobox
+ENSG00000171476	NM_032495	Homo sapiens	HOP homeobox
+ENSG00000171476	NM_001145460	Homo sapiens	HOP homeobox
+ENSG00000102974	NM_006565	Homo sapiens	CCCTC-binding factor (zinc finger protein)
+ENSG00000091010	NM_002700	Homo sapiens	POU class 4 homeobox 3
+ENSG00000178764	NM_014943	Homo sapiens	zinc fingers and homeoboxes 2
+ENSG00000169057	NM_001110792	Homo sapiens	methyl CpG binding protein 2 (Rett syndrome)
+ENSG00000169057	NM_004992	Homo sapiens	methyl CpG binding protein 2 (Rett syndrome)
+ENSG00000197162	NM_152458	Homo sapiens	zinc finger protein 688; zinc finger protein 785
+ENSG00000197162	NM_145271	Homo sapiens	zinc finger protein 688; zinc finger protein 785
+ENSG00000197162	NM_001024683	Homo sapiens	zinc finger protein 688; zinc finger protein 785
+ENSG00000169926	NM_015995	Homo sapiens	Kruppel-like factor 13
+ENSG00000205143	NM_001017363	Homo sapiens	AT rich interactive domain 3C (BRIGHT-like)
+ENSG00000170365	NM_005900	Homo sapiens	SMAD family member 1
+ENSG00000170365	NM_001003688	Homo sapiens	SMAD family member 1
+ENSG00000141027	NM_006311	Homo sapiens	nuclear receptor co-repressor 1
+ENSG00000136040	NM_005761	Homo sapiens	plexin C1
+ENSG00000172216	NM_005194	Homo sapiens	CCAAT/enhancer binding protein (C/EBP), beta
+ENSG00000152977	NM_003412	Homo sapiens	Zic family member 1 (odd-paired homolog, Drosophila)
+ENSG00000100987	NM_014588	Homo sapiens	visual system homeobox 1
+ENSG00000100987	NM_199425	Homo sapiens	visual system homeobox 1
+ENSG00000215612	NM_018942	Homo sapiens	H6 family homeobox 1
+ENSG00000127903	NM_001005850	Homo sapiens	zinc finger protein 835
+ENSG00000163666	NM_003865	Homo sapiens	HESX homeobox 1
+ENSG00000215421	NM_001146189	Homo sapiens	zinc finger protein 407
+ENSG00000215421	NM_017757	Homo sapiens	zinc finger protein 407
+ENSG00000215421	NM_001146190	Homo sapiens	zinc finger protein 407
+ENSG00000153234	NM_006186	Homo sapiens	nuclear receptor subfamily 4, group A, member 2
+ENSG00000181896	NM_033204	Homo sapiens	zinc finger protein 101
+ENSG00000179922	NM_203374	Homo sapiens	zinc finger protein 784
+ENSG00000182141	NM_021269	Homo sapiens	zinc finger protein 708
+ENSG00000181894	NM_024620	Homo sapiens	zinc finger protein 329
+ENSG00000170684	NM_145288	Homo sapiens	zinc finger protein 296
+ENSG00000141568	NM_004514	Homo sapiens	forkhead box K2
+ENSG00000139515	NM_000209	Homo sapiens	pancreatic and duodenal homeobox 1
+ENSG00000106006	NM_024014	Homo sapiens	homeobox A6
+ENSG00000106004	NM_019102	Homo sapiens	homeobox A5
+ENSG00000122691	NM_000474	Homo sapiens	twist homolog 1 (Drosophila)
+ENSG00000147789	NM_003416	Homo sapiens	zinc finger protein 7
+ENSG00000198538	NM_006969	Homo sapiens	zinc finger protein 28
+ENSG00000156273	NM_206866	Homo sapiens	BTB and CNC homology 1, basic leucine zipper transcription factor 1
+ENSG00000156273	NM_001011545	Homo sapiens	BTB and CNC homology 1, basic leucine zipper transcription factor 1
+ENSG00000156273	NM_001186	Homo sapiens	BTB and CNC homology 1, basic leucine zipper transcription factor 1
+ENSG00000127081	NM_001007101	Homo sapiens	zinc finger protein 484
+ENSG00000127081	NM_031486	Homo sapiens	zinc finger protein 484
+ENSG00000186130	NM_006626	Homo sapiens	zinc finger and BTB domain containing 6
+ENSG00000198939	NM_030613	Homo sapiens	zinc finger protein 2 homolog (mouse)
+ENSG00000185630	NM_002585	Homo sapiens	pre-B-cell leukemia homeobox 1
+ENSG00000196576	NM_012401	Homo sapiens	plexin B2
+ENSG00000065029	NM_003427	Homo sapiens	zinc finger protein 76 (expressed in testis)
+ENSG00000176542	NM_001009899	Homo sapiens	KIAA2018
+ENSG00000136866	NM_003408	Homo sapiens	zinc finger protein 37 homolog (mouse)
+ENSG00000179930	NM_001009992	Homo sapiens	zinc finger protein 648
+ENSG00000148229	NM_017443	Homo sapiens	polymerase (DNA directed), epsilon 3 (p17 subunit)
+ENSG00000166823	NM_018670	Homo sapiens	mesoderm posterior 1 homolog (mouse)
+ENSG00000165030	NM_005384	Homo sapiens	nuclear factor, interleukin 3 regulated
+ENSG00000006377	NM_005222	Homo sapiens	distal-less homeobox 6
+ENSG00000169740	NM_006973	Homo sapiens	zinc finger protein 32
+ENSG00000169740	NM_001005368	Homo sapiens	zinc finger protein 32
+ENSG00000162761	NM_177399	Homo sapiens	LIM homeobox transcription factor 1, alpha
+ENSG00000162761	NM_177398	Homo sapiens	LIM homeobox transcription factor 1, alpha
+ENSG00000162761	NM_001033507	Homo sapiens	LIM homeobox transcription factor 1, alpha
+ENSG00000101665	NM_005904	Homo sapiens	SMAD family member 7
+ENSG00000108064	NM_003201	Homo sapiens	transcription factor A, mitochondrial
+ENSG00000135747	NM_033213	Homo sapiens	zinc finger protein 670
+ENSG00000169260	NM_001010877	Homo sapiens	zinc finger protein 311
+ENSG00000102908	NM_001113178	Homo sapiens	nuclear factor of activated T-cells 5, tonicity-responsive
+ENSG00000102908	NM_138714	Homo sapiens	nuclear factor of activated T-cells 5, tonicity-responsive
+ENSG00000102908	NM_006599	Homo sapiens	nuclear factor of activated T-cells 5, tonicity-responsive
+ENSG00000102908	NM_173214	Homo sapiens	nuclear factor of activated T-cells 5, tonicity-responsive
+ENSG00000102908	NM_138713	Homo sapiens	nuclear factor of activated T-cells 5, tonicity-responsive
+ENSG00000143867	NM_145260	Homo sapiens	odd-skipped related 1 (Drosophila)
+ENSG00000132130	NM_005568	Homo sapiens	LIM homeobox 1
+ENSG00000196724	NM_133460	Homo sapiens	zinc finger protein 418
+ENSG00000120784	NM_014898	Homo sapiens	zinc finger protein 30 homolog (mouse)
+ENSG00000188095	NM_001039958	Homo sapiens	mesoderm posterior 2 homolog (mouse)
+ENSG00000172238	NM_005172	Homo sapiens	atonal homolog 1 (Drosophila)
+ENSG00000149922	NM_004608	Homo sapiens	T-box 6
+ENSG00000198795	NM_015461	Homo sapiens	zinc finger protein 521
+ENSG00000135164	NM_021145	Homo sapiens	cyclin D binding myb-like transcription factor 1
+ENSG00000135164	NM_001142326	Homo sapiens	cyclin D binding myb-like transcription factor 1
+ENSG00000135164	NM_001142327	Homo sapiens	cyclin D binding myb-like transcription factor 1
+ENSG00000135547	XM_001724587	Homo sapiens	hypothetical LOC100129733; hairy/enhancer-of-split related with YRPW motif 2
+ENSG00000135547	XM_001723812	Homo sapiens	hypothetical LOC100129733; hairy/enhancer-of-split related with YRPW motif 2
+ENSG00000135547	NM_012259	Homo sapiens	hypothetical LOC100129733; hairy/enhancer-of-split related with YRPW motif 2
+ENSG00000135547	XM_001726540	Homo sapiens	hypothetical LOC100129733; hairy/enhancer-of-split related with YRPW motif 2
+ENSG00000181827	NM_022841	Homo sapiens	regulatory factor X, 7
+ENSG00000135373	NM_012153	Homo sapiens	ets homologous factor
+ENSG00000178573	NM_005360	Homo sapiens	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)
+ENSG00000178573	NM_001031804	Homo sapiens	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)
+ENSG00000072364	NM_014423	Homo sapiens	AF4/FMR2 family, member 4
+ENSG00000152784	NM_001099403	Homo sapiens	PR domain containing 8
+ENSG00000152784	NM_020226	Homo sapiens	PR domain containing 8
+ENSG00000112658	NM_003131	Homo sapiens	serum response factor (c-fos serum response element-binding transcription factor)
+ENSG00000116833	NM_003822	Homo sapiens	nuclear receptor subfamily 5, group A, member 2
+ENSG00000116833	NM_205860	Homo sapiens	nuclear receptor subfamily 5, group A, member 2
+ENSG00000170802	NM_002158	Homo sapiens	forkhead box N2
+ENSG00000029153	NM_020183	Homo sapiens	aryl hydrocarbon receptor nuclear translocator-like 2
+ENSG00000182158	NM_194071	Homo sapiens	cAMP responsive element binding protein 3-like 2
+ENSG00000188868	NM_145276	Homo sapiens	zinc finger protein 563
+ENSG00000162367	NM_003189	Homo sapiens	T-cell acute lymphocytic leukemia 1
+ENSG00000196705	NM_133473	Homo sapiens	zinc finger protein 431
+ENSG00000118156	NM_001101419	Homo sapiens	zinc finger protein 541
+ENSG00000131408	NM_007121	Homo sapiens	nuclear receptor subfamily 1, group H, member 2
+ENSG00000185697	NM_001080416	Homo sapiens	v-myb myeloblastosis viral oncogene homolog (avian)-like 1
+ENSG00000185697	NM_001144755	Homo sapiens	v-myb myeloblastosis viral oncogene homolog (avian)-like 1
+ENSG00000049618	NM_175863	Homo sapiens	AT rich interactive domain 1B (SWI1-like)
+ENSG00000049618	NM_020732	Homo sapiens	AT rich interactive domain 1B (SWI1-like)
+ENSG00000049618	NM_017519	Homo sapiens	AT rich interactive domain 1B (SWI1-like)
+ENSG00000213676	NM_004381	Homo sapiens	activating transcription factor 6 beta
+ENSG00000213676	NM_001136153	Homo sapiens	activating transcription factor 6 beta
+ENSG00000172845	NM_001017371	Homo sapiens	Sp3 transcription factor
+ENSG00000172845	NM_003111	Homo sapiens	Sp3 transcription factor
+ENSG00000179456	NM_205768	Homo sapiens	zinc finger protein 238
+ENSG00000179456	NM_006352	Homo sapiens	zinc finger protein 238
+ENSG00000171940	NM_006526	Homo sapiens	zinc finger protein 217
+ENSG00000165512	NM_006963	Homo sapiens	zinc finger protein 22 (KOX 15)
+ENSG00000135374	NM_198381	Homo sapiens	E74-like factor 5 (ets domain transcription factor)
+ENSG00000135374	NM_001422	Homo sapiens	E74-like factor 5 (ets domain transcription factor)
+ENSG00000182568	NM_001131010	Homo sapiens	SATB homeobox 1
+ENSG00000182568	NM_002971	Homo sapiens	SATB homeobox 1
+ENSG00000170100	NM_182531	Homo sapiens	zinc finger protein 778
+ENSG00000122034	NM_002097	Homo sapiens	general transcription factor IIIA
+ENSG00000105229	NM_015897	Homo sapiens	protein inhibitor of activated STAT, 4
+ENSG00000174197	NM_001080541	Homo sapiens	MAX gene associated
+ENSG00000174197	NM_001164273	Homo sapiens	MAX gene associated
+ENSG00000087510	NM_003222	Homo sapiens	transcription factor AP-2 gamma (activating enhancer binding protein 2 gamma)
+ENSG00000117707	NM_002763	Homo sapiens	prospero homeobox 1
+ENSG00000143842	NM_005686	Homo sapiens	SRY (sex determining region Y)-box 13
+ENSG00000163623	NM_006168	Homo sapiens	NK6 homeobox 1
+ENSG00000172059	NM_003597	Homo sapiens	Kruppel-like factor 11
+ENSG00000176302	NM_181721	Homo sapiens	forkhead box R1
+ENSG00000064835	NM_000306	Homo sapiens	POU class 1 homeobox 1
+ENSG00000064835	NM_001122757	Homo sapiens	POU class 1 homeobox 1
+ENSG00000205189	NM_001105539	Homo sapiens	zinc finger and BTB domain containing 10
+ENSG00000205189	NM_023929	Homo sapiens	zinc finger and BTB domain containing 10
+ENSG00000181444	NM_207336	Homo sapiens	zinc finger protein 467
+ENSG00000183434	NM_016521	Homo sapiens	transcription factor Dp family, member 3
+ENSG00000181638	NM_173832	Homo sapiens	zinc finger protein 41 homolog (mouse)
+ENSG00000134954	NM_005238	Homo sapiens	v-ets erythroblastosis virus E26 oncogene homolog 1 (avian)
+ENSG00000134954	NM_001143820	Homo sapiens	v-ets erythroblastosis virus E26 oncogene homolog 1 (avian)
+ENSG00000134954	NM_001162422	Homo sapiens	v-ets erythroblastosis virus E26 oncogene homolog 1 (avian)
+ENSG00000185669	NM_178310	Homo sapiens	snail homolog 3 (Drosophila)
+ENSG00000178187	NM_182594	Homo sapiens	zinc finger protein 454
+ENSG00000185668	NM_002699	Homo sapiens	POU class 3 homeobox 1
+ENSG00000102935	NM_015069	Homo sapiens	zinc finger protein 423
+ENSG00000155966	NM_001170628	Homo sapiens	AF4/FMR2 family, member 2
+ENSG00000155966	NM_001169125	Homo sapiens	AF4/FMR2 family, member 2
+ENSG00000155966	NM_001169124	Homo sapiens	AF4/FMR2 family, member 2
+ENSG00000155966	NM_001169122	Homo sapiens	AF4/FMR2 family, member 2
+ENSG00000155966	NM_001169123	Homo sapiens	AF4/FMR2 family, member 2
+ENSG00000155966	NM_002025	Homo sapiens	AF4/FMR2 family, member 2
+ENSG00000095951	NM_002114	Homo sapiens	human immunodeficiency virus type I enhancer binding protein 1
+ENSG00000171970	NM_173480	Homo sapiens	zinc finger protein 57
+ENSG00000101883	NM_139282	Homo sapiens	Rhox homeobox family, member 1
+ENSG00000129654	NM_001454	Homo sapiens	forkhead box J1
+ENSG00000171956	NM_012182	Homo sapiens	forkhead box B1
+ENSG00000136826	NM_004235	Homo sapiens	Kruppel-like factor 4 (gut)
+ENSG00000120798	NM_001032287	Homo sapiens	nuclear receptor subfamily 2, group C, member 1
+ENSG00000120798	NM_003297	Homo sapiens	nuclear receptor subfamily 2, group C, member 1
+ENSG00000120798	NM_001127362	Homo sapiens	nuclear receptor subfamily 2, group C, member 1
+ENSG00000177463	NM_003298	Homo sapiens	nuclear receptor subfamily 2, group C, member 2
+ENSG00000067955	NM_022845	Homo sapiens	core-binding factor, beta subunit
+ENSG00000067955	NM_001755	Homo sapiens	core-binding factor, beta subunit
+ENSG00000169083	NM_000044	Homo sapiens	androgen receptor
+ENSG00000169083	NM_001011645	Homo sapiens	androgen receptor
+ENSG00000162772	NM_001674	Homo sapiens	activating transcription factor 3
+ENSG00000162772	NM_001030287	Homo sapiens	activating transcription factor 3
+ENSG00000162772	NM_001040619	Homo sapiens	activating transcription factor 3
+ENSG00000162772	NM_004024	Homo sapiens	activating transcription factor 3
+ENSG00000117713	NM_139135	Homo sapiens	AT rich interactive domain 1A (SWI-like)
+ENSG00000117713	NM_006015	Homo sapiens	AT rich interactive domain 1A (SWI-like)
+ENSG00000169297	NM_000475	Homo sapiens	nuclear receptor subfamily 0, group B, member 1
+ENSG00000181449	NM_003106	Homo sapiens	SRY (sex determining region Y)-box 2
+ENSG00000214534	XM_002348264	Homo sapiens	similar to Putative zinc finger protein 705H
+ENSG00000214534	XM_001724873	Homo sapiens	similar to Putative zinc finger protein 705H
+ENSG00000214534	XM_001723234	Homo sapiens	similar to Putative zinc finger protein 705H
+ENSG00000122859	NM_020999	Homo sapiens	neurogenin 3
+ENSG00000177468	NM_175747	Homo sapiens	oligodendrocyte transcription factor 3
+ENSG00000176946	NM_001164356	Homo sapiens	THAP domain containing 4
+ENSG00000176946	NM_015963	Homo sapiens	THAP domain containing 4
+ENSG00000115844	NM_004405	Homo sapiens	distal-less homeobox 2
+ENSG00000016082	NM_002202	Homo sapiens	ISL LIM homeobox 1
+ENSG00000178175	NM_152625	Homo sapiens	zinc finger protein 366
+ENSG00000181450	NM_178549	Homo sapiens	zinc finger protein 678
+ENSG00000178177	NM_001166139	Homo sapiens	ligand dependent nuclear receptor corepressor-like
+ENSG00000178177	NM_153686	Homo sapiens	ligand dependent nuclear receptor corepressor-like
+ENSG00000083307	NM_024915	Homo sapiens	grainyhead-like 2 (Drosophila)
+ENSG00000115738	NM_002166	Homo sapiens	inhibitor of DNA binding 2, dominant negative helix-loop-helix protein
+ENSG00000170122	NM_207305	Homo sapiens	forkhead box D4
+ENSG00000109320	NM_003998	Homo sapiens	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1
+ENSG00000109320	NM_001165412	Homo sapiens	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1
+ENSG00000218891	NM_152600	Homo sapiens	zinc finger protein 579
+ENSG00000125107	NM_016284	Homo sapiens	CCR4-NOT transcription complex, subunit 1
+ENSG00000125107	NM_206999	Homo sapiens	CCR4-NOT transcription complex, subunit 1
+ENSG00000180787	NM_153018	Homo sapiens	zinc finger protein 3 homolog (mouse)
+ENSG00000185670	NM_024784	Homo sapiens	zinc finger and BTB domain containing 3
+ENSG00000172262	NM_003432	Homo sapiens	zinc finger protein 131
+ENSG00000204859	NM_005341	Homo sapiens	zinc finger and BTB domain containing 48
+ENSG00000028277	NM_002698	Homo sapiens	POU class 2 homeobox 2
+ENSG00000162599	NM_005595	Homo sapiens	nuclear factor I/A
+ENSG00000162599	NM_001145512	Homo sapiens	nuclear factor I/A
+ENSG00000162599	NM_001145511	Homo sapiens	nuclear factor I/A
+ENSG00000162599	NM_001134673	Homo sapiens	nuclear factor I/A
+ENSG00000012504	NM_005123	Homo sapiens	nuclear receptor subfamily 1, group H, member 4
+ENSG00000196767	NM_000307	Homo sapiens	POU class 3 homeobox 4
+ENSG00000181666	NM_181786	Homo sapiens	GLI-Kruppel family member HKR1
+ENSG00000188816	NM_005519	Homo sapiens	H6 family homeobox 2
+ENSG00000117036	NM_001145312	Homo sapiens	ets variant 3
+ENSG00000117036	NM_005240	Homo sapiens	ets variant 3
+ENSG00000108813	NM_138281	Homo sapiens	distal-less homeobox 4
+ENSG00000108813	NM_001934	Homo sapiens	distal-less homeobox 4
+ENSG00000122882	NM_001135752	Homo sapiens	ecdysoneless homolog (Drosophila)
+ENSG00000122882	NM_001135753	Homo sapiens	ecdysoneless homolog (Drosophila)
+ENSG00000122882	NM_007265	Homo sapiens	ecdysoneless homolog (Drosophila)
+ENSG00000059728	NM_002357	Homo sapiens	MAX dimerization protein 1
+ENSG00000180535	NM_177455	Homo sapiens	basic helix-loop-helix family, member a15
+ENSG00000010539	NM_003454	Homo sapiens	zinc finger protein 200
+ENSG00000010539	NM_198087	Homo sapiens	zinc finger protein 200
+ENSG00000010539	NM_001145446	Homo sapiens	zinc finger protein 200
+ENSG00000010539	NM_001145447	Homo sapiens	zinc finger protein 200
+ENSG00000010539	NM_001145448	Homo sapiens	zinc finger protein 200
+ENSG00000010539	NM_198088	Homo sapiens	zinc finger protein 200
+ENSG00000172273	NM_198971	Homo sapiens	histone H4 transcription factor
+ENSG00000172273	NM_015517	Homo sapiens	histone H4 transcription factor
+ENSG00000162714	NM_032752	Homo sapiens	zinc finger protein 496
+ENSG00000204828	NM_199244	Homo sapiens	forkhead box D4-like 2; forkhead box D4-like 4
+ENSG00000204828	NM_001099279	Homo sapiens	forkhead box D4-like 2; forkhead box D4-like 4
+ENSG00000169981	NM_003420	Homo sapiens	zinc finger protein 35
+ENSG00000125482	NM_007344	Homo sapiens	transcription termination factor, RNA polymerase I
+ENSG00000129173	NM_024680	Homo sapiens	E2F transcription factor 8
+ENSG00000148826	NM_177400	Homo sapiens	NK6 homeobox 2
+ENSG00000172818	NM_004561	Homo sapiens	ovo-like 1(Drosophila)
+ENSG00000164104	NM_001130688	Homo sapiens	high-mobility group box 2
+ENSG00000164104	NM_002129	Homo sapiens	high-mobility group box 2
+ENSG00000164104	NM_001130689	Homo sapiens	high-mobility group box 2
+ENSG00000172819	NM_000966	Homo sapiens	retinoic acid receptor, gamma
+ENSG00000172819	NM_001042728	Homo sapiens	retinoic acid receptor, gamma
+ENSG00000198753	NM_001163257	Homo sapiens	plexin B3
+ENSG00000198753	NM_005393	Homo sapiens	plexin B3
+ENSG00000060138	NM_003651	Homo sapiens	cold shock domain protein A; cold shock domain protein A pseudogene 1
+ENSG00000060138	NM_001145426	Homo sapiens	cold shock domain protein A; cold shock domain protein A pseudogene 1
+ENSG00000120094	NM_002144	Homo sapiens	homeobox B1
+ENSG00000132170	NM_005037	Homo sapiens	peroxisome proliferator-activated receptor gamma
+ENSG00000132170	NM_015869	Homo sapiens	peroxisome proliferator-activated receptor gamma
+ENSG00000132170	NM_138711	Homo sapiens	peroxisome proliferator-activated receptor gamma
+ENSG00000132170	NM_138712	Homo sapiens	peroxisome proliferator-activated receptor gamma
+ENSG00000164107	NM_021973	Homo sapiens	heart and neural crest derivatives expressed 2
+ENSG00000120093	NM_002146	Homo sapiens	homeobox B3
+ENSG00000163848	NM_021964	Homo sapiens	zinc finger protein 148
+ENSG00000085644	NM_004220	Homo sapiens	zinc finger protein 213
+ENSG00000085644	NM_001134655	Homo sapiens	zinc finger protein 213
+ENSG00000140382	NM_018200	Homo sapiens	high-mobility group 20A
+ENSG00000214513	NM_001134462	Homo sapiens	notochord homeobox
+ENSG00000172006	NM_001102651	Homo sapiens	zinc finger protein 554
+ENSG00000135903	NM_000438	Homo sapiens	paired box 3
+ENSG00000135903	NM_181457	Homo sapiens	paired box 3
+ENSG00000135903	NM_181458	Homo sapiens	paired box 3
+ENSG00000135903	NM_181459	Homo sapiens	paired box 3
+ENSG00000135903	NM_181460	Homo sapiens	paired box 3
+ENSG00000135903	NM_001127366	Homo sapiens	paired box 3
+ENSG00000135903	NM_181461	Homo sapiens	paired box 3
+ENSG00000135903	NM_013942	Homo sapiens	paired box 3
+ENSG00000147180	NM_021998	Homo sapiens	zinc finger protein 711
+ENSG00000122877	NM_001136179	Homo sapiens	early growth response 2
+ENSG00000122877	NM_001136177	Homo sapiens	early growth response 2
+ENSG00000122877	NM_001136178	Homo sapiens	early growth response 2
+ENSG00000122877	NM_000399	Homo sapiens	early growth response 2
+ENSG00000196757	NM_144566	Homo sapiens	zinc finger protein 700
+ENSG00000172000	NM_024967	Homo sapiens	zinc finger protein 556
+ENSG00000110693	NM_033326	Homo sapiens	SRY (sex determining region Y)-box 6
+ENSG00000110693	NM_001145811	Homo sapiens	SRY (sex determining region Y)-box 6
+ENSG00000110693	NM_017508	Homo sapiens	SRY (sex determining region Y)-box 6
+ENSG00000110693	NM_001145819	Homo sapiens	SRY (sex determining region Y)-box 6
+ENSG00000166188	NM_020807	Homo sapiens	zinc finger protein 319
+ENSG00000105497	NM_007147	Homo sapiens	zinc finger protein 175
+ENSG00000130700	NM_080473	Homo sapiens	GATA binding protein 5
+ENSG00000162992	NM_002500	Homo sapiens	neurogenic differentiation 1
+ENSG00000182318	NM_181846	Homo sapiens	zinc finger and SCAN domain containing 22
+ENSG00000075891	NM_000278	Homo sapiens	paired box 2
+ENSG00000075891	NM_003990	Homo sapiens	paired box 2
+ENSG00000075891	NM_003989	Homo sapiens	paired box 2
+ENSG00000075891	NM_003988	Homo sapiens	paired box 2
+ENSG00000075891	NM_003987	Homo sapiens	paired box 2
+ENSG00000125492	NM_020064	Homo sapiens	BarH-like homeobox 1
+ENSG00000180532	NM_152677	Homo sapiens	zinc finger and SCAN domain containing 4
+ENSG00000122482	NM_201269	Homo sapiens	zinc finger protein 644
+ENSG00000122482	NM_016620	Homo sapiens	zinc finger protein 644
+ENSG00000122482	NM_032186	Homo sapiens	zinc finger protein 644
+ENSG00000197385	NM_001137674	Homo sapiens	zinc finger protein 860
+ENSG00000146592	NM_001011666	Homo sapiens	cAMP responsive element binding protein 5
+ENSG00000146592	NM_182899	Homo sapiens	cAMP responsive element binding protein 5
+ENSG00000146592	NM_004904	Homo sapiens	cAMP responsive element binding protein 5
+ENSG00000146592	NM_182898	Homo sapiens	cAMP responsive element binding protein 5
+ENSG00000221994	NM_001037735	Homo sapiens	zinc finger protein 630
+ENSG00000163067	NM_021088	Homo sapiens	zinc finger protein 2
+ENSG00000163067	NM_001017396	Homo sapiens	zinc finger protein 2
+ENSG00000204604	NM_199132	Homo sapiens	zinc finger protein 468
+ENSG00000204604	NM_001008801	Homo sapiens	zinc finger protein 468
+ENSG00000112685	NM_018303	Homo sapiens	exocyst complex component 2
+ENSG00000163064	NM_001426	Homo sapiens	engrailed homeobox 1
+ENSG00000117010	NM_152373	Homo sapiens	zinc finger protein 684
+ENSG00000135100	NM_000545	Homo sapiens	HNF1 homeobox A
+ENSG00000142611	NM_199454	Homo sapiens	PR domain containing 16
+ENSG00000142611	NM_022114	Homo sapiens	PR domain containing 16
+ENSG00000069011	NM_002653	Homo sapiens	paired-like homeodomain 1
+ENSG00000173917	NM_002145	Homo sapiens	homeobox B2
+ENSG00000076356	NM_025179	Homo sapiens	plexin A2
+ENSG00000114554	NM_032242	Homo sapiens	plexin A1
+ENSG00000172292	NM_203463	Homo sapiens	LAG1 homolog, ceramide synthase 6
+ENSG00000130711	NM_021619	Homo sapiens	PR domain containing 12
+ENSG00000149948	NM_003484	Homo sapiens	high mobility group AT-hook 2
+ENSG00000149948	NM_003483	Homo sapiens	high mobility group AT-hook 2
+ENSG00000189190	NM_198457	Homo sapiens	zinc finger protein 600
+ENSG00000129152	NM_002478	Homo sapiens	myogenic differentiation 1
+ENSG00000173153	NM_004451	Homo sapiens	estrogen-related receptor alpha
+ENSG00000197372	NM_138330	Homo sapiens	zinc finger protein 675
+ENSG00000214717	NM_001171135	Homo sapiens	zinc finger, BED-type containing 1
+ENSG00000214717	NM_001171136	Homo sapiens	zinc finger, BED-type containing 1
+ENSG00000214717	NM_004729	Homo sapiens	zinc finger, BED-type containing 1
+ENSG00000184302	NM_007374	Homo sapiens	SIX homeobox 6
+ENSG00000204612	NM_001013735	Homo sapiens	forkhead box B2
+ENSG00000177426	NM_173211	Homo sapiens	TGFB-induced factor homeobox 1
+ENSG00000177426	NM_173210	Homo sapiens	TGFB-induced factor homeobox 1
+ENSG00000177426	NM_003244	Homo sapiens	TGFB-induced factor homeobox 1
+ENSG00000177426	NM_174886	Homo sapiens	TGFB-induced factor homeobox 1
+ENSG00000177426	NM_173209	Homo sapiens	TGFB-induced factor homeobox 1
+ENSG00000177426	NM_173208	Homo sapiens	TGFB-induced factor homeobox 1
+ENSG00000177426	NM_173207	Homo sapiens	TGFB-induced factor homeobox 1
+ENSG00000177426	NM_170695	Homo sapiens	TGFB-induced factor homeobox 1
+ENSG00000204611	NM_178523	Homo sapiens	zinc finger protein 616
+ENSG00000103199	NM_021646	Homo sapiens	zinc finger protein 500
+ENSG00000181690	NM_001114634	Homo sapiens	pleiomorphic adenoma gene 1
+ENSG00000181690	NM_001114635	Homo sapiens	pleiomorphic adenoma gene 1
+ENSG00000181690	NM_002655	Homo sapiens	pleiomorphic adenoma gene 1
+ENSG00000135111	NM_016569	Homo sapiens	T-box 3
+ENSG00000135111	NM_005996	Homo sapiens	T-box 3
+ENSG00000170166	NM_014621	Homo sapiens	homeobox D4
+ENSG00000158773	NM_007122	Homo sapiens	upstream transcription factor 1
+ENSG00000158773	NM_207005	Homo sapiens	upstream transcription factor 1
+ENSG00000181135	NM_001100599	Homo sapiens	zinc finger protein 707
+ENSG00000181135	NM_001100598	Homo sapiens	zinc finger protein 707
+ENSG00000181135	NM_173831	Homo sapiens	zinc finger protein 707
+ENSG00000198740	NM_014897	Homo sapiens	zinc finger protein 652
+ENSG00000198740	NM_001145365	Homo sapiens	zinc finger protein 652
+ENSG00000175213	NM_024741	Homo sapiens	zinc finger protein 408
+ENSG00000025156	NM_004506	Homo sapiens	heat shock transcription factor 2
+ENSG00000025156	NM_001135564	Homo sapiens	heat shock transcription factor 2
+ENSG00000171291	NM_152262	Homo sapiens	zinc finger protein 439
+ENSG00000197363	NM_213605	Homo sapiens	zinc finger protein 517
+ENSG00000189180	NM_006954	Homo sapiens	zinc finger protein 33A
+ENSG00000189180	NM_006974	Homo sapiens	zinc finger protein 33A
+ENSG00000197362	NM_152411	Homo sapiens	zinc finger protein 786
+ENSG00000171295	NM_152357	Homo sapiens	zinc finger protein 440
+ENSG00000197360	NM_001098626	Homo sapiens	zinc finger protein 98 (F7175); keratin associated protein 1-1; zinc finger protein 492; zinc finger protein 849 pseudogene
+ENSG00000197360	NM_030967	Homo sapiens	zinc finger protein 98 (F7175); keratin associated protein 1-1; zinc finger protein 492; zinc finger protein 849 pseudogene
+ENSG00000197360	NM_020855	Homo sapiens	zinc finger protein 98 (F7175); keratin associated protein 1-1; zinc finger protein 492; zinc finger protein 849 pseudogene
+ENSG00000143614	NM_020699	Homo sapiens	GATA zinc finger domain containing 2B
+ENSG00000146587	NM_021163	Homo sapiens	hypothetical LOC389458; RB-associated KRAB zinc finger
+ENSG00000106571	NM_000168	Homo sapiens	GLI family zinc finger 3
+ENSG00000162086	NM_153028	Homo sapiens	zinc finger protein 75a
+ENSG00000173041	NM_001130022	Homo sapiens	zinc finger protein 680
+ENSG00000173041	NM_178558	Homo sapiens	zinc finger protein 680
+ENSG00000171056	NM_031439	Homo sapiens	SRY (sex determining region Y)-box 7
+ENSG00000168826	NM_145291	Homo sapiens	zinc finger protein 509
+ENSG00000161914	NM_138783	Homo sapiens	zinc finger protein 653
+ENSG00000153779	NM_138960	Homo sapiens	TGFB-induced factor homeobox 2-like, X-linked
+ENSG00000108509	NM_001171167	Homo sapiens	calmodulin binding transcription activator 2
+ENSG00000108509	NM_001171168	Homo sapiens	calmodulin binding transcription activator 2
+ENSG00000108509	NM_015099	Homo sapiens	calmodulin binding transcription activator 2
+ENSG00000108509	NM_001171166	Homo sapiens	calmodulin binding transcription activator 2
+ENSG00000149054	NM_013250	Homo sapiens	zinc finger protein 215
+ENSG00000120068	NM_024016	Homo sapiens	homeobox B8
+ENSG00000175395	NM_145011	Homo sapiens	zinc finger protein 25
+ENSG00000189164	NM_032453	Homo sapiens	zinc finger protein 527
+ENSG00000111704	NM_024865	Homo sapiens	Nanog homeobox pseudogene 8; Nanog homeobox
+ENSG00000149050	NM_013249	Homo sapiens	zinc finger protein 214
+ENSG00000171817	NM_152606	Homo sapiens	zinc finger protein 540
+ENSG00000171817	NM_001172225	Homo sapiens	zinc finger protein 540
+ENSG00000171817	NM_001172226	Homo sapiens	zinc finger protein 540
+ENSG00000160062	NM_001040441	Homo sapiens	zinc finger and BTB domain containing 8A
+ENSG00000165462	NM_005169	Homo sapiens	paired-like homeobox 2a
+ENSG00000168813	NM_014910	Homo sapiens	zinc finger protein 507
+ENSG00000168813	NM_001136156	Homo sapiens	zinc finger protein 507
+ENSG00000188295	NM_024804	Homo sapiens	zinc finger protein 669
+ENSG00000188295	NM_001142572	Homo sapiens	zinc finger protein 669
+ENSG00000043355	NM_007129	Homo sapiens	Zic family member 2 (odd-paired homolog, Drosophila)
+ENSG00000134046	NM_003927	Homo sapiens	methyl-CpG binding domain protein 2
+ENSG00000134046	NM_015832	Homo sapiens	methyl-CpG binding domain protein 2
+ENSG00000197472	NM_020394	Homo sapiens	zinc finger protein 695
+ENSG00000126456	NM_001571	Homo sapiens	interferon regulatory factor 3
+ENSG00000115112	NM_014553	Homo sapiens	transcription factor CP2-like 1
+ENSG00000113658	NM_005903	Homo sapiens	SMAD family member 5
+ENSG00000113658	NM_001001419	Homo sapiens	SMAD family member 5
+ENSG00000113658	NM_001001420	Homo sapiens	SMAD family member 5
+ENSG00000167562	NM_018260	Homo sapiens	zinc finger protein 701
+ENSG00000019549	NM_003068	Homo sapiens	snail homolog 2 (Drosophila)
+ENSG00000117505	NM_001938	Homo sapiens	down-regulator of transcription 1, TBP-binding (negative cofactor 2)
+ENSG00000115507	NM_014562	Homo sapiens	orthodenticle homeobox 1
+ENSG00000142599	NM_001042682	Homo sapiens	arginine-glutamic acid dipeptide (RE) repeats
+ENSG00000142599	NM_001042681	Homo sapiens	arginine-glutamic acid dipeptide (RE) repeats
+ENSG00000142599	NM_012102	Homo sapiens	arginine-glutamic acid dipeptide (RE) repeats
+ENSG00000123268	NM_005171	Homo sapiens	activating transcription factor 1
+ENSG00000188290	NM_001142467	Homo sapiens	hairy and enhancer of split 4 (Drosophila)
+ENSG00000188290	NM_021170	Homo sapiens	hairy and enhancer of split 4 (Drosophila)
+ENSG00000175387	NM_001135937	Homo sapiens	SMAD family member 2
+ENSG00000175387	NM_001003652	Homo sapiens	SMAD family member 2
+ENSG00000175387	NM_005901	Homo sapiens	SMAD family member 2
+ENSG00000171634	NM_004459	Homo sapiens	bromodomain PHD finger transcription factor
+ENSG00000171634	NM_182641	Homo sapiens	bromodomain PHD finger transcription factor
+ENSG00000159882	NM_006300	Homo sapiens	zinc finger protein 230
+ENSG00000171827	NM_144694	Homo sapiens	zinc finger protein 570
+ENSG00000159885	NM_001129996	Homo sapiens	zinc finger protein 222
+ENSG00000159885	NM_013360	Homo sapiens	zinc finger protein 222
+ENSG00000165495	NM_022062	Homo sapiens	PBX/knotted 1 homeobox 2
+ENSG00000048405	NM_176814	Homo sapiens	zinc finger protein 800
+ENSG00000084093	NM_005612	Homo sapiens	RE1-silencing transcription factor
+ENSG00000173976	NM_032753	Homo sapiens	retina and anterior neural fold homeobox 2
+ENSG00000168152	NM_024672	Homo sapiens	THAP domain containing 9
+ENSG00000052850	NM_021926	Homo sapiens	ALX homeobox 4
+ENSG00000010030	NM_016135	Homo sapiens	ets variant 7
+ENSG00000173068	NM_017637	Homo sapiens	basonuclin 2
+ENSG00000107807	NM_005521	Homo sapiens	T-cell leukemia homeobox 1
+ENSG00000153048	NM_001042476	Homo sapiens	calcium regulated heat stable protein 1, 24kDa
+ENSG00000153048	NM_014316	Homo sapiens	calcium regulated heat stable protein 1, 24kDa
+ENSG00000164600	NM_022728	Homo sapiens	neurogenic differentiation 6
+ENSG00000105392	NM_000554	Homo sapiens	cone-rod homeobox
+ENSG00000197647	NM_001080411	Homo sapiens	zinc finger protein 433
+ENSG00000187187	NM_178544	Homo sapiens	zinc finger protein 546
+ENSG00000176256	NM_145205	Homo sapiens	high-mobility group box 4
+ENSG00000176256	NM_001008728	Homo sapiens	high-mobility group box 4
+ENSG00000134438	NM_013435	Homo sapiens	retina and anterior neural fold homeobox
+ENSG00000189144	NM_152360	Homo sapiens	zinc finger protein 573
+ENSG00000120087	NM_004502	Homo sapiens	homeobox B7
+ENSG00000124920	NM_013279	Homo sapiens	chromosome 11 open reading frame 9
+ENSG00000124920	NM_001127392	Homo sapiens	chromosome 11 open reading frame 9
+ENSG00000137203	NM_001032280	Homo sapiens	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)
+ENSG00000137203	NM_003220	Homo sapiens	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)
+ENSG00000137203	NM_001042425	Homo sapiens	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)
+ENSG00000177508	NM_024336	Homo sapiens	iroquois homeobox 3
+ENSG00000108511	NM_018952	Homo sapiens	homeobox B6
+ENSG00000171649	NM_001010879	Homo sapiens	zinc finger protein interacting with K protein 1 homolog (mouse)
+ENSG00000120837	NM_006166	Homo sapiens	nuclear transcription factor Y, beta
+ENSG00000008083	NM_004973	Homo sapiens	jumonji, AT rich interactive domain 2
+ENSG00000072310	NM_001005291	Homo sapiens	sterol regulatory element binding transcription factor 1
+ENSG00000072310	NM_004176	Homo sapiens	sterol regulatory element binding transcription factor 1
+ENSG00000187559	NM_199135	Homo sapiens	forkhead box D4-like 3
+ENSG00000146757	NM_152626	Homo sapiens	zinc finger protein 92
+ENSG00000146757	NM_007139	Homo sapiens	zinc finger protein 92
+ENSG00000162702	NM_012482	Homo sapiens	zinc finger protein 281
+ENSG00000120075	NM_002147	Homo sapiens	homeobox B5
+ENSG00000178386	NM_013361	Homo sapiens	zinc finger protein 223
+ENSG00000107249	NM_152629	Homo sapiens	GLIS family zinc finger 3
+ENSG00000107249	NM_001042413	Homo sapiens	GLIS family zinc finger 3
+ENSG00000188033	NM_020714	Homo sapiens	zinc finger protein 490
+ENSG00000020633	NM_001031680	Homo sapiens	runt-related transcription factor 3
+ENSG00000020633	NM_004350	Homo sapiens	runt-related transcription factor 3
+ENSG00000126012	NM_004187	Homo sapiens	lysine (K)-specific demethylase 5C
+ENSG00000126012	NM_001146702	Homo sapiens	lysine (K)-specific demethylase 5C
+ENSG00000031544	NM_014249	Homo sapiens	nuclear receptor subfamily 2, group E, member 3
+ENSG00000031544	NM_016346	Homo sapiens	nuclear receptor subfamily 2, group E, member 3
+ENSG00000181472	NM_020861	Homo sapiens	zinc finger and BTB domain containing 2
+ENSG00000102554	NM_001730	Homo sapiens	Kruppel-like factor 5 (intestinal)
+ENSG00000105672	NM_014209	Homo sapiens	ets variant 2
+ENSG00000101190	NM_006602	Homo sapiens	transcription factor-like 5 (basic helix-loop-helix)
+ENSG00000178150	NM_153608	Homo sapiens	zinc finger protein 114
+ENSG00000189120	NM_199262	Homo sapiens	Sp6 transcription factor
+ENSG00000123411	NM_022465	Homo sapiens	IKAROS family zinc finger 4 (Eos)
+ENSG00000106536	NM_001166018	Homo sapiens	POU class 6 homeobox 2
+ENSG00000106536	NM_007252	Homo sapiens	POU class 6 homeobox 2
+ENSG00000108788	NM_170607	Homo sapiens	MAX-like protein X
+ENSG00000108788	NM_198205	Homo sapiens	MAX-like protein X
+ENSG00000108788	NM_198204	Homo sapiens	MAX-like protein X
+ENSG00000188785	NM_152909	Homo sapiens	zinc finger protein 548
+ENSG00000188786	NM_005955	Homo sapiens	metal-regulatory transcription factor 1
+ENSG00000173757	NM_012448	Homo sapiens	signal transducer and activator of transcription 5B
+ENSG00000005102	NM_001040002	Homo sapiens	mesenchyme homeobox 1
+ENSG00000005102	NM_013999	Homo sapiens	mesenchyme homeobox 1
+ENSG00000005102	NM_004527	Homo sapiens	mesenchyme homeobox 1
+ENSG00000125816	NM_033176	Homo sapiens	NK2 homeobox 4
+ENSG00000096654	NM_007149	Homo sapiens	zinc finger protein 184
+ENSG00000115350	NM_019896	Homo sapiens	polymerase (DNA-directed), epsilon 4 (p12 subunit)
+ENSG00000161551	NM_001135590	Homo sapiens	zinc finger protein 577
+ENSG00000161551	NM_032679	Homo sapiens	zinc finger protein 577
+ENSG00000125812	NM_022482	Homo sapiens	GDNF-inducible zinc finger protein 1
+ENSG00000125813	NM_006192	Homo sapiens	paired box 1
+ENSG00000171872	NM_173484	Homo sapiens	Kruppel-like factor 17
+ENSG00000134852	NM_004898	Homo sapiens	clock homolog (mouse)
+ENSG00000168661	NM_194325	Homo sapiens	zinc finger protein 30
+ENSG00000168661	NM_001099438	Homo sapiens	zinc finger protein 30
+ENSG00000168661	NM_001099437	Homo sapiens	zinc finger protein 30
+ENSG00000143190	NM_002697	Homo sapiens	POU class 2 homeobox 1
+ENSG00000176009	NM_020646	Homo sapiens	achaete-scute complex homolog 3 (Drosophila)
+ENSG00000142409	NM_001002836	Homo sapiens	zinc finger protein 787
+ENSG00000123685	NM_018664	Homo sapiens	basic leucine zipper transcription factor, ATF-like 3
+ENSG00000131127	NM_003441	Homo sapiens	zinc finger protein 141
+ENSG00000187772	NM_001004317	Homo sapiens	lin-28 homolog B (C. elegans)
+ENSG00000172493	NM_005935	Homo sapiens	AF4/FMR2 family, member 1
+ENSG00000172493	NM_001166693	Homo sapiens	AF4/FMR2 family, member 1
+ENSG00000155090	NM_001032282	Homo sapiens	Kruppel-like factor 10
+ENSG00000155090	NM_005655	Homo sapiens	Kruppel-like factor 10
+ENSG00000106546	NM_001621	Homo sapiens	aryl hydrocarbon receptor
+ENSG00000116809	NM_003443	Homo sapiens	zinc finger and BTB domain containing 17
+ENSG00000168468	NM_004381	Homo sapiens	activating transcription factor 6 beta
+ENSG00000168468	NM_001136153	Homo sapiens	activating transcription factor 6 beta
+ENSG00000012817	NM_001146705	Homo sapiens	lysine (K)-specific demethylase 5D
+ENSG00000012817	NM_001146706	Homo sapiens	lysine (K)-specific demethylase 5D
+ENSG00000012817	NM_004653	Homo sapiens	lysine (K)-specific demethylase 5D
+ENSG00000143390	NM_001025603	Homo sapiens	regulatory factor X, 5 (influences HLA class II expression)
+ENSG00000143390	NM_000449	Homo sapiens	regulatory factor X, 5 (influences HLA class II expression)
+ENSG00000142556	NM_025040	Homo sapiens	zinc finger protein 614
+ENSG00000123405	NM_006163	Homo sapiens	nuclear factor (erythroid-derived 2), 45kDa
+ENSG00000123405	NM_001136023	Homo sapiens	nuclear factor (erythroid-derived 2), 45kDa
+ENSG00000123407	NM_173860	Homo sapiens	homeobox C12
+ENSG00000164900	NM_001098834	Homo sapiens	gastrulation brain homeobox 1
+ENSG00000116017	NM_005224	Homo sapiens	AT rich interactive domain 3A (BRIGHT-like)
+ENSG00000119950	NM_130439	Homo sapiens	MAX interactor 1
+ENSG00000119950	NM_001008541	Homo sapiens	MAX interactor 1
+ENSG00000119950	NM_005962	Homo sapiens	MAX interactor 1
+ENSG00000184517	NM_153688	Homo sapiens	zinc finger protein 1 homolog (mouse)
+ENSG00000187786	NM_001008271	Homo sapiens	scleraxis homolog A (mouse); scleraxis homolog B (mouse)
+ENSG00000187786	NM_001080514	Homo sapiens	scleraxis homolog A (mouse); scleraxis homolog B (mouse)
+ENSG00000143365	NM_005060	Homo sapiens	RAR-related orphan receptor C
+ENSG00000143365	NM_001001523	Homo sapiens	RAR-related orphan receptor C
+ENSG00000175727	NM_014938	Homo sapiens	MLX interacting protein
+ENSG00000105698	NM_003367	Homo sapiens	upstream transcription factor 2, c-fos interacting
+ENSG00000105698	NM_207291	Homo sapiens	upstream transcription factor 2, c-fos interacting
+ENSG00000131115	NM_182490	Homo sapiens	zinc finger protein 227
+ENSG00000143578	NM_130898	Homo sapiens	cAMP responsive element binding protein 3-like 4
+ENSG00000198298	NM_145312	Homo sapiens	zinc finger protein 485
+ENSG00000188283	NM_152604	Homo sapiens	zinc finger protein 383
+ENSG00000006047	NM_015982	Homo sapiens	Y box binding protein 2
+ENSG00000161940	NM_181844	Homo sapiens	B-cell CLL/lymphoma 6, member B (zinc finger protein)
+ENSG00000106511	NM_005924	Homo sapiens	mesenchyme homeobox 2
+ENSG00000116819	NM_178548	Homo sapiens	transcription factor AP-2 epsilon (activating enhancer binding protein 2 epsilon)
+ENSG00000162924	NM_002908	Homo sapiens	v-rel reticuloendotheliosis viral oncogene homolog (avian)
+ENSG00000041988	NM_138350	Homo sapiens	THAP domain containing, apoptosis associated protein 3
+ENSG00000178338	NM_058230	Homo sapiens	zinc finger protein 354B
+ENSG00000186660	NM_053023	Homo sapiens	zinc finger protein 91 homolog (mouse); ZFP91-CNTF readthrough transcript; ciliary neurotrophic factor
+ENSG00000186660	NM_000614	Homo sapiens	zinc finger protein 91 homolog (mouse); ZFP91-CNTF readthrough transcript; ciliary neurotrophic factor
+ENSG00000165259	NM_144657	Homo sapiens	highly divergent homeobox
+ENSG00000168874	NM_032827	Homo sapiens	atonal homolog 8 (Drosophila)
+ENSG00000057935	NM_020744	Homo sapiens	metastasis associated 1 family, member 3
+ENSG00000168875	NM_004189	Homo sapiens	SRY (sex determining region Y)-box 14
+ENSG00000176024	NM_024840	Homo sapiens	zinc finger protein 613
+ENSG00000176024	NM_001031721	Homo sapiens	zinc finger protein 613
+ENSG00000143379	NM_012432	Homo sapiens	SET domain, bifurcated 1
+ENSG00000143379	NM_001145415	Homo sapiens	SET domain, bifurcated 1
+ENSG00000164916	NM_001037165	Homo sapiens	forkhead box K1
+ENSG00000143171	NM_006917	Homo sapiens	retinoid X receptor, gamma
+ENSG00000143171	NM_001009598	Homo sapiens	retinoid X receptor, gamma
+ENSG00000171606	NM_016325	Homo sapiens	zinc finger protein 274
+ENSG00000171606	NM_016324	Homo sapiens	zinc finger protein 274
+ENSG00000171606	NM_133502	Homo sapiens	zinc finger protein 274
+ENSG00000005513	NM_014587	Homo sapiens	SRY (sex determining region Y)-box 8
+ENSG00000152475	NM_138466	Homo sapiens	zinc finger protein 837
+ENSG00000152475	NM_001129730	Homo sapiens	zinc finger protein 837
+ENSG00000187792	NM_021916	Homo sapiens	zinc finger protein 70
+ENSG00000143373	NM_020832	Homo sapiens	zinc finger protein 687
+ENSG00000172888	NM_198484	Homo sapiens	zinc finger protein 621
+ENSG00000172888	NM_001098414	Homo sapiens	zinc finger protein 621
+ENSG00000165244	NM_153695	Homo sapiens	zinc finger protein 367
+ENSG00000115568	NM_005081	Homo sapiens	zinc finger protein 142
+ENSG00000115568	NM_001105537	Homo sapiens	zinc finger protein 142
+ENSG00000143178	NM_005149	Homo sapiens	T-box 19
+ENSG00000196700	NM_020713	Homo sapiens	zinc finger protein 512B
+ENSG00000095794	NM_182719	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_182717	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_182770	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_182718	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_182772	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_182771	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_183013	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_183012	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_183011	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_182769	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_001881	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_181571	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_182723	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_182853	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_182722	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_182850	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_182725	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_182724	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_183060	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_182721	Homo sapiens	cAMP responsive element modulator
+ENSG00000095794	NM_182720	Homo sapiens	cAMP responsive element modulator
+ENSG00000188686	NM_001008271	Homo sapiens	scleraxis homolog A (mouse); scleraxis homolog B (mouse)
+ENSG00000188686	NM_001080514	Homo sapiens	scleraxis homolog A (mouse); scleraxis homolog B (mouse)
+ENSG00000077150	NM_001077493	Homo sapiens	nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)
+ENSG00000077150	NM_001077494	Homo sapiens	nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)
+ENSG00000077150	NM_002502	Homo sapiens	nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)
+ENSG00000126003	NM_002657	Homo sapiens	pleiomorphic adenoma gene-like 2; similar to pleiomorphic adenoma gene-like 2
+ENSG00000176222	NM_001033719	Homo sapiens	zinc finger protein 404
+ENSG00000164920	NM_001142462	Homo sapiens	odd-skipped related 2 (Drosophila)
+ENSG00000164920	NM_053001	Homo sapiens	odd-skipped related 2 (Drosophila)
+ENSG00000185869	NM_001037232	Homo sapiens	zinc finger protein 829
+ENSG00000185869	NM_001171979	Homo sapiens	zinc finger protein 829
+ENSG00000111783	NM_002920	Homo sapiens	regulatory factor X, 4 (influences HLA class II expression)
+ENSG00000111783	NM_213594	Homo sapiens	regulatory factor X, 4 (influences HLA class II expression)
+ENSG00000111783	NM_032491	Homo sapiens	regulatory factor X, 4 (influences HLA class II expression)
+ENSG00000196132	NM_004535	Homo sapiens	myelin transcription factor 1
+ENSG00000053254	NM_005197	Homo sapiens	forkhead box N3
+ENSG00000053254	NM_001085471	Homo sapiens	forkhead box N3
+ENSG00000069667	NM_134262	Homo sapiens	RAR-related orphan receptor A
+ENSG00000069667	NM_002943	Homo sapiens	RAR-related orphan receptor A
+ENSG00000069667	NM_134260	Homo sapiens	RAR-related orphan receptor A
+ENSG00000069667	NM_134261	Homo sapiens	RAR-related orphan receptor A
+ENSG00000119725	NM_021188	Homo sapiens	zinc finger protein 410
+ENSG00000112837	NM_001080508	Homo sapiens	T-box 18
+ENSG00000133937	NM_173849	Homo sapiens	goosecoid homeobox
+ENSG00000124782	NM_001003699	Homo sapiens	ras responsive element binding protein 1
+ENSG00000124782	NM_001168344	Homo sapiens	ras responsive element binding protein 1
+ENSG00000124782	NM_001003700	Homo sapiens	ras responsive element binding protein 1
+ENSG00000124782	NM_001003698	Homo sapiens	ras responsive element binding protein 1
+ENSG00000124191	NM_001098798	Homo sapiens	TOX high mobility group box family member 2
+ENSG00000124191	NM_001098797	Homo sapiens	TOX high mobility group box family member 2
+ENSG00000124191	NM_001098796	Homo sapiens	TOX high mobility group box family member 2
+ENSG00000124191	NM_032883	Homo sapiens	TOX high mobility group box family member 2
+ENSG00000168610	NM_213662	Homo sapiens	signal transducer and activator of transcription 3 (acute-phase response factor)
+ENSG00000168610	NM_003150	Homo sapiens	signal transducer and activator of transcription 3 (acute-phase response factor)
+ENSG00000168610	NM_139276	Homo sapiens	signal transducer and activator of transcription 3 (acute-phase response factor)
+ENSG00000175197	NM_004083	Homo sapiens	DNA-damage-inducible transcript 3
+ENSG00000117318	NM_002167	Homo sapiens	inhibitor of DNA binding 3, dominant negative helix-loop-helix protein
+ENSG00000172466	NM_006965	Homo sapiens	zinc finger protein 24
+ENSG00000170689	NM_024017	Homo sapiens	homeobox B9
+ENSG00000213297	NM_145233	Homo sapiens	zinc finger protein 625
+ENSG00000167771	NM_173587	Homo sapiens	REST corepressor 2
+ENSG00000166526	NM_032924	Homo sapiens	zinc finger protein 3
+ENSG00000166526	NM_017715	Homo sapiens	zinc finger protein 3
+ENSG00000175550	NM_006442	Homo sapiens	DR1-associated protein 1 (negative cofactor 2 alpha)
+ENSG00000118689	NM_201559	Homo sapiens	forkhead box O3; forkhead box O3B pseudogene
+ENSG00000118689	NM_001455	Homo sapiens	forkhead box O3; forkhead box O3B pseudogene
+ENSG00000188227	NM_001013659	Homo sapiens	zinc finger protein 793
+ENSG00000117595	NM_006147	Homo sapiens	interferon regulatory factor 6
+ENSG00000166529	NM_145914	Homo sapiens	zinc finger and SCAN domain containing 21
+ENSG00000213015	NM_207115	Homo sapiens	zinc finger protein 580
+ENSG00000213015	NM_016202	Homo sapiens	zinc finger protein 580
+ENSG00000213015	NM_001163423	Homo sapiens	zinc finger protein 580
+ENSG00000172468	NM_152584	Homo sapiens	heat shock transcription factor, Y-linked 1; heat shock transcription factor, Y linked 2
+ENSG00000172468	NM_033108	Homo sapiens	heat shock transcription factor, Y-linked 1; heat shock transcription factor, Y linked 2
+ENSG00000172468	NM_001001877	Homo sapiens	heat shock transcription factor, Y-linked 1; heat shock transcription factor, Y linked 2
+ENSG00000172468	NM_153716	Homo sapiens	heat shock transcription factor, Y-linked 1; heat shock transcription factor, Y linked 2
+ENSG00000125846	NM_003434	Homo sapiens	zinc finger protein 133
+ENSG00000125846	NM_001083330	Homo sapiens	zinc finger protein 133
+ENSG00000213020	NM_030972	Homo sapiens	zinc finger protein 611
+ENSG00000213020	NM_001161500	Homo sapiens	zinc finger protein 611
+ENSG00000213020	NM_001161501	Homo sapiens	zinc finger protein 611
+ENSG00000213020	NM_001161499	Homo sapiens	zinc finger protein 611
+ENSG00000204304	NM_002586	Homo sapiens	pre-B-cell leukemia homeobox 2
+ENSG00000073614	NM_005056	Homo sapiens	lysine (K)-specific demethylase 5A
+ENSG00000073614	NM_001042603	Homo sapiens	lysine (K)-specific demethylase 5A
+ENSG00000164651	NM_198956	Homo sapiens	Sp8 transcription factor
+ENSG00000164651	NM_182700	Homo sapiens	Sp8 transcription factor
+ENSG00000175745	NM_005654	Homo sapiens	nuclear receptor subfamily 2, group F, member 1
+ENSG00000105821	NM_001129887	Homo sapiens	DnaJ (Hsp40) homolog, subfamily C, member 2
+ENSG00000105821	NM_014377	Homo sapiens	DnaJ (Hsp40) homolog, subfamily C, member 2
+ENSG00000185177	NM_033273	Homo sapiens	zinc finger protein 479; zinc finger protein 733
+ENSG00000167377	NM_145911	Homo sapiens	zinc finger protein 23 (KOX 16)
+ENSG00000179059	NM_174900	Homo sapiens	zinc finger protein 42 homolog (mouse)
+ENSG00000144485	NM_001142853	Homo sapiens	hairy and enhancer of split 6 (Drosophila)
+ENSG00000144485	NM_018645	Homo sapiens	hairy and enhancer of split 6 (Drosophila)
+ENSG00000198482	NM_001039886	Homo sapiens	zinc finger protein 808
+ENSG00000096401	NM_001253	Homo sapiens	CDC5 cell division cycle 5-like (S. pombe)
+ENSG00000167766	NM_018300	Homo sapiens	zinc finger protein 83
+ENSG00000167766	NM_001105550	Homo sapiens	zinc finger protein 83
+ENSG00000167766	NM_001105552	Homo sapiens	zinc finger protein 83
+ENSG00000167766	NM_001105551	Homo sapiens	zinc finger protein 83
+ENSG00000167766	NM_001105554	Homo sapiens	zinc finger protein 83
+ENSG00000167766	NM_001105553	Homo sapiens	zinc finger protein 83
+ENSG00000167766	NM_001105549	Homo sapiens	zinc finger protein 83
+ENSG00000143355	NM_001014434	Homo sapiens	LIM homeobox 9
+ENSG00000143355	NM_020204	Homo sapiens	LIM homeobox 9
+ENSG00000125850	NM_021220	Homo sapiens	ovo-like 2 (Drosophila)
+ENSG00000119138	NM_001206	Homo sapiens	Kruppel-like factor 9
+ENSG00000139800	NM_033132	Homo sapiens	Zic family member 5 (odd-paired homolog, Drosophila)
+ENSG00000204103	NM_005461	Homo sapiens	v-maf musculoaponeurotic fibrosarcoma oncogene homolog B (avian)
+ENSG00000196345	XM_001717402	Homo sapiens	zinc finger protein 852; zinc finger protein 167
+ENSG00000196345	NM_025169	Homo sapiens	zinc finger protein 852; zinc finger protein 167
+ENSG00000196345	NM_018651	Homo sapiens	zinc finger protein 852; zinc finger protein 167
+ENSG00000196345	XM_001717544	Homo sapiens	zinc finger protein 852; zinc finger protein 167
+ENSG00000196345	XM_001725070	Homo sapiens	zinc finger protein 852; zinc finger protein 167
+ENSG00000138738	NM_018699	Homo sapiens	PR domain containing 5
+ENSG00000109851	NM_001029865	Homo sapiens	developing brain homeobox 1
+ENSG00000087903	NM_134433	Homo sapiens	regulatory factor X, 2 (influences HLA class II expression)
+ENSG00000087903	NM_000635	Homo sapiens	regulatory factor X, 2 (influences HLA class II expression)
+ENSG00000164683	NM_012258	Homo sapiens	hairy/enhancer-of-split related with YRPW motif 1
+ENSG00000164683	NM_001040708	Homo sapiens	hairy/enhancer-of-split related with YRPW motif 1
+ENSG00000119919	NM_145285	Homo sapiens	NK2 transcription factor related, locus 3 (Drosophila)
+ENSG00000196110	NM_198535	Homo sapiens	zinc finger protein 699
+ENSG00000206366	NM_181842	Homo sapiens	zinc finger and BTB domain containing 12
+ENSG00000167384	NM_013256	Homo sapiens	zinc finger protein 180
+ENSG00000105856	NM_012257	Homo sapiens	HMG-box transcription factor 1
+ENSG00000167383	NM_014518	Homo sapiens	zinc finger protein 229
+ENSG00000198455	NM_007157	Homo sapiens	zinc finger, X-linked, duplicated B
+ENSG00000119508	NM_173199	Homo sapiens	nuclear receptor subfamily 4, group A, member 3
+ENSG00000119508	NM_173200	Homo sapiens	nuclear receptor subfamily 4, group A, member 3
+ENSG00000119508	NM_006981	Homo sapiens	nuclear receptor subfamily 4, group A, member 3
+ENSG00000119508	NM_173198	Homo sapiens	nuclear receptor subfamily 4, group A, member 3
+ENSG00000177045	NM_175875	Homo sapiens	SIX homeobox 5
+ENSG00000082641	NM_003204	Homo sapiens	nuclear factor (erythroid-derived 2)-like 1
+ENSG00000198453	NM_198539	Homo sapiens	zinc finger protein 568
+ENSG00000167380	NM_001146220	Homo sapiens	zinc finger protein 226
+ENSG00000167380	NM_001032374	Homo sapiens	zinc finger protein 226
+ENSG00000167380	NM_015919	Homo sapiens	zinc finger protein 226
+ENSG00000167380	NM_001032373	Homo sapiens	zinc finger protein 226
+ENSG00000167380	NM_001032372	Homo sapiens	zinc finger protein 226
+ENSG00000130544	NM_001044388	Homo sapiens	zinc finger protein 557
+ENSG00000130544	NM_001044387	Homo sapiens	zinc finger protein 557
+ENSG00000130544	NM_024341	Homo sapiens	zinc finger protein 557
+ENSG00000156802	NM_014109	Homo sapiens	ATPase family, AAA domain containing 2
+ENSG00000125820	NM_002509	Homo sapiens	NK2 homeobox 2
+ENSG00000165684	NM_003086	Homo sapiens	small nuclear RNA activating complex, polypeptide 4, 190kDa
+ENSG00000112041	NM_003322	Homo sapiens	tubby like protein 1
+ENSG00000128272	NM_001675	Homo sapiens	activating transcription factor 4 (tax-responsive enhancer element B67); activating transcription factor 4C
+ENSG00000128272	NM_182810	Homo sapiens	activating transcription factor 4 (tax-responsive enhancer element B67); activating transcription factor 4C
+ENSG00000112246	NM_005068	Homo sapiens	single-minded homolog 1 (Drosophila)
+ENSG00000112242	NM_001949	Homo sapiens	E2F transcription factor 3
+ENSG00000144852	NM_022002	Homo sapiens	nuclear receptor subfamily 1, group I, member 2
+ENSG00000144852	NM_003889	Homo sapiens	nuclear receptor subfamily 1, group I, member 2
+ENSG00000144852	NM_033013	Homo sapiens	nuclear receptor subfamily 1, group I, member 2
+ENSG00000090447	NM_003223	Homo sapiens	transcription factor AP-4 (activating enhancer binding protein 4)
+ENSG00000112033	NM_001171818	Homo sapiens	peroxisome proliferator-activated receptor delta
+ENSG00000112033	NM_001171819	Homo sapiens	peroxisome proliferator-activated receptor delta
+ENSG00000112033	NM_177435	Homo sapiens	peroxisome proliferator-activated receptor delta
+ENSG00000112033	NM_001171820	Homo sapiens	peroxisome proliferator-activated receptor delta
+ENSG00000112033	NM_006238	Homo sapiens	peroxisome proliferator-activated receptor delta
+ENSG00000220201	NM_001103167	Homo sapiens	GATA like protein-1
+ENSG00000185155	NM_031944	Homo sapiens	Mix1 homeobox-like 1 (Xenopus laevis)
+ENSG00000119715	NM_004452	Homo sapiens	estrogen-related receptor beta
+ENSG00000067646	NM_001145275	Homo sapiens	zinc finger protein, Y-linked
+ENSG00000067646	NM_003411	Homo sapiens	zinc finger protein, Y-linked
+ENSG00000067646	NM_001145276	Homo sapiens	zinc finger protein, Y-linked
+ENSG00000137492	NM_004705	Homo sapiens	protein-kinase, interferon-inducible double stranded RNA dependent inhibitor, repressor of (P58 repressor)
+ENSG00000167395	NM_014699	Homo sapiens	zinc finger protein 646
+ENSG00000170325	NM_199439	Homo sapiens	PR domain containing 10
+ENSG00000170325	NM_199438	Homo sapiens	PR domain containing 10
+ENSG00000170325	NM_199437	Homo sapiens	PR domain containing 10
+ENSG00000170325	NM_020228	Homo sapiens	PR domain containing 10
+ENSG00000198464	NM_144684	Homo sapiens	zinc finger protein 480
+ENSG00000186814	NM_001112734	Homo sapiens	zinc finger protein 397 opposite strand
+ENSG00000186814	NM_001166012	Homo sapiens	zinc finger protein 397 opposite strand
+ENSG00000167394	NM_024706	Homo sapiens	zinc finger protein 668
+ENSG00000198466	NM_032828	Homo sapiens	zinc finger protein 587
+ENSG00000198466	XM_002347984	Homo sapiens	zinc finger protein 587
+ENSG00000198466	XM_002343662	Homo sapiens	zinc finger protein 587
+ENSG00000186812	NM_032347	Homo sapiens	zinc finger protein 397
+ENSG00000186812	NM_001135178	Homo sapiens	zinc finger protein 397
+ENSG00000140009	NM_001437	Homo sapiens	estrogen receptor 2 (ER beta)
+ENSG00000140009	NM_001040276	Homo sapiens	estrogen receptor 2 (ER beta)
+ENSG00000140009	NM_001040275	Homo sapiens	estrogen receptor 2 (ER beta)
+ENSG00000101493	NM_014643	Homo sapiens	zinc finger protein 516
+ENSG00000112238	NM_021620	Homo sapiens	PR domain containing 13
+ENSG00000159216	NM_001122607	Homo sapiens	runt-related transcription factor 1
+ENSG00000159216	NM_001001890	Homo sapiens	runt-related transcription factor 1
+ENSG00000159216	NM_001754	Homo sapiens	runt-related transcription factor 1
+ENSG00000167785	NM_144693	Homo sapiens	zinc finger protein 558
+ENSG00000196323	NM_014155	Homo sapiens	zinc finger and BTB domain containing 44
+ENSG00000100105	NM_032051	Homo sapiens	POZ (BTB) and AT hook containing zinc finger 1
+ENSG00000100105	NM_032050	Homo sapiens	POZ (BTB) and AT hook containing zinc finger 1
+ENSG00000100105	NM_014323	Homo sapiens	POZ (BTB) and AT hook containing zinc finger 1
+ENSG00000100105	NM_032052	Homo sapiens	POZ (BTB) and AT hook containing zinc finger 1
+ENSG00000138795	NM_001166119	Homo sapiens	lymphoid enhancer-binding factor 1
+ENSG00000138795	NM_001130713	Homo sapiens	lymphoid enhancer-binding factor 1
+ENSG00000138795	NM_001130714	Homo sapiens	lymphoid enhancer-binding factor 1
+ENSG00000138795	NM_016269	Homo sapiens	lymphoid enhancer-binding factor 1
+ENSG00000091831	NM_001122740	Homo sapiens	estrogen receptor 1
+ENSG00000091831	NM_001122741	Homo sapiens	estrogen receptor 1
+ENSG00000091831	NM_001122742	Homo sapiens	estrogen receptor 1
+ENSG00000091831	NM_000125	Homo sapiens	estrogen receptor 1
+ENSG00000081189	NM_001131005	Homo sapiens	myocyte enhancer factor 2C
+ENSG00000081189	NM_002397	Homo sapiens	myocyte enhancer factor 2C
+ENSG00000140968	NM_002163	Homo sapiens	interferon regulatory factor 8
+ENSG00000203989	NM_001099685	Homo sapiens	Rhox homeobox family, member 2B
+ENSG00000121864	NM_016331	Homo sapiens	zinc finger protein 639
+ENSG00000089116	NM_022363	Homo sapiens	LIM homeobox 5
+ENSG00000183850	XM_001719792	Homo sapiens	zinc finger protein 730
+ENSG00000183850	XM_001715065	Homo sapiens	zinc finger protein 730
+ENSG00000183850	XM_001718960	Homo sapiens	zinc finger protein 730
+ENSG00000090661	NM_024552	Homo sapiens	LAG1 homolog, ceramide synthase 4
+ENSG00000177732	NM_006943	Homo sapiens	SRY (sex determining region Y)-box 12
+ENSG00000126746	NM_001135734	Homo sapiens	zinc finger protein 384
+ENSG00000126746	NM_001039920	Homo sapiens	zinc finger protein 384
+ENSG00000126746	NM_001039918	Homo sapiens	zinc finger protein 384
+ENSG00000126746	NM_133476	Homo sapiens	zinc finger protein 384
+ENSG00000126746	NM_001039917	Homo sapiens	zinc finger protein 384
+ENSG00000126746	NM_001039916	Homo sapiens	zinc finger protein 384
+ENSG00000126746	NM_001039919	Homo sapiens	zinc finger protein 384
+ENSG00000174652	NM_198058	Homo sapiens	zinc finger protein 266
+ENSG00000174652	NM_006631	Homo sapiens	zinc finger protein 266
+ENSG00000196378	NM_030580	Homo sapiens	zinc finger protein 34
+ENSG00000177932	NM_014594	Homo sapiens	zinc finger protein 354C
+ENSG00000197619	NM_198480	Homo sapiens	zinc finger protein 615
+ENSG00000078399	NM_152739	Homo sapiens	homeobox A9
+ENSG00000215397	NM_033129	Homo sapiens	scratch homolog 2, zinc finger protein (Drosophila)
+ENSG00000130522	NM_005354	Homo sapiens	jun D proto-oncogene
+ENSG00000137265	NM_002460	Homo sapiens	interferon regulatory factor 4
+ENSG00000101115	NM_020436	Homo sapiens	sal-like 4 (Drosophila)
+ENSG00000063438	NM_013232	Homo sapiens	aryl-hydrocarbon receptor repressor; programmed cell death 6
+ENSG00000063438	NM_020731	Homo sapiens	aryl-hydrocarbon receptor repressor; programmed cell death 6
+ENSG00000099326	NM_198055	Homo sapiens	myeloid zinc finger 1
+ENSG00000099326	NM_003422	Homo sapiens	myeloid zinc finger 1
+ENSG00000177030	NM_021008	Homo sapiens	deformed epidermal autoregulatory factor 1 (Drosophila)
+ENSG00000105866	NM_003112	Homo sapiens	Sp4 transcription factor
+ENSG00000167528	NM_152320	Homo sapiens	zinc finger protein 641
+ENSG00000175787	NM_194320	Homo sapiens	zinc finger protein 169
+ENSG00000176472	NM_174945	Homo sapiens	zinc finger protein 575
+ENSG00000183072	NM_004387	Homo sapiens	NK2 transcription factor related, locus 5 (Drosophila)
+ENSG00000183072	NM_001166175	Homo sapiens	NK2 transcription factor related, locus 5 (Drosophila)
+ENSG00000183072	NM_001166176	Homo sapiens	NK2 transcription factor related, locus 5 (Drosophila)
+ENSG00000196109	NM_001001411	Homo sapiens	zinc finger protein 676
+ENSG00000186446	NM_145044	Homo sapiens	zinc finger protein 501
+ENSG00000125618	NM_013992	Homo sapiens	paired box 8
+ENSG00000125618	NM_013953	Homo sapiens	paired box 8
+ENSG00000125618	NM_003466	Homo sapiens	paired box 8
+ENSG00000125618	NM_013952	Homo sapiens	paired box 8
+ENSG00000125618	NM_013951	Homo sapiens	paired box 8
+ENSG00000160224	NM_000383	Homo sapiens	autoimmune regulator
+ENSG00000160224	NM_000658	Homo sapiens	autoimmune regulator
+ENSG00000176083	NM_001114759	Homo sapiens	zinc finger protein 683
+ENSG00000176083	NM_173574	Homo sapiens	zinc finger protein 683
+ENSG00000066336	NM_001080547	Homo sapiens	spleen focus forming virus (SFFV) proviral integration oncogene spi1
+ENSG00000066336	NM_003120	Homo sapiens	spleen focus forming virus (SFFV) proviral integration oncogene spi1
+ENSG00000073861	NM_013351	Homo sapiens	T-box 21
+ENSG00000186448	NM_001024855	Homo sapiens	zinc finger protein 197
+ENSG00000186448	NM_006991	Homo sapiens	zinc finger protein 197
+ENSG00000139083	NM_001987	Homo sapiens	ets variant 6
+ENSG00000140987	NM_017810	Homo sapiens	zinc finger protein 434
+ENSG00000127152	NM_022898	Homo sapiens	B-cell CLL/lymphoma 11B (zinc finger protein)
+ENSG00000127152	NM_138576	Homo sapiens	B-cell CLL/lymphoma 11B (zinc finger protein)
+ENSG00000176678	NM_005250	Homo sapiens	forkhead box L1
+ENSG00000106331	NM_006193	Homo sapiens	paired box 4
+ENSG00000176679	NM_139214	Homo sapiens	TGFB-induced factor homeobox 2-like, Y-linked
+ENSG00000196387	NM_003440	Homo sapiens	zinc finger protein 140
+ENSG00000137270	NM_003643	Homo sapiens	glial cells missing homolog 1 (Drosophila)
+ENSG00000206315	NM_002586	Homo sapiens	pre-B-cell leukemia homeobox 2
+ENSG00000137273	NM_001452	Homo sapiens	forkhead box F2
+ENSG00000196381	NM_152605	Homo sapiens	zinc finger protein 781
+ENSG00000111145	NM_005230	Homo sapiens	ELK3, ETS-domain protein (SRF accessory protein 2)
+ENSG00000007372	NM_001604	Homo sapiens	paired box 6
+ENSG00000007372	NM_001127612	Homo sapiens	paired box 6
+ENSG00000007372	NM_000280	Homo sapiens	paired box 6
+ENSG00000151514	NM_171999	Homo sapiens	sal-like 3 (Drosophila)
+ENSG00000123095	NM_030762	Homo sapiens	basic helix-loop-helix family, member e41
+ENSG00000167555	NM_032423	Homo sapiens	zinc finger protein 534; zinc finger protein 528
+ENSG00000167555	NM_001143938	Homo sapiens	zinc finger protein 534; zinc finger protein 528
+ENSG00000167555	NM_001143939	Homo sapiens	zinc finger protein 534; zinc finger protein 528
+ENSG00000127124	NM_024503	Homo sapiens	human immunodeficiency virus type I enhancer binding protein 3
+ENSG00000127124	NM_001127714	Homo sapiens	human immunodeficiency virus type I enhancer binding protein 3
+ENSG00000204335	NM_001003845	Homo sapiens	Sp5 transcription factor
+ENSG00000167554	NM_001161427	Homo sapiens	zinc finger protein 610
+ENSG00000167554	NM_001161425	Homo sapiens	zinc finger protein 610
+ENSG00000167554	NM_001161426	Homo sapiens	zinc finger protein 610
+ENSG00000167554	NM_173530	Homo sapiens	zinc finger protein 610
+ENSG00000118620	NM_025189	Homo sapiens	zinc finger protein 430
+ENSG00000187140	NM_012183	Homo sapiens	forkhead box D3
+ENSG00000131196	NM_172388	Homo sapiens	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1
+ENSG00000131196	NM_172387	Homo sapiens	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1
+ENSG00000131196	NM_172389	Homo sapiens	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1
+ENSG00000131196	NM_006162	Homo sapiens	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1
+ENSG00000131196	NM_172390	Homo sapiens	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1
+ENSG00000160229	NM_052852	Homo sapiens	zinc finger protein 486
+ENSG00000131788	NM_006099	Homo sapiens	protein inhibitor of activated STAT, 3
+ENSG00000196357	NM_001042474	Homo sapiens	zinc finger protein 565
+ENSG00000196357	NM_152477	Homo sapiens	zinc finger protein 565
+ENSG00000176293	NM_003436	Homo sapiens	zinc finger protein 135
+ENSG00000176293	NM_001164529	Homo sapiens	zinc finger protein 135
+ENSG00000176293	NM_007134	Homo sapiens	zinc finger protein 135
+ENSG00000176293	NM_001164527	Homo sapiens	zinc finger protein 135
+ENSG00000176293	NM_001164530	Homo sapiens	zinc finger protein 135
+ENSG00000064489	NM_001145785	Homo sapiens	LOC729991-MEF2B readthrough transcript; myocyte enhancer factor 2B
+ENSG00000064489	NM_005919	Homo sapiens	LOC729991-MEF2B readthrough transcript; myocyte enhancer factor 2B
+ENSG00000123636	NM_013450	Homo sapiens	bromodomain adjacent to zinc finger domain, 2B
+ENSG00000113430	NM_016358	Homo sapiens	iroquois homeobox 4
+ENSG00000215372	NM_001164457	Homo sapiens	zinc finger protein 705G-like
+ENSG00000215372	XM_002347256	Homo sapiens	zinc finger protein 705G-like
+ENSG00000215372	XM_001720517	Homo sapiens	zinc finger protein 705G-like
+ENSG00000215372	XM_002346078	Homo sapiens	zinc finger protein 705G-like
+ENSG00000124766	NM_003107	Homo sapiens	SRY (sex determining region Y)-box 4
+ENSG00000196350	XM_001718919	Homo sapiens	zinc finger protein 729; similar to Zinc finger protein ENSP00000350085
+ENSG00000196350	XM_001714965	Homo sapiens	zinc finger protein 729; similar to Zinc finger protein ENSP00000350085
+ENSG00000196350	XM_001719773	Homo sapiens	zinc finger protein 729; similar to Zinc finger protein ENSP00000350085
+ENSG00000197213	NM_001080456	Homo sapiens	zinc finger and SCAN domain containing 5B
+ENSG00000105610	NM_006563	Homo sapiens	Kruppel-like factor 1 (erythroid)
+ENSG00000170549	NM_024337	Homo sapiens	iroquois homeobox 1
+ENSG00000089335	NM_001012320	Homo sapiens	zinc finger protein 302
+ENSG00000089335	NM_018443	Homo sapiens	zinc finger protein 302
+ENSG00000178604	NM_001039884	Homo sapiens	zinc finger protein 826
+ENSG00000072736	NM_173164	Homo sapiens	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 3
+ENSG00000072736	NM_173165	Homo sapiens	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 3
+ENSG00000072736	NM_004555	Homo sapiens	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 3
+ENSG00000072736	NM_173163	Homo sapiens	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 3
+ENSG00000170561	NM_001134222	Homo sapiens	iroquois homeobox 2
+ENSG00000170561	NM_033267	Homo sapiens	iroquois homeobox 2
+ENSG00000147596	NM_024504	Homo sapiens	PR domain containing 14
+ENSG00000064218	NM_021240	Homo sapiens	doublesex and mab-3 related transcription factor 3
+ENSG00000164631	NM_016265	Homo sapiens	postmeiotic segregation increased 2-like 3; zinc finger protein 12
+ENSG00000164631	NM_001003686	Homo sapiens	postmeiotic segregation increased 2-like 3; zinc finger protein 12
+ENSG00000164631	NM_006956	Homo sapiens	postmeiotic segregation increased 2-like 3; zinc finger protein 12
+ENSG00000164631	NM_005395	Homo sapiens	postmeiotic segregation increased 2-like 3; zinc finger protein 12
+ENSG00000114439	NM_020235	Homo sapiens	bobby sox homolog (Drosophila)
+ENSG00000114439	NM_001142568	Homo sapiens	bobby sox homolog (Drosophila)
+ENSG00000136630	NM_021958	Homo sapiens	H2.0-like homeobox
+ENSG00000125878	NM_004609	Homo sapiens	transcription factor 15 (basic helix-loop-helix)
+ENSG00000127528	NM_016270	Homo sapiens	Kruppel-like factor 2 (lung)
+ENSG00000152284	NM_031283	Homo sapiens	transcription factor 7-like 1 (T-cell specific, HMG-box)
+ENSG00000157259	NM_021167	Homo sapiens	GATA zinc finger domain containing 1
+ENSG00000180938	NM_152412	Homo sapiens	zinc finger protein 572
+ENSG00000197608	NM_001136499	Homo sapiens	zinc finger protein 841
+ENSG00000164438	NM_021025	Homo sapiens	T-cell leukemia homeobox 3
+ENSG00000062370	NM_001083335	Homo sapiens	zinc finger protein 112 homolog (mouse)
+ENSG00000062370	NM_013380	Homo sapiens	zinc finger protein 112 homolog (mouse)
+ENSG00000167157	NM_016307	Homo sapiens	paired related homeobox 2
+ENSG00000101126	NM_181442	Homo sapiens	activity-dependent neuroprotector homeobox
+ENSG00000101126	NM_015339	Homo sapiens	activity-dependent neuroprotector homeobox
+ENSG00000176692	NM_005251	Homo sapiens	forkhead box C2 (MFH-1, mesenchyme forkhead 1)
+ENSG00000107859	NM_005029	Homo sapiens	paired-like homeodomain 3
+ENSG00000184058	NM_080647	Homo sapiens	T-box 1
+ENSG00000184058	NM_005992	Homo sapiens	T-box 1
+ENSG00000184058	NM_080646	Homo sapiens	T-box 1
+ENSG00000105880	NM_005221	Homo sapiens	distal-less homeobox 5
+ENSG00000151702	NM_002017	Homo sapiens	Friend leukemia virus integration 1
+ENSG00000151702	NM_001167681	Homo sapiens	Friend leukemia virus integration 1
+ENSG00000187987	NM_001012455	Homo sapiens	zinc finger and SCAN domain containing 23
+ENSG00000131759	NM_001145301	Homo sapiens	retinoic acid receptor, alpha
+ENSG00000131759	NM_001145302	Homo sapiens	retinoic acid receptor, alpha
+ENSG00000131759	NM_001024809	Homo sapiens	retinoic acid receptor, alpha
+ENSG00000131759	NM_000964	Homo sapiens	retinoic acid receptor, alpha
+ENSG00000141448	NM_005257	Homo sapiens	GATA binding protein 6
+ENSG00000169840	NM_145657	Homo sapiens	GS homeobox 1
+ENSG00000169136	NM_012068	Homo sapiens	activating transcription factor 5
+ENSG00000188909	NM_001098169	Homo sapiens	brain-specific homeobox
+ENSG00000121413	NM_001145542	Homo sapiens	zinc finger and SCAN domain containing 18
+ENSG00000121413	NM_001145543	Homo sapiens	zinc finger and SCAN domain containing 18
+ENSG00000121413	NM_001145544	Homo sapiens	zinc finger and SCAN domain containing 18
+ENSG00000121413	NM_023926	Homo sapiens	zinc finger and SCAN domain containing 18
+ENSG00000136169	NM_031915	Homo sapiens	SET domain, bifurcated 2
+ENSG00000136169	NM_001160308	Homo sapiens	SET domain, bifurcated 2
+ENSG00000124613	NM_001076781	Homo sapiens	zinc finger protein 391
+ENSG00000197008	NM_001160183	Homo sapiens	zinc finger protein 138
+ENSG00000197008	NM_006524	Homo sapiens	zinc finger protein 138
+ENSG00000167840	NM_014519	Homo sapiens	zinc finger protein 232
+ENSG00000121417	NM_198855	Homo sapiens	zinc finger protein 211
+ENSG00000121417	NM_006385	Homo sapiens	zinc finger protein 211
+ENSG00000136770	NM_022365	Homo sapiens	DnaJ (Hsp40) homolog, subfamily C, member 1
+ENSG00000152804	NM_002729	Homo sapiens	hematopoietically expressed homeobox
+ENSG00000008441	NM_002501	Homo sapiens	nuclear factor I/X (CCAAT-binding transcription factor)
+ENSG00000197951	NM_021216	Homo sapiens	zinc finger protein 71
+ENSG00000204527	NM_001012729	Homo sapiens	double homeobox A
+ENSG00000068323	NM_006521	Homo sapiens	transcription factor binding to IGHM enhancer 3
+ENSG00000170485	NM_002518	Homo sapiens	neuronal PAS domain protein 2
+ENSG00000197757	NM_004503	Homo sapiens	homeobox C6
+ENSG00000197757	NM_153693	Homo sapiens	homeobox C6
+ENSG00000204524	NM_001145078	Homo sapiens	zinc finger protein 805
+ENSG00000204524	NM_001023563	Homo sapiens	zinc finger protein 805
+ENSG00000081059	NM_201633	Homo sapiens	transcription factor 7 (T-cell specific, HMG-box)
+ENSG00000081059	NM_201632	Homo sapiens	transcription factor 7 (T-cell specific, HMG-box)
+ENSG00000081059	NM_001134851	Homo sapiens	transcription factor 7 (T-cell specific, HMG-box)
+ENSG00000081059	NM_001134852	Homo sapiens	transcription factor 7 (T-cell specific, HMG-box)
+ENSG00000081059	NM_213648	Homo sapiens	transcription factor 7 (T-cell specific, HMG-box)
+ENSG00000081059	NM_003202	Homo sapiens	transcription factor 7 (T-cell specific, HMG-box)
+ENSG00000081059	NM_201634	Homo sapiens	transcription factor 7 (T-cell specific, HMG-box)
+ENSG00000167074	NM_001145398	Homo sapiens	thyrotrophic embryonic factor
+ENSG00000167074	NM_003216	Homo sapiens	thyrotrophic embryonic factor
+ENSG00000113387	NM_006713	Homo sapiens	SUB1 homolog (S. cerevisiae)
+ENSG00000133740	NM_001083589	Homo sapiens	E2F transcription factor 5, p130-binding
+ENSG00000133740	NM_001951	Homo sapiens	E2F transcription factor 5, p130-binding
+ENSG00000133740	NM_001083588	Homo sapiens	E2F transcription factor 5, p130-binding
+ENSG00000141644	NM_015846	Homo sapiens	methyl-CpG binding domain protein 1
+ENSG00000141644	NM_015847	Homo sapiens	methyl-CpG binding domain protein 1
+ENSG00000141644	NM_015844	Homo sapiens	methyl-CpG binding domain protein 1
+ENSG00000141644	NM_015845	Homo sapiens	methyl-CpG binding domain protein 1
+ENSG00000141644	NM_002384	Homo sapiens	methyl-CpG binding domain protein 1
+ENSG00000118495	NM_006718	Homo sapiens	pleiomorphic adenoma gene-like 1
+ENSG00000118495	NM_001080955	Homo sapiens	pleiomorphic adenoma gene-like 1
+ENSG00000118495	NM_001080956	Homo sapiens	pleiomorphic adenoma gene-like 1
+ENSG00000118495	NM_001080953	Homo sapiens	pleiomorphic adenoma gene-like 1
+ENSG00000118495	NM_002656	Homo sapiens	pleiomorphic adenoma gene-like 1
+ENSG00000118495	NM_001080954	Homo sapiens	pleiomorphic adenoma gene-like 1
+ENSG00000118495	NM_001080952	Homo sapiens	pleiomorphic adenoma gene-like 1
+ENSG00000118495	NM_001080951	Homo sapiens	pleiomorphic adenoma gene-like 1
+ENSG00000169131	NM_005649	Homo sapiens	zinc finger protein 354A
+ENSG00000141646	NM_005359	Homo sapiens	SMAD family member 4
+ENSG00000054598	NM_001453	Homo sapiens	forkhead box C1
+ENSG00000009307	NM_007158	Homo sapiens	cold shock domain containing E1, RNA-binding
+ENSG00000009307	NM_001007553	Homo sapiens	cold shock domain containing E1, RNA-binding
+ENSG00000009307	NM_001130523	Homo sapiens	cold shock domain containing E1, RNA-binding
+ENSG00000204366	NM_181842	Homo sapiens	zinc finger and BTB domain containing 12
+ENSG00000113580	NM_001018075	Homo sapiens	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)
+ENSG00000113580	NM_001018076	Homo sapiens	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)
+ENSG00000113580	NM_001018077	Homo sapiens	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)
+ENSG00000113580	NM_000176	Homo sapiens	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)
+ENSG00000113580	NM_001024094	Homo sapiens	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)
+ENSG00000113580	NM_001020825	Homo sapiens	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)
+ENSG00000113580	NM_001018074	Homo sapiens	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)
+ENSG00000144026	NM_032788	Homo sapiens	zinc finger protein 514
+ENSG00000136352	NM_001079668	Homo sapiens	NK2 homeobox 1
+ENSG00000136352	NM_003317	Homo sapiens	NK2 homeobox 1
+ENSG00000136352	XM_002344771	Homo sapiens	NK2 homeobox 1
+ENSG00000129028	NM_020147	Homo sapiens	THAP domain containing 10
+ENSG00000009709	NM_013945	Homo sapiens	paired box 7
+ENSG00000009709	NM_002584	Homo sapiens	paired box 7
+ENSG00000009709	NM_001135254	Homo sapiens	paired box 7
+ENSG00000136367	XM_001720095	Homo sapiens	zinc finger homeobox 2
+ENSG00000136367	XM_001714980	Homo sapiens	zinc finger homeobox 2
+ENSG00000136367	XM_001722719	Homo sapiens	zinc finger homeobox 2
+ENSG00000204920	NM_003445	Homo sapiens	zinc finger protein 155
+ENSG00000204920	NM_198089	Homo sapiens	zinc finger protein 155
+ENSG00000197013	NM_001001415	Homo sapiens	zinc finger protein 429
+ENSG00000163792	NM_175769	Homo sapiens	transcription factor 23
+ENSG00000139624	NM_147190	Homo sapiens	LAG1 homolog, ceramide synthase 5
+ENSG00000166704	NM_025027	Homo sapiens	zinc finger protein 606
+ENSG00000117139	NM_006618	Homo sapiens	similar to Jumonji, AT rich interactive domain 1B (RBP2-like); lysine (K)-specific demethylase 5B
+ENSG00000117139	XM_001719676	Homo sapiens	similar to Jumonji, AT rich interactive domain 1B (RBP2-like); lysine (K)-specific demethylase 5B
+ENSG00000100281	NM_001003681	Homo sapiens	HMG box domain containing 4
+ENSG00000100281	NM_014250	Homo sapiens	HMG box domain containing 4
+ENSG00000100281	NM_005487	Homo sapiens	HMG box domain containing 4
+ENSG00000144218	NM_001025108	Homo sapiens	AF4/FMR2 family, member 3
+ENSG00000144218	NM_002285	Homo sapiens	AF4/FMR2 family, member 3
+ENSG00000132604	NM_005652	Homo sapiens	telomeric repeat binding factor 2
+ENSG00000196152	NM_007135	Homo sapiens	zinc finger protein 79
+ENSG00000121406	NM_153263	Homo sapiens	zinc finger protein 549
+ENSG00000179348	NM_032638	Homo sapiens	GATA binding protein 2
+ENSG00000179348	NM_001145661	Homo sapiens	GATA binding protein 2
+ENSG00000179348	NM_001145662	Homo sapiens	GATA binding protein 2
+ENSG00000197016	NM_001001668	Homo sapiens	zinc finger protein 470
+ENSG00000196150	NM_021061	Homo sapiens	zinc finger protein 250
+ENSG00000196150	NM_001109689	Homo sapiens	zinc finger protein 250
+ENSG00000163795	NM_144631	Homo sapiens	zinc finger protein 513
+ENSG00000169856	NM_004498	Homo sapiens	one cut homeobox 1
+ENSG00000196498	NM_001077261	Homo sapiens	nuclear receptor co-repressor 2
+ENSG00000196498	NM_006312	Homo sapiens	nuclear receptor co-repressor 2
+ENSG00000079263	NM_001005176	Homo sapiens	SP140 nuclear body protein
+ENSG00000079263	NM_007237	Homo sapiens	SP140 nuclear body protein
+ENSG00000067082	NM_001160124	Homo sapiens	Kruppel-like factor 6
+ENSG00000067082	NM_001160125	Homo sapiens	Kruppel-like factor 6
+ENSG00000067082	NM_001300	Homo sapiens	Kruppel-like factor 6
+ENSG00000119547	NM_004852	Homo sapiens	one cut homeobox 2
+ENSG00000197937	NM_032584	Homo sapiens	zinc finger protein 347
+ENSG00000204532	XM_938215	Homo sapiens	zinc finger and SCAN domain containing 5C
+ENSG00000204532	XM_001131980	Homo sapiens	zinc finger and SCAN domain containing 5C
+ENSG00000204532	XM_001726413	Homo sapiens	zinc finger and SCAN domain containing 5C
+ENSG00000184828	NM_001039360	Homo sapiens	zinc finger and BTB domain containing 7C
+ENSG00000204531	NM_203289	Homo sapiens	POU class 5 homeobox 1
+ENSG00000204531	NM_002701	Homo sapiens	POU class 5 homeobox 1
+ENSG00000186496	NM_145756	Homo sapiens	zinc finger protein 396
+ENSG00000171129	XM_001713713	Homo sapiens	heat shock transcription factor family, X linked 1; heat shock transcription factor family, X linked 2
+ENSG00000171129	NM_001164415	Homo sapiens	heat shock transcription factor family, X linked 1; heat shock transcription factor family, X linked 2
+ENSG00000171129	NM_016153	Homo sapiens	heat shock transcription factor family, X linked 1; heat shock transcription factor family, X linked 2
+ENSG00000164078	NM_002447	Homo sapiens	macrophage stimulating 1 receptor (c-met-related tyrosine kinase)
+ENSG00000138378	NM_003151	Homo sapiens	signal transducer and activator of transcription 4
+ENSG00000196693	NM_006955	Homo sapiens	zinc finger protein 33B
+ENSG00000142700	NM_032110	Homo sapiens	DMRT-like family A2
+ENSG00000184221	NM_138983	Homo sapiens	oligodendrocyte transcription factor 1
+ENSG00000147421	NM_001135726	Homo sapiens	homeobox containing 1
+ENSG00000147421	NM_024567	Homo sapiens	homeobox containing 1
+ENSG00000197020	NM_173531	Homo sapiens	zinc finger protein 100
+ENSG00000170260	NM_012256	Homo sapiens	zinc finger protein 212
+ENSG00000177374	NM_001098202	Homo sapiens	hypermethylated in cancer 1
+ENSG00000177374	NM_006497	Homo sapiens	hypermethylated in cancer 1
+ENSG00000073584	NM_003079	Homo sapiens	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1
+ENSG00000196482	NM_206595	Homo sapiens	estrogen-related receptor gamma
+ENSG00000196482	NM_206594	Homo sapiens	estrogen-related receptor gamma
+ENSG00000196482	NM_001438	Homo sapiens	estrogen-related receptor gamma
+ENSG00000196482	NM_001134285	Homo sapiens	estrogen-related receptor gamma
+ENSG00000164458	NM_003181	Homo sapiens	T, brachyury homolog (mouse)
+ENSG00000197024	NM_020781	Homo sapiens	zinc finger protein 398
+ENSG00000197024	NM_170686	Homo sapiens	zinc finger protein 398
+ENSG00000173480	NM_152475	Homo sapiens	zinc finger protein 417
+ENSG00000166949	NM_005902	Homo sapiens	SMAD family member 3
+ENSG00000166949	NM_001145102	Homo sapiens	SMAD family member 3
+ENSG00000166949	NM_001145103	Homo sapiens	SMAD family member 3
+ENSG00000166949	NM_001145104	Homo sapiens	SMAD family member 3
+ENSG00000158805	NM_152287	Homo sapiens	zinc finger protein 276
+ENSG00000158805	NM_001113525	Homo sapiens	zinc finger protein 276
+ENSG00000119574	NM_032792	Homo sapiens	zinc finger and BTB domain containing 45
+ENSG00000197935	NM_001010877	Homo sapiens	zinc finger protein 311
+ENSG00000182903	NM_133474	Homo sapiens	zinc finger protein 721
+ENSG00000197933	NM_001080493	Homo sapiens	zinc finger protein 823
+ENSG00000081665	NM_031218	Homo sapiens	zinc finger protein 93
+ENSG00000170265	NM_003575	Homo sapiens	zinc finger protein 282
+ENSG00000197928	NM_182609	Homo sapiens	zinc finger protein 677
+ENSG00000163564	NM_198928	Homo sapiens	pyrin and HIN domain family, member 1
+ENSG00000163564	NM_152501	Homo sapiens	pyrin and HIN domain family, member 1
+ENSG00000163564	NM_198930	Homo sapiens	pyrin and HIN domain family, member 1
+ENSG00000163564	NM_198929	Homo sapiens	pyrin and HIN domain family, member 1
+ENSG00000163565	NM_005531	Homo sapiens	interferon, gamma-inducible protein 16
+ENSG00000186487	NM_015025	Homo sapiens	myelin transcription factor 1-like
+ENSG00000163568	NM_004833	Homo sapiens	absent in melanoma 2
+ENSG00000157557	NM_005239	Homo sapiens	v-ets erythroblastosis virus E26 oncogene homolog 2 (avian)
+ENSG00000069812	NM_019089	Homo sapiens	hairy and enhancer of split 2 (Drosophila)
+ENSG00000068305	NM_005587	Homo sapiens	myocyte enhancer factor 2A
+ENSG00000068305	NM_001130928	Homo sapiens	myocyte enhancer factor 2A
+ENSG00000068305	NM_001130926	Homo sapiens	myocyte enhancer factor 2A
+ENSG00000068305	NM_001130927	Homo sapiens	myocyte enhancer factor 2A
+ENSG00000068305	NM_001171894	Homo sapiens	myocyte enhancer factor 2A
+ENSG00000139651	NM_001004304	Homo sapiens	zinc finger protein 740
+ENSG00000157554	NM_182918	Homo sapiens	v-ets erythroblastosis virus E26 oncogene homolog (avian)
+ENSG00000157554	NM_004449	Homo sapiens	v-ets erythroblastosis virus E26 oncogene homolog (avian)
+ENSG00000157554	NM_001136155	Homo sapiens	v-ets erythroblastosis virus E26 oncogene homolog (avian)
+ENSG00000157554	NM_001136154	Homo sapiens	v-ets erythroblastosis virus E26 oncogene homolog (avian)
+ENSG00000120690	NM_172373	Homo sapiens	E74-like factor 1 (ets domain transcription factor)
+ENSG00000120690	NM_001145353	Homo sapiens	E74-like factor 1 (ets domain transcription factor)
+ENSG00000006468	NM_001163147	Homo sapiens	ets variant 1
+ENSG00000006468	NM_001163151	Homo sapiens	ets variant 1
+ENSG00000006468	NM_001163152	Homo sapiens	ets variant 1
+ENSG00000006468	NM_001163150	Homo sapiens	ets variant 1
+ENSG00000006468	NM_001163149	Homo sapiens	ets variant 1
+ENSG00000006468	NM_001163148	Homo sapiens	ets variant 1
+ENSG00000006468	NM_004956	Homo sapiens	ets variant 1
+ENSG00000140262	NM_207036	Homo sapiens	transcription factor 12
+ENSG00000140262	NM_207037	Homo sapiens	transcription factor 12
+ENSG00000140262	NM_003205	Homo sapiens	transcription factor 12
+ENSG00000140262	NM_207038	Homo sapiens	transcription factor 12
+ENSG00000140262	NM_207040	Homo sapiens	transcription factor 12
+ENSG00000198205	NM_007156	Homo sapiens	zinc finger, X-linked, duplicated A
+ENSG00000103495	NM_001042539	Homo sapiens	MYC-associated zinc finger protein (purine-binding transcription factor)
+ENSG00000103495	NM_002383	Homo sapiens	MYC-associated zinc finger protein (purine-binding transcription factor)
+ENSG00000136574	NM_002052	Homo sapiens	GATA binding protein 4
+ENSG00000120693	NM_001127217	Homo sapiens	SMAD family member 9
+ENSG00000120693	NM_005905	Homo sapiens	SMAD family member 9
+ENSG00000140265	NM_152455	Homo sapiens	zinc finger and SCAN domain containing 29
+ENSG00000163563	NM_002432	Homo sapiens	myeloid cell nuclear differentiation antigen
+ENSG00000171116	XM_001713713	Homo sapiens	heat shock transcription factor family, X linked 1; heat shock transcription factor family, X linked 2
+ENSG00000171116	NM_001164415	Homo sapiens	heat shock transcription factor family, X linked 1; heat shock transcription factor family, X linked 2
+ENSG00000171116	NM_016153	Homo sapiens	heat shock transcription factor family, X linked 1; heat shock transcription factor family, X linked 2
+ENSG00000153560	NM_001128161	Homo sapiens	upstream binding protein 1 (LBP-1a)
+ENSG00000153560	NM_001128160	Homo sapiens	upstream binding protein 1 (LBP-1a)
+ENSG00000153560	NM_014517	Homo sapiens	upstream binding protein 1 (LBP-1a)
+ENSG00000033800	NM_016166	Homo sapiens	protein inhibitor of activated STAT, 1
+ENSG00000111206	NM_202002	Homo sapiens	forkhead box M1
+ENSG00000111206	NM_202003	Homo sapiens	forkhead box M1
+ENSG00000111206	NM_021953	Homo sapiens	forkhead box M1
+ENSG00000164050	NM_001130082	Homo sapiens	plexin B1
+ENSG00000164050	NM_002673	Homo sapiens	plexin B1
+ENSG00000186051	NM_005421	Homo sapiens	T-cell acute lymphocytic leukemia 2
+ENSG00000122592	NM_006896	Homo sapiens	homeobox A7
+ENSG00000147601	NM_017489	Homo sapiens	similar to telomeric repeat binding factor (NIMA-interacting) 1; telomeric repeat binding factor (NIMA-interacting) 1; telomeric repeat binding factor (NIMA-interacting) 1 pseudogene
+ENSG00000147601	NM_003218	Homo sapiens	similar to telomeric repeat binding factor (NIMA-interacting) 1; telomeric repeat binding factor (NIMA-interacting) 1; telomeric repeat binding factor (NIMA-interacting) 1 pseudogene
+ENSG00000147601	XM_001715947	Homo sapiens	similar to telomeric repeat binding factor (NIMA-interacting) 1; telomeric repeat binding factor (NIMA-interacting) 1; telomeric repeat binding factor (NIMA-interacting) 1 pseudogene
+ENSG00000147601	XM_929288	Homo sapiens	similar to telomeric repeat binding factor (NIMA-interacting) 1; telomeric repeat binding factor (NIMA-interacting) 1; telomeric repeat binding factor (NIMA-interacting) 1 pseudogene
+ENSG00000020256	NM_022088	Homo sapiens	zinc finger protein 64 homolog (mouse)
+ENSG00000020256	NM_199427	Homo sapiens	zinc finger protein 64 homolog (mouse)
+ENSG00000020256	NM_199426	Homo sapiens	zinc finger protein 64 homolog (mouse)
+ENSG00000020256	NM_018197	Homo sapiens	zinc finger protein 64 homolog (mouse)
+ENSG00000198604	NM_013448	Homo sapiens	bromodomain adjacent to zinc finger domain, 1A
+ENSG00000198604	NM_182648	Homo sapiens	bromodomain adjacent to zinc finger domain, 1A
+ENSG00000204946	XM_002346055	Homo sapiens	zinc finger family member 783
+ENSG00000204946	XM_002344397	Homo sapiens	zinc finger family member 783
+ENSG00000204946	XM_002342790	Homo sapiens	zinc finger family member 783
+ENSG00000204946	XM_002342791	Homo sapiens	zinc finger family member 783
+ENSG00000204946	XM_001726770	Homo sapiens	zinc finger family member 783
+ENSG00000197037	NM_145115	Homo sapiens	zinc finger protein 498
+ENSG00000204947	NM_001001661	Homo sapiens	zinc finger protein 425
+ENSG00000196172	NM_138286	Homo sapiens	zinc finger protein 681
+ENSG00000067066	NM_003113	Homo sapiens	SP100 nuclear antigen
+ENSG00000067066	NM_001080391	Homo sapiens	SP100 nuclear antigen
+ENSG00000205038	NM_177531	Homo sapiens	polycystic kidney and hepatic disease 1 (autosomal recessive)-like 1
+ENSG00000176887	NM_003108	Homo sapiens	SRY (sex determining region Y)-box 11
+ENSG00000197921	NM_001010926	Homo sapiens	hairy and enhancer of split 5 (Drosophila)
+ENSG00000165821	NM_005407	Homo sapiens	sal-like 2 (Drosophila)
+ENSG00000170448	NM_152995	Homo sapiens	nuclear transcription factor, X-box binding-like 1
+ENSG00000186272	NM_006959	Homo sapiens	zinc finger protein 17
+ENSG00000179361	NM_006465	Homo sapiens	AT rich interactive domain 3B (BRIGHT-like)
+ENSG00000212993	NM_001159542	Homo sapiens	POU class 5 homeobox 1B
+ENSG00000183770	NM_023067	Homo sapiens	forkhead box L2
+ENSG00000124444	NM_024327	Homo sapiens	zinc finger protein 576
+ENSG00000124444	NM_001145347	Homo sapiens	zinc finger protein 576
+ENSG00000179774	NM_145178	Homo sapiens	atonal homolog 7 (Drosophila)
+ENSG00000213096	NM_203282	Homo sapiens	zinc finger protein 254
+ENSG00000179772	NM_004118	Homo sapiens	forkhead box S1
+ENSG00000196670	NM_152283	Homo sapiens	zinc finger protein 62 homolog (mouse)
+ENSG00000198807	NM_006194	Homo sapiens	paired box 9
+ENSG00000137090	NM_021951	Homo sapiens	doublesex and mab-3 related transcription factor 1
+ENSG00000109685	NM_133330	Homo sapiens	Wolf-Hirschhorn syndrome candidate 1
+ENSG00000109685	NM_133335	Homo sapiens	Wolf-Hirschhorn syndrome candidate 1
+ENSG00000109685	NM_007331	Homo sapiens	Wolf-Hirschhorn syndrome candidate 1
+ENSG00000109685	NM_133334	Homo sapiens	Wolf-Hirschhorn syndrome candidate 1
+ENSG00000109685	NM_133331	Homo sapiens	Wolf-Hirschhorn syndrome candidate 1
+ENSG00000109685	NM_001042424	Homo sapiens	Wolf-Hirschhorn syndrome candidate 1
+ENSG00000104804	NM_003323	Homo sapiens	tubby like protein 2
+ENSG00000196466	NM_001080821	Homo sapiens	zinc finger protein 799
+ENSG00000102349	NM_007250	Homo sapiens	Kruppel-like factor 8
+ENSG00000102349	NM_001159296	Homo sapiens	Kruppel-like factor 8
+ENSG00000130338	NM_001007466	Homo sapiens	tubby like protein 4
+ENSG00000130338	NM_020245	Homo sapiens	tubby like protein 4
+ENSG00000159556	NM_145805	Homo sapiens	ISL LIM homeobox 2
+ENSG00000140044	NM_130469	Homo sapiens	Jun dimerization protein 2
+ENSG00000140044	NM_001135049	Homo sapiens	Jun dimerization protein 2
+ENSG00000140044	NM_001135048	Homo sapiens	Jun dimerization protein 2
+ENSG00000140044	NM_001135047	Homo sapiens	Jun dimerization protein 2
+ENSG00000130675	NM_005515	Homo sapiens	motor neuron and pancreas homeobox 1
+ENSG00000130675	NM_001165255	Homo sapiens	motor neuron and pancreas homeobox 1
+ENSG00000197044	NM_152355	Homo sapiens	zinc finger protein 441
+ENSG00000165891	NM_203394	Homo sapiens	E2F transcription factor 7
+ENSG00000121454	NM_033343	Homo sapiens	LIM homeobox 4
+ENSG00000074219	NM_003598	Homo sapiens	TEA domain family member 2
+ENSG00000198429	NM_021915	Homo sapiens	zinc finger protein 69
+ENSG00000196460	NM_001145664	Homo sapiens	hypothetical protein LOC731220
+ENSG00000005801	NM_001130520	Homo sapiens	zinc finger protein 195
+ENSG00000005801	NM_001130519	Homo sapiens	zinc finger protein 195
+ENSG00000005801	NM_007152	Homo sapiens	zinc finger protein 195
+ENSG00000109072	NM_000638	Homo sapiens	vitronectin
+ENSG00000102145	NM_002049	Homo sapiens	GATA binding protein 1 (globin transcription factor 1)
+ENSG00000215343	NM_001039615	Homo sapiens	zinc finger protein 705D; zinc finger protein 705C pseudogene
+ENSG00000078043	NM_173206	Homo sapiens	protein inhibitor of activated STAT, 2
+ENSG00000078043	NM_004671	Homo sapiens	protein inhibitor of activated STAT, 2
+ENSG00000197714	NM_006635	Homo sapiens	zinc finger protein 460
+ENSG00000179111	NM_032580	Homo sapiens	hairy and enhancer of split 7 (Drosophila)
+ENSG00000179111	NM_001165967	Homo sapiens	hairy and enhancer of split 7 (Drosophila)
+ENSG00000135899	NM_004510	Homo sapiens	SP110 nuclear body protein
+ENSG00000135899	NM_004509	Homo sapiens	SP110 nuclear body protein
+ENSG00000135899	NM_080424	Homo sapiens	SP110 nuclear body protein
+ENSG00000125798	XM_002345401	Homo sapiens	forkhead box A2
+ENSG00000125798	NM_021784	Homo sapiens	forkhead box A2
+ENSG00000125798	NM_153675	Homo sapiens	forkhead box A2
+ENSG00000198815	NM_014947	Homo sapiens	forkhead box J3
+ENSG00000198816	NM_018083	Homo sapiens	zinc finger protein 358
+ENSG00000166402	NM_003320	Homo sapiens	tubby homolog (mouse)
+ENSG00000166402	NM_177972	Homo sapiens	tubby homolog (mouse)
+ENSG00000100811	NM_003403	Homo sapiens	YY1 transcription factor
+ENSG00000204779	NM_001126334	Homo sapiens	forkhead box D4-like 5
+ENSG00000189403	NM_002128	Homo sapiens	high-mobility group box 1; high-mobility group box 1-like 10
+ENSG00000196456	NM_173680	Homo sapiens	zinc finger protein 775
+ENSG00000172346	NM_014460	Homo sapiens	cold shock domain containing C2, RNA binding
+ENSG00000185513	NM_015478	Homo sapiens	l(3)mbt-like (Drosophila)
+ENSG00000185513	NM_032107	Homo sapiens	l(3)mbt-like (Drosophila)
+ENSG00000130684	NM_015655	Homo sapiens	zinc finger protein 337
+ENSG00000205250	NM_001950	Homo sapiens	E2F transcription factor 4, p107/p130-binding
+ENSG00000162419	NM_006582	Homo sapiens	glucocorticoid modulatory element binding protein 1
+ENSG00000162419	NM_024482	Homo sapiens	glucocorticoid modulatory element binding protein 1
+ENSG00000105516	NM_001352	Homo sapiens	D site of albumin promoter (albumin D-box) binding protein
+ENSG00000196453	NM_015694	Homo sapiens	zinc finger protein 777
+ENSG00000138136	NM_006562	Homo sapiens	ladybird homeobox 1
+ENSG00000180626	NM_032530	Homo sapiens	zinc finger protein 594
+ENSG00000198416	NM_001032297	Homo sapiens	zinc finger protein 658 pseudogene; zinc finger protein 658B
+ENSG00000136327	NM_014360	Homo sapiens	NK2 homeobox 8
+ENSG00000173473	NM_003074	Homo sapiens	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1
+ENSG00000124664	NM_012391	Homo sapiens	SAM pointed domain containing ets transcription factor
+ENSG00000108924	NM_002126	Homo sapiens	hepatic leukemia factor
+ENSG00000125398	NM_000346	Homo sapiens	SRY (sex determining region Y)-box 9
+ENSG00000156150	NM_006492	Homo sapiens	ALX homeobox 3
+ENSG00000197054	NM_001012753	Homo sapiens	zinc finger protein 763
+ENSG00000196867	NM_020828	Homo sapiens	zinc finger protein 28 homolog (mouse)
+ENSG00000197050	NM_144689	Homo sapiens	zinc finger protein 420
+ENSG00000133794	NM_001030273	Homo sapiens	aryl hydrocarbon receptor nuclear translocator-like
+ENSG00000133794	NM_001030272	Homo sapiens	aryl hydrocarbon receptor nuclear translocator-like
+ENSG00000133794	NM_001178	Homo sapiens	aryl hydrocarbon receptor nuclear translocator-like
+ENSG00000155592	NM_001012981	Homo sapiens	zinc finger with KRAB and SCAN domains 2
+ENSG00000163939	NM_018165	Homo sapiens	polybromo 1
+ENSG00000163939	NM_018313	Homo sapiens	polybromo 1
+ENSG00000163939	NM_181042	Homo sapiens	polybromo 1
+ENSG00000165156	NM_007222	Homo sapiens	zinc fingers and homeoboxes 1
+ENSG00000165156	NM_001017926	Homo sapiens	zinc fingers and homeoboxes 1
+ENSG00000050344	NM_004289	Homo sapiens	nuclear factor (erythroid-derived 2)-like 3
+ENSG00000185507	NM_004029	Homo sapiens	interferon regulatory factor 7
+ENSG00000185507	NM_001572	Homo sapiens	interferon regulatory factor 7
+ENSG00000185507	NM_004031	Homo sapiens	interferon regulatory factor 7
+ENSG00000142025	NM_001040283	Homo sapiens	DMRT-like family C2
+ENSG00000136997	NM_002467	Homo sapiens	v-myc myelocytomatosis viral oncogene homolog (avian)
+ENSG00000137709	NM_014352	Homo sapiens	POU class 2 homeobox 3
+ENSG00000186026	NM_001037813	Homo sapiens	zinc finger protein 284
+ENSG00000198440	NM_001159860	Homo sapiens	zinc finger protein 583
+ENSG00000198440	NM_001159861	Homo sapiens	zinc finger protein 583
+ENSG00000198440	NM_152478	Homo sapiens	zinc finger protein 583
+ENSG00000179528	NM_001009812	Homo sapiens	ladybird homeobox 2
+ENSG00000074657	NM_018181	Homo sapiens	similar to zinc finger protein 347; zinc finger protein 532
+ENSG00000206510	NM_001109809	Homo sapiens	zinc finger protein 57 homolog (mouse)
+ENSG00000156853	NM_138447	Homo sapiens	zinc finger protein 689
+ENSG00000169155	NM_014007	Homo sapiens	zinc finger and BTB domain containing 43
+ENSG00000169155	NM_001135776	Homo sapiens	zinc finger and BTB domain containing 43
+ENSG00000074047	NM_005270	Homo sapiens	GLI family zinc finger 2
+ENSG00000196826	NM_152601	Homo sapiens	zinc finger protein 709
+ENSG00000196826	NM_001145647	Homo sapiens	zinc finger protein 709
+ENSG00000197063	NM_032711	Homo sapiens	v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)
+ENSG00000197063	NM_002359	Homo sapiens	v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)
+ENSG00000178860	NM_005098	Homo sapiens	musculin (activated B-cell factor-1)
+ENSG00000180613	NM_133267	Homo sapiens	GS homeobox 2
+ENSG00000139613	NM_139067	Homo sapiens	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2
+ENSG00000139613	NM_003075	Homo sapiens	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2
+ENSG00000139613	NM_001130420	Homo sapiens	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2
+ENSG00000186020	NM_020951	Homo sapiens	zinc finger protein 529
+ENSG00000186020	NM_001145650	Homo sapiens	zinc finger protein 529
+ENSG00000186020	NM_001145649	Homo sapiens	zinc finger protein 529
+ENSG00000102804	NM_006022	Homo sapiens	TSC22 domain family, member 1
+ENSG00000102804	NM_183422	Homo sapiens	TSC22 domain family, member 1
+ENSG00000130856	NM_007345	Homo sapiens	zinc finger protein 236
+ENSG00000166211	NM_152323	Homo sapiens	Spi-C transcription factor (Spi-1/PU.1 related)
+ENSG00000071564	NM_001136139	Homo sapiens	transcription factor 3 (E2A immunoglobulin enhancer binding factors E12/E47)
+ENSG00000071564	NM_003200	Homo sapiens	transcription factor 3 (E2A immunoglobulin enhancer binding factors E12/E47)
+ENSG00000184271	NM_002702	Homo sapiens	POU class 6 homeobox 1
+ENSG00000129911	NM_031918	Homo sapiens	Kruppel-like factor 16
+ENSG00000178665	NM_182633	Homo sapiens	zinc finger protein 713
+ENSG00000120656	NM_005644	Homo sapiens	TAF12 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 20kDa
+ENSG00000120656	NM_001135218	Homo sapiens	TAF12 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 20kDa
+ENSG00000105136	NM_001098495	Homo sapiens	zinc finger protein 419
+ENSG00000105136	NM_001098496	Homo sapiens	zinc finger protein 419
+ENSG00000105136	NM_001098493	Homo sapiens	zinc finger protein 419
+ENSG00000105136	NM_001098494	Homo sapiens	zinc finger protein 419
+ENSG00000105136	NM_024691	Homo sapiens	zinc finger protein 419
+ENSG00000105136	NM_001098492	Homo sapiens	zinc finger protein 419
+ENSG00000105136	NM_001098491	Homo sapiens	zinc finger protein 419
+ENSG00000215756	NM_000039	Homo sapiens	apolipoprotein A-I
+ENSG00000197961	NM_001008727	Homo sapiens	zinc finger protein 121
+ENSG00000176842	NM_005853	Homo sapiens	iroquois homeobox 5
+ENSG00000186019	NM_013398	Homo sapiens	zinc finger protein 224
+ENSG00000186230	NM_001023561	Homo sapiens	zinc finger protein 749
+ENSG00000186017	NM_001145344	Homo sapiens	zinc finger protein 566
+ENSG00000186017	NM_001145345	Homo sapiens	zinc finger protein 566
+ENSG00000186017	NM_032838	Homo sapiens	zinc finger protein 566
+ENSG00000186017	NM_001145343	Homo sapiens	zinc finger protein 566
+ENSG00000196437	NM_152484	Homo sapiens	zinc finger protein 569
+ENSG00000204595	NM_001012728	Homo sapiens	divergent-paired related homeobox pseudogene 4; divergent-paired related homeobox
+ENSG00000173451	NM_031435	Homo sapiens	THAP domain containing, apoptosis associated protein 2
+ENSG00000151379	NM_001105569	Homo sapiens	mesogenin 1
+ENSG00000131721	NM_032498	Homo sapiens	Rhox homeobox family, member 2
+ENSG00000175592	NM_005438	Homo sapiens	FOS-like antigen 1
+ENSG00000001167	NM_021705	Homo sapiens	nuclear transcription factor Y, alpha
+ENSG00000001167	NM_002505	Homo sapiens	nuclear transcription factor Y, alpha
+ENSG00000164093	NM_153427	Homo sapiens	paired-like homeodomain 2
+ENSG00000164093	NM_153426	Homo sapiens	paired-like homeodomain 2
+ENSG00000164093	NM_000325	Homo sapiens	paired-like homeodomain 2
+ENSG00000215356	XM_001720735	Homo sapiens	hypothetical protein LOC100132396
+ENSG00000111249	NM_015267	Homo sapiens	cut-like homeobox 2
+ENSG00000166925	NM_030935	Homo sapiens	TSC22 domain family, member 4
+ENSG00000162676	NM_001127215	Homo sapiens	growth factor independent 1 transcription repressor
+ENSG00000162676	NM_001127216	Homo sapiens	growth factor independent 1 transcription repressor
+ENSG00000162676	NM_005263	Homo sapiens	growth factor independent 1 transcription repressor
+ENSG00000184280	NM_152354	Homo sapiens	zinc finger protein 285B; zinc finger protein 285A; zinc finger protein 806
+ENSG00000184280	XM_001724242	Homo sapiens	zinc finger protein 285B; zinc finger protein 285A; zinc finger protein 806
+ENSG00000184280	XM_002345581	Homo sapiens	zinc finger protein 285B; zinc finger protein 285A; zinc finger protein 806
+ENSG00000184280	XM_497879	Homo sapiens	zinc finger protein 285B; zinc finger protein 285A; zinc finger protein 806
+ENSG00000128652	NM_006898	Homo sapiens	homeobox D3
+ENSG00000090612	NM_015394	Homo sapiens	zinc finger protein 10
+ENSG00000150907	NM_002015	Homo sapiens	forkhead box O1
+ENSG00000007968	NM_004091	Homo sapiens	E2F transcription factor 2
+ENSG00000196843	NM_212481	Homo sapiens	AT rich interactive domain 5A (MRF1-like)
+ENSG00000198846	NM_014729	Homo sapiens	thymocyte selection-associated high mobility group box
+ENSG00000185122	NM_005526	Homo sapiens	heat shock transcription factor 1
+ENSG00000120669	NM_001144982	Homo sapiens	chromosome 13 open reading frame 38
+ENSG00000120669	NM_001144981	Homo sapiens	chromosome 13 open reading frame 38
+ENSG00000120669	NM_001144986	Homo sapiens	chromosome 13 open reading frame 38
+ENSG00000120669	NM_001144985	Homo sapiens	chromosome 13 open reading frame 38
+ENSG00000120669	NM_001144984	Homo sapiens	chromosome 13 open reading frame 38
+ENSG00000120669	NM_001144983	Homo sapiens	chromosome 13 open reading frame 38
+ENSG00000204793	NM_001085476	Homo sapiens	forkhead box D4-like 6
+ENSG00000167081	NM_006195	Homo sapiens	pre-B-cell leukemia homeobox 3
+ENSG00000167081	NM_001134778	Homo sapiens	pre-B-cell leukemia homeobox 3
+ENSG00000175322	NM_145287	Homo sapiens	zinc finger protein 519
+ENSG00000032219	NM_023000	Homo sapiens	AT rich interactive domain 4A (RBP1-like)
+ENSG00000032219	NM_023001	Homo sapiens	AT rich interactive domain 4A (RBP1-like)
+ENSG00000032219	NM_002892	Homo sapiens	AT rich interactive domain 4A (RBP1-like)
+ENSG00000155545	NM_152622	Homo sapiens	mesoderm induction early response 1, family member 3
+ENSG00000197497	NM_024733	Homo sapiens	zinc finger protein 665
+ENSG00000181315	NM_024639	Homo sapiens	zinc finger protein 322A
+ENSG00000196418	NM_003431	Homo sapiens	zinc finger protein 124
+ENSG00000183309	NM_001082480	Homo sapiens	zinc finger protein 623
+ENSG00000183309	NM_014789	Homo sapiens	zinc finger protein 623
+ENSG00000108312	NM_014233	Homo sapiens	upstream binding transcription factor, RNA polymerase I
+ENSG00000108312	NM_001076684	Homo sapiens	upstream binding transcription factor, RNA polymerase I
+ENSG00000108312	NM_001076683	Homo sapiens	upstream binding transcription factor, RNA polymerase I
+ENSG00000175329	NM_001008494	Homo sapiens	intestine-specific homeobox
+ENSG00000089775	NM_006977	Homo sapiens	zinc finger and BTB domain containing 25
+ENSG00000177599	NM_152356	Homo sapiens	zinc finger protein 491
+ENSG00000170954	NM_001164309	Homo sapiens	zinc finger protein 415
+ENSG00000170954	NM_001136038	Homo sapiens	zinc finger protein 415
+ENSG00000170954	NM_018355	Homo sapiens	zinc finger protein 415
+ENSG00000188994	NM_015021	Homo sapiens	zinc finger protein 292
+ENSG00000121297	NM_020856	Homo sapiens	teashirt zinc finger homeobox 3
+ENSG00000175325	NM_006261	Homo sapiens	PROP paired-like homeobox 1
+ENSG00000180479	NM_016536	Homo sapiens	zinc finger protein 571
+ENSG00000173039	NM_001145138	Homo sapiens	v-rel reticuloendotheliosis viral oncogene homolog A (avian)
+ENSG00000173039	NM_021975	Homo sapiens	v-rel reticuloendotheliosis viral oncogene homolog A (avian)
+ENSG00000086102	NM_002504	Homo sapiens	nuclear transcription factor, X-box binding 1
+ENSG00000086102	NM_147134	Homo sapiens	nuclear transcription factor, X-box binding 1
+ENSG00000086102	NM_147133	Homo sapiens	nuclear transcription factor, X-box binding 1
+ENSG00000125347	NM_002198	Homo sapiens	interferon regulatory factor 1
+ENSG00000011590	NM_014383	Homo sapiens	zinc finger and BTB domain containing 32
+ENSG00000177311	NM_001080412	Homo sapiens	zinc finger and BTB domain containing 38
+ENSG00000130827	NM_017514	Homo sapiens	plexin A3
+ENSG00000152439	NM_198542	Homo sapiens	zinc finger protein 773
+ENSG00000165643	NM_001101677	Homo sapiens	spermatogenesis and oogenesis specific basic helix-loop-helix 1
+ENSG00000165643	NM_001012415	Homo sapiens	spermatogenesis and oogenesis specific basic helix-loop-helix 1
+ENSG00000107485	NM_002051	Homo sapiens	GATA binding protein 3
+ENSG00000107485	NM_001002295	Homo sapiens	GATA binding protein 3
+ENSG00000092067	NM_001805	Homo sapiens	CCAAT/enhancer binding protein (C/EBP), epsilon
+ENSG00000128645	NM_024501	Homo sapiens	homeobox D1
+ENSG00000152433	NM_173631	Homo sapiens	zinc finger protein 547
+ENSG00000181722	NM_001164346	Homo sapiens	zinc finger and BTB domain containing 20
+ENSG00000181722	NM_001164345	Homo sapiens	zinc finger and BTB domain containing 20
+ENSG00000181722	NM_001164344	Homo sapiens	zinc finger and BTB domain containing 20
+ENSG00000181722	NM_001164343	Homo sapiens	zinc finger and BTB domain containing 20
+ENSG00000181722	NM_001164342	Homo sapiens	zinc finger and BTB domain containing 20
+ENSG00000181722	NM_015642	Homo sapiens	zinc finger and BTB domain containing 20
+ENSG00000181722	NM_001164347	Homo sapiens	zinc finger and BTB domain containing 20
+ENSG00000108753	NM_001165923	Homo sapiens	HNF1 homeobox B
+ENSG00000108753	NM_000458	Homo sapiens	HNF1 homeobox B
+ENSG00000196428	NM_014779	Homo sapiens	TSC22 domain family, member 2
+ENSG00000172379	NM_014862	Homo sapiens	aryl-hydrocarbon receptor nuclear translocator 2
+ENSG00000197483	NM_033113	Homo sapiens	zinc finger protein 628
+ENSG00000122145	NM_001109878	Homo sapiens	T-box 22
+ENSG00000122145	NM_001109879	Homo sapiens	T-box 22
+ENSG00000122145	NM_016954	Homo sapiens	T-box 22
+ENSG00000196409	NM_001032297	Homo sapiens	zinc finger protein 658 pseudogene; zinc finger protein 658B
+ENSG00000130182	NM_032805	Homo sapiens	zinc finger and SCAN domain containing 10
+ENSG00000163159	NM_005997	Homo sapiens	vacuolar protein sorting 72 homolog (S. cerevisiae)
+ENSG00000130844	NM_018555	Homo sapiens	zinc finger protein 331
+ENSG00000130844	NM_001079907	Homo sapiens	zinc finger protein 331
+ENSG00000130844	NM_001079906	Homo sapiens	zinc finger protein 331
+ENSG00000170949	NM_033288	Homo sapiens	zinc finger protein 160
+ENSG00000170949	NM_198893	Homo sapiens	zinc finger protein 160
+ENSG00000170949	NM_001102603	Homo sapiens	zinc finger protein 160
+ENSG00000116731	NM_001007257	Homo sapiens	PR domain containing 2, with ZNF domain
+ENSG00000116731	NM_001135610	Homo sapiens	PR domain containing 2, with ZNF domain
+ENSG00000116731	NM_015866	Homo sapiens	PR domain containing 2, with ZNF domain
+ENSG00000116731	NM_012231	Homo sapiens	PR domain containing 2, with ZNF domain
+ENSG00000152443	NM_173632	Homo sapiens	zinc finger protein 776
+ENSG00000185551	NM_001145156	Homo sapiens	nuclear receptor subfamily 2, group F, member 2
+ENSG00000185551	NM_001145155	Homo sapiens	nuclear receptor subfamily 2, group F, member 2
+ENSG00000185551	NM_001145157	Homo sapiens	nuclear receptor subfamily 2, group F, member 2
+ENSG00000185551	NM_021005	Homo sapiens	nuclear receptor subfamily 2, group F, member 2
+ENSG00000182742	NM_024015	Homo sapiens	homeobox B4
+ENSG00000196417	NM_001040185	Homo sapiens	zinc finger protein 765
+ENSG00000115966	NM_001880	Homo sapiens	activating transcription factor 2
+ENSG00000118217	NM_007348	Homo sapiens	activating transcription factor 6
+ENSG00000135457	NM_005653	Homo sapiens	transcription factor CP2
+ENSG00000196605	NM_001077624	Homo sapiens	zinc finger protein 846
+ENSG00000163508	NM_005442	Homo sapiens	eomesodermin homolog (Xenopus laevis)
+ENSG00000173011	NM_152293	Homo sapiens	transcriptional adaptor 2 (ADA2 homolog, yeast)-beta
+ENSG00000188629	NM_003451	Homo sapiens	zinc finger protein 177
+ENSG00000123307	NM_021191	Homo sapiens	neurogenic differentiation 4
+ENSG00000158055	NM_198174	Homo sapiens	grainyhead-like 3 (Drosophila)
+ENSG00000158055	NM_198173	Homo sapiens	grainyhead-like 3 (Drosophila)
+ENSG00000158055	NM_021180	Homo sapiens	grainyhead-like 3 (Drosophila)
+ENSG00000188620	NM_001105574	Homo sapiens	H6 family homeobox 3
+ENSG00000135625	NM_001965	Homo sapiens	early growth response 4
+ENSG00000152454	NM_005773	Homo sapiens	zinc finger protein 256
+ENSG00000130803	NM_020933	Homo sapiens	zinc finger protein 317
+ENSG00000173404	NM_002196	Homo sapiens	insulinoma-associated 1
+ENSG00000079432	NM_015125	Homo sapiens	capicua homolog (Drosophila)
+ENSG00000142065	NM_020917	Homo sapiens	zinc finger protein 14 homolog (mouse)
+ENSG00000064961	NM_006339	Homo sapiens	high-mobility group 20B
+ENSG00000163132	NM_002448	Homo sapiens	msh homeobox 1
+ENSG00000170927	NM_170724	Homo sapiens	polycystic kidney and hepatic disease 1 (autosomal recessive)
+ENSG00000170927	NM_138694	Homo sapiens	polycystic kidney and hepatic disease 1 (autosomal recessive)
+ENSG00000078900	NM_001126241	Homo sapiens	tumor protein p73
+ENSG00000078900	NM_001126240	Homo sapiens	tumor protein p73
+ENSG00000078900	NM_001126242	Homo sapiens	tumor protein p73
+ENSG00000078900	NM_005427	Homo sapiens	tumor protein p73
+ENSG00000135638	NM_004097	Homo sapiens	empty spiracles homeobox 1
+ENSG00000116990	NM_001033082	Homo sapiens	v-myc myelocytomatosis viral oncogene homolog 1, lung carcinoma derived (avian)
+ENSG00000116990	NM_001033081	Homo sapiens	v-myc myelocytomatosis viral oncogene homolog 1, lung carcinoma derived (avian)
+ENSG00000116990	NM_005376	Homo sapiens	v-myc myelocytomatosis viral oncogene homolog 1, lung carcinoma derived (avian)
+ENSG00000139445	NM_213596	Homo sapiens	forkhead box N4
+ENSG00000108175	NM_020338	Homo sapiens	zinc finger, MIZ-type containing 1
+ENSG00000169635	NM_015094	Homo sapiens	hypermethylated in cancer 2
+ENSG00000152467	NM_182572	Homo sapiens	zinc finger and SCAN domain containing 1
+ENSG00000166261	NM_003455	Homo sapiens	zinc finger protein 202
+ENSG00000128610	NM_001024613	Homo sapiens	FEZ family zinc finger 1
+ENSG00000128610	NM_001160264	Homo sapiens	FEZ family zinc finger 1
+ENSG00000130818	NM_024106	Homo sapiens	zinc finger protein 426
+ENSG00000221818	NM_022659	Homo sapiens	early B-cell factor 2
+ENSG00000164256	NM_020227	Homo sapiens	PR domain containing 9
+ENSG00000148737	NM_001146285	Homo sapiens	transcription factor 7-like 2 (T-cell specific, HMG-box)
+ENSG00000148737	NM_001146284	Homo sapiens	transcription factor 7-like 2 (T-cell specific, HMG-box)
+ENSG00000148737	NM_030756	Homo sapiens	transcription factor 7-like 2 (T-cell specific, HMG-box)
+ENSG00000148737	NM_001146286	Homo sapiens	transcription factor 7-like 2 (T-cell specific, HMG-box)
+ENSG00000148737	NM_001146283	Homo sapiens	transcription factor 7-like 2 (T-cell specific, HMG-box)
+ENSG00000148737	NM_001146274	Homo sapiens	transcription factor 7-like 2 (T-cell specific, HMG-box)
+ENSG00000171786	NM_005598	Homo sapiens	nescient helix loop helix 1
+ENSG00000112333	NM_003269	Homo sapiens	nuclear receptor subfamily 2, group E, member 1
+ENSG00000122515	NM_031449	Homo sapiens	zinc finger, MIZ-type containing 2
+ENSG00000122515	NM_174929	Homo sapiens	zinc finger, MIZ-type containing 2
+ENSG00000116035	NM_012476	Homo sapiens	ventral anterior homeobox 2
+ENSG00000162624	NM_001001933	Homo sapiens	LIM homeobox 8
+ENSG00000181965	NM_006161	Homo sapiens	neurogenin 1
+ENSG00000091656	NM_024721	Homo sapiens	zinc finger homeobox 4
+ENSG00000118260	NM_134442	Homo sapiens	cAMP responsive element binding protein 1
+ENSG00000118260	NM_004379	Homo sapiens	cAMP responsive element binding protein 1
+ENSG00000189299	NM_198451	Homo sapiens	forkhead box R2
+ENSG00000177551	NM_005599	Homo sapiens	nescient helix loop helix 2
+ENSG00000177551	NM_001111061	Homo sapiens	nescient helix loop helix 2
+ENSG00000189298	NM_024493	Homo sapiens	zinc finger with KRAB and SCAN domains 3
+ENSG00000112561	NM_007162	Homo sapiens	transcription factor EB
+ENSG00000112561	NM_001167827	Homo sapiens	transcription factor EB
+ENSG00000118263	NM_003709	Homo sapiens	Kruppel-like factor 7 (ubiquitous)
+ENSG00000064995	NM_005643	Homo sapiens	TAF11 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 28kDa
+ENSG00000117625	NM_001136223	Homo sapiens	REST corepressor 3
+ENSG00000117625	NM_001136224	Homo sapiens	REST corepressor 3
+ENSG00000117625	NM_001136225	Homo sapiens	REST corepressor 3
+ENSG00000117625	NM_018254	Homo sapiens	REST corepressor 3
+ENSG00000171574	NM_207395	Homo sapiens	zinc finger protein 324B
+ENSG00000174279	NM_001080458	Homo sapiens	even-skipped homeobox 2
+ENSG00000164048	NM_016089	Homo sapiens	zinc finger protein 589
+ENSG00000189079	NM_152641	Homo sapiens	AT rich interactive domain 2 (ARID, RFX-like)
+ENSG00000030419	NM_016260	Homo sapiens	IKAROS family zinc finger 2 (Helios)
+ENSG00000030419	NM_001079526	Homo sapiens	IKAROS family zinc finger 2 (Helios)
+ENSG00000205899	XM_001125971	Homo sapiens	basic helix-loop-helix family, member a9
+ENSG00000205899	NM_001164405	Homo sapiens	basic helix-loop-helix family, member a9
+ENSG00000205899	XM_001126841	Homo sapiens	basic helix-loop-helix family, member a9
+ENSG00000205899	XM_001716976	Homo sapiens	basic helix-loop-helix family, member a9
+ENSG00000173276	NM_020727	Homo sapiens	zinc finger protein 295
+ENSG00000173276	NM_001098403	Homo sapiens	zinc finger protein 295
+ENSG00000173276	NM_001098402	Homo sapiens	zinc finger protein 295
+ENSG00000078246	NM_001160408	Homo sapiens	tubby like protein 3
+ENSG00000078246	NM_003324	Homo sapiens	tubby like protein 3
+ENSG00000136931	NM_004959	Homo sapiens	nuclear receptor subfamily 5, group A, member 1
+ENSG00000171161	XM_001714091	Homo sapiens	zinc finger protein 672; hypothetical LOC100130262
+ENSG00000171161	XM_001724354	Homo sapiens	zinc finger protein 672; hypothetical LOC100130262
+ENSG00000171161	NM_024836	Homo sapiens	zinc finger protein 672; hypothetical LOC100130262
+ENSG00000171161	XM_001724097	Homo sapiens	zinc finger protein 672; hypothetical LOC100130262
+ENSG00000182968	NM_005986	Homo sapiens	SRY (sex determining region Y)-box 1
+ENSG00000173275	NM_152695	Homo sapiens	zinc finger protein 449
+ENSG00000147862	NM_005596	Homo sapiens	nuclear factor I/B
+ENSG00000171163	NM_017865	Homo sapiens	zinc finger protein 692
+ENSG00000171163	NM_001136036	Homo sapiens	zinc finger protein 692
+ENSG00000128604	NM_001098628	Homo sapiens	interferon regulatory factor 5
+ENSG00000128604	NM_001098629	Homo sapiens	interferon regulatory factor 5
+ENSG00000128604	NM_001098627	Homo sapiens	interferon regulatory factor 5
+ENSG00000128604	NM_001098630	Homo sapiens	interferon regulatory factor 5
+ENSG00000128604	NM_002200	Homo sapiens	interferon regulatory factor 5
+ENSG00000128604	NM_001098631	Homo sapiens	interferon regulatory factor 5
+ENSG00000128604	NM_032643	Homo sapiens	interferon regulatory factor 5
+ENSG00000018869	NM_144690	Homo sapiens	zinc finger protein 582
+ENSG00000132846	NM_032367	Homo sapiens	zinc finger, BED-type containing 3
+ENSG00000165606	NM_001080520	Homo sapiens	dorsal root ganglia homeobox
+ENSG00000179588	NM_153813	Homo sapiens	zinc finger protein, multitype 1
+ENSG00000039600	NM_007017	Homo sapiens	SRY (sex determining region Y)-box 30
+ENSG00000039600	NM_178424	Homo sapiens	SRY (sex determining region Y)-box 30
+ENSG00000166478	NM_003442	Homo sapiens	zinc finger protein 143
+ENSG00000049768	NM_001114377	Homo sapiens	forkhead box P3
+ENSG00000049768	NM_014009	Homo sapiens	forkhead box P3
+ENSG00000116044	NM_006164	Homo sapiens	nuclear factor (erythroid-derived 2)-like 2
+ENSG00000116044	NM_001145412	Homo sapiens	nuclear factor (erythroid-derived 2)-like 2
+ENSG00000116044	NM_001145413	Homo sapiens	nuclear factor (erythroid-derived 2)-like 2
+ENSG00000103460	NM_001080430	Homo sapiens	TOX high mobility group box family member 3
+ENSG00000103460	NM_001146188	Homo sapiens	TOX high mobility group box family member 3
+ENSG00000197782	NM_001142579	Homo sapiens	zinc finger protein 780A
+ENSG00000197782	NM_001142578	Homo sapiens	zinc finger protein 780A
+ENSG00000197782	NM_001142577	Homo sapiens	zinc finger protein 780A
+ENSG00000197782	NM_001010880	Homo sapiens	zinc finger protein 780A
+ENSG00000174282	NM_020899	Homo sapiens	zinc finger and BTB domain containing 4
+ENSG00000174282	NM_001128833	Homo sapiens	zinc finger and BTB domain containing 4
+ENSG00000173673	NM_001024598	Homo sapiens	hairy and enhancer of split 3 (Drosophila)
+ENSG00000182983	NM_207404	Homo sapiens	zinc finger protein 662
+ENSG00000182983	NM_001134656	Homo sapiens	zinc finger protein 662
+ENSG00000182986	NM_207333	Homo sapiens	zinc finger protein 320
+ENSG00000196653	NM_001134442	Homo sapiens	zinc finger protein 502
+ENSG00000196653	NM_001134441	Homo sapiens	zinc finger protein 502
+ENSG00000196653	NM_033210	Homo sapiens	zinc finger protein 502
+ENSG00000196653	NM_001134440	Homo sapiens	zinc finger protein 502
+ENSG00000118922	NM_007249	Homo sapiens	Kruppel-like factor 12
+ENSG00000189067	NM_004862	Homo sapiens	lipopolysaccharide-induced TNF factor
+ENSG00000189067	NM_001136473	Homo sapiens	lipopolysaccharide-induced TNF factor
+ENSG00000189067	NM_001136472	Homo sapiens	lipopolysaccharide-induced TNF factor
+ENSG00000196652	NM_014569	Homo sapiens	zinc finger with KRAB and SCAN domains 5
+ENSG00000196652	NM_145102	Homo sapiens	zinc finger with KRAB and SCAN domains 5
+ENSG00000122386	NM_003456	Homo sapiens	zinc finger protein 205
+ENSG00000122386	NM_001042428	Homo sapiens	zinc finger protein 205
+ENSG00000129071	NM_003925	Homo sapiens	methyl-CpG binding domain protein 4
+ENSG00000182979	NM_004689	Homo sapiens	metastasis associated 1
+ENSG00000165804	NM_001101672	Homo sapiens	zinc finger protein 219
+ENSG00000165804	NM_001102454	Homo sapiens	zinc finger protein 219
+ENSG00000165804	NM_016423	Homo sapiens	zinc finger protein 219
+ENSG00000136944	NM_002316	Homo sapiens	LIM homeobox transcription factor 1, beta
+ENSG00000185591	NM_003109	Homo sapiens	Sp1 transcription factor
+ENSG00000185591	NM_138473	Homo sapiens	Sp1 transcription factor
+ENSG00000132005	NM_002918	Homo sapiens	regulatory factor X, 1 (influences HLA class II expression)
+ENSG00000174255	NM_007136	Homo sapiens	zinc finger protein 80
+ENSG00000162601	NM_001085487	Homo sapiens	Myb-like, SWIRM and MPN domains 1
+ENSG00000124203	NM_178457	Homo sapiens	zinc finger protein 831
+ENSG00000157514	NM_198057	Homo sapiens	TSC22 domain family, member 3; GRAM domain containing 4
+ENSG00000157514	NM_004089	Homo sapiens	TSC22 domain family, member 3; GRAM domain containing 4
+ENSG00000157514	NM_001015881	Homo sapiens	TSC22 domain family, member 3; GRAM domain containing 4
+ENSG00000157514	NM_015124	Homo sapiens	TSC22 domain family, member 3; GRAM domain containing 4
+ENSG00000197779	NM_007137	Homo sapiens	zinc finger protein 81
+ENSG00000196646	NM_003437	Homo sapiens	zinc finger protein 136
+ENSG00000103241	NM_001451	Homo sapiens	forkhead box F1
+ENSG00000132010	NM_021143	Homo sapiens	zinc finger protein 20
+ENSG00000173253	NM_001130865	Homo sapiens	doublesex and mab-3 related transcription factor 2
+ENSG00000173253	NM_181872	Homo sapiens	doublesex and mab-3 related transcription factor 2
+ENSG00000173253	NM_006557	Homo sapiens	doublesex and mab-3 related transcription factor 2
+ENSG00000148704	NM_001112704	Homo sapiens	ventral anterior homeobox 1
+ENSG00000148704	NM_199131	Homo sapiens	ventral anterior homeobox 1
+ENSG00000213762	NM_003435	Homo sapiens	zinc finger protein 134
+ENSG00000181220	NM_152557	Homo sapiens	zinc finger protein 746
+ENSG00000181220	NM_001163474	Homo sapiens	zinc finger protein 746
+ENSG00000197279	NM_003447	Homo sapiens	zinc finger protein 165
+ENSG00000173258	NM_133464	Homo sapiens	zinc finger protein 483
+ENSG00000173258	NM_001007169	Homo sapiens	zinc finger protein 483
+ENSG00000168214	NM_203283	Homo sapiens	recombination signal binding protein for immunoglobulin kappa J region
+ENSG00000168214	NM_203284	Homo sapiens	recombination signal binding protein for immunoglobulin kappa J region
+ENSG00000168214	NM_015874	Homo sapiens	recombination signal binding protein for immunoglobulin kappa J region
+ENSG00000168214	NM_005349	Homo sapiens	recombination signal binding protein for immunoglobulin kappa J region
+ENSG00000204519	NM_138347	Homo sapiens	zinc finger protein 551
+ENSG00000221866	NM_001105543	Homo sapiens	plexin A4
+ENSG00000221866	NM_020911	Homo sapiens	plexin A4
+ENSG00000221866	NM_181775	Homo sapiens	plexin A4
+ENSG00000123358	NM_173157	Homo sapiens	nuclear receptor subfamily 4, group A, member 1
+ENSG00000123358	NM_002135	Homo sapiens	nuclear receptor subfamily 4, group A, member 1
+ENSG00000164011	NM_015911	Homo sapiens	zinc finger protein 691
+ENSG00000221869	NM_005195	Homo sapiens	CCAAT/enhancer binding protein (C/EBP), delta
+ENSG00000060566	NM_032607	Homo sapiens	cAMP responsive element binding protein 3-like 3
+ENSG00000182759	NM_201589	Homo sapiens	v-maf musculoaponeurotic fibrosarcoma oncogene homolog A (avian)
+ENSG00000171540	NM_032109	Homo sapiens	orthopedia homeobox
+ENSG00000171540	XM_002345816	Homo sapiens	orthopedia homeobox
+ENSG00000154655	NM_173464	Homo sapiens	l(3)mbt-like 4 (Drosophila)
+ENSG00000196628	NM_003199	Homo sapiens	transcription factor 4
+ENSG00000196628	NM_001083962	Homo sapiens	transcription factor 4
+ENSG00000113196	NM_004821	Homo sapiens	heart and neural crest derivatives expressed 1
+ENSG00000103449	NM_001127892	Homo sapiens	sal-like 1 (Drosophila)
+ENSG00000103449	NM_002968	Homo sapiens	sal-like 1 (Drosophila)
+ENSG00000160094	NM_152493	Homo sapiens	zinc finger protein 362
+ENSG00000102870	NM_001080417	Homo sapiens	zinc finger protein 629
+ENSG00000137504	NM_001039618	Homo sapiens	CREB/ATF bZIP transcription factor
+ENSG00000214022	NM_001099695	Homo sapiens	replication initiator 1
+ENSG00000214022	NM_001099696	Homo sapiens	replication initiator 1
+ENSG00000214022	NM_014374	Homo sapiens	replication initiator 1
+ENSG00000214022	NM_013400	Homo sapiens	replication initiator 1
+ENSG00000102878	NM_001538	Homo sapiens	heat shock transcription factor 4
+ENSG00000102878	NM_001040667	Homo sapiens	heat shock transcription factor 4
+ENSG00000134138	NM_002399	Homo sapiens	Meis homeobox 2
+ENSG00000134138	NM_170674	Homo sapiens	Meis homeobox 2
+ENSG00000134138	NM_172315	Homo sapiens	Meis homeobox 2
+ENSG00000134138	NM_170676	Homo sapiens	Meis homeobox 2
+ENSG00000134138	NM_170675	Homo sapiens	Meis homeobox 2
+ENSG00000134138	NM_172316	Homo sapiens	Meis homeobox 2
+ENSG00000134138	NM_170677	Homo sapiens	Meis homeobox 2
+ENSG00000160199	NM_004571	Homo sapiens	PBX/knotted 1 homeobox 1
+ENSG00000145908	NM_052860	Homo sapiens	zinc finger protein 300
+ENSG00000143418	NM_181746	Homo sapiens	LAG1 homolog, ceramide synthase 2
+ENSG00000143418	NM_022075	Homo sapiens	LAG1 homolog, ceramide synthase 2
+ENSG00000115415	NM_007315	Homo sapiens	signal transducer and activator of transcription 1, 91kDa
+ENSG00000115415	NM_139266	Homo sapiens	signal transducer and activator of transcription 1, 91kDa
+ENSG00000134317	NM_014552	Homo sapiens	grainyhead-like 1 (Drosophila)
+ENSG00000134317	NM_198182	Homo sapiens	grainyhead-like 1 (Drosophila)
+ENSG00000124216	NM_005985	Homo sapiens	snail homolog 1 (Drosophila)
+ENSG00000168310	NM_002199	Homo sapiens	interferon regulatory factor 2
+ENSG00000154957	NM_144680	Homo sapiens	zinc finger protein 18
+ENSG00000104447	NM_014112	Homo sapiens	trichorhinophalangeal syndrome I
+ENSG00000143006	NM_033067	Homo sapiens	DMRT-like family B with proline-rich C-terminal, 1
+ENSG00000152192	NM_006237	Homo sapiens	POU class 4 homeobox 1
+ENSG00000115297	NM_016170	Homo sapiens	T-cell leukemia homeobox 2
+ENSG00000188321	NM_032497	Homo sapiens	zinc finger protein 559
+ENSG00000178229	NM_213598	Homo sapiens	zinc finger protein 543
+ENSG00000160973	NM_003923	Homo sapiens	forkhead box H1
+ENSG00000070476	NM_001040653	Homo sapiens	ZXD family zinc finger C
+ENSG00000070476	NM_025112	Homo sapiens	ZXD family zinc finger C
+ENSG00000198093	NM_023074	Homo sapiens	zinc finger protein 649
+ENSG00000171532	NM_006160	Homo sapiens	neurogenic differentiation 2
+ENSG00000106689	NM_004789	Homo sapiens	LIM homeobox 2
+ENSG00000187079	NM_021961	Homo sapiens	TEA domain family member 1 (SV40 transcriptional enhancer factor)
+ENSG00000184436	NM_030573	Homo sapiens	THAP domain containing 7
+ENSG00000184436	NM_001008695	Homo sapiens	THAP domain containing 7
+ENSG00000073282	NM_001114980	Homo sapiens	tumor protein p63
+ENSG00000073282	NM_001114981	Homo sapiens	tumor protein p63
+ENSG00000073282	NM_001114979	Homo sapiens	tumor protein p63
+ENSG00000073282	NM_003722	Homo sapiens	tumor protein p63
+ENSG00000073282	NM_001114978	Homo sapiens	tumor protein p63
+ENSG00000073282	NM_001114982	Homo sapiens	tumor protein p63
+ENSG00000174963	NM_001168378	Homo sapiens	Zic family member 4
+ENSG00000174963	NM_001168379	Homo sapiens	Zic family member 4
+ENSG00000174963	NM_032153	Homo sapiens	Zic family member 4
+ENSG00000009950	NM_032953	Homo sapiens	MLX interacting protein-like
+ENSG00000009950	NM_032954	Homo sapiens	MLX interacting protein-like
+ENSG00000009950	NM_032951	Homo sapiens	MLX interacting protein-like
+ENSG00000009950	NM_032952	Homo sapiens	MLX interacting protein-like
+ENSG00000160967	NM_001913	Homo sapiens	cut-like homeobox 1
+ENSG00000160967	NM_181552	Homo sapiens	cut-like homeobox 1
+ENSG00000160967	NM_181500	Homo sapiens	cut-like homeobox 1
+ENSG00000154227	NM_178842	Homo sapiens	LAG1 homolog, ceramide synthase 3
+ENSG00000168286	NM_020457	Homo sapiens	THAP domain containing 11
+ENSG00000119866	NM_022893	Homo sapiens	B-cell CLL/lymphoma 11A (zinc finger protein)
+ENSG00000119866	NM_138559	Homo sapiens	B-cell CLL/lymphoma 11A (zinc finger protein)
+ENSG00000119866	NM_018014	Homo sapiens	B-cell CLL/lymphoma 11A (zinc finger protein)
+ENSG00000123364	NM_017410	Homo sapiens	homeobox C13
+ENSG00000134323	NM_005378	Homo sapiens	v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian)
+ENSG00000119042	NM_015265	Homo sapiens	SATB homeobox 2
+ENSG00000153896	NM_001007248	Homo sapiens	zinc finger protein 599
+ENSG00000124827	NM_004752	Homo sapiens	glial cells missing homolog 2 (Drosophila)
+ENSG00000120149	NM_002449	Homo sapiens	msh homeobox 2
+ENSG00000149480	NM_004739	Homo sapiens	metastasis associated 1 family, member 2
+ENSG00000197343	NM_138494	Homo sapiens	zinc finger protein 655
+ENSG00000197343	NM_024061	Homo sapiens	zinc finger protein 655
+ENSG00000197343	NM_001085366	Homo sapiens	zinc finger protein 655
+ENSG00000197343	NM_001083956	Homo sapiens	zinc finger protein 655
+ENSG00000197343	NM_001009958	Homo sapiens	zinc finger protein 655
+ENSG00000197343	NM_001085368	Homo sapiens	zinc finger protein 655
+ENSG00000197343	NM_001085367	Homo sapiens	zinc finger protein 655
+ENSG00000197343	NM_001009960	Homo sapiens	zinc finger protein 655
+ENSG00000189042	NM_152603	Homo sapiens	zinc finger protein 567
+ENSG00000143437	NM_001668	Homo sapiens	aryl hydrocarbon receptor nuclear translocator
+ENSG00000143437	NM_178427	Homo sapiens	aryl hydrocarbon receptor nuclear translocator
+ENSG00000143437	NM_178426	Homo sapiens	aryl hydrocarbon receptor nuclear translocator
+ENSG00000159184	NM_006361	Homo sapiens	homeobox B13
+ENSG00000159387	NM_024335	Homo sapiens	iroquois homeobox 6
+ENSG00000124232	NM_014276	Homo sapiens	recombination signal binding protein for immunoglobulin kappa J region-like
+ENSG00000008196	NM_003221	Homo sapiens	transcription factor AP-2 beta (activating enhancer binding protein 2 beta)
+ENSG00000008197	NM_172238	Homo sapiens	transcription factor AP-2 delta (activating enhancer binding protein 2 delta)
+ENSG00000177606	NM_002228	Homo sapiens	jun oncogene
+ENSG00000010818	NM_006734	Homo sapiens	human immunodeficiency virus type I enhancer binding protein 2
+ENSG00000123576	NM_153448	Homo sapiens	ESX homeobox 1
+ENSG00000036549	NM_015534	Homo sapiens	zinc finger, ZZ-type containing 3
+ENSG00000187855	NM_203436	Homo sapiens	achaete-scute complex homolog 4 (Drosophila)
+ENSG00000124813	NM_004348	Homo sapiens	runt-related transcription factor 2
+ENSG00000124813	NM_001024630	Homo sapiens	runt-related transcription factor 2
+ENSG00000124813	NM_001015051	Homo sapiens	runt-related transcription factor 2
+ENSG00000165588	NM_021728	Homo sapiens	orthodenticle homeobox 2
+ENSG00000165588	NM_172337	Homo sapiens	orthodenticle homeobox 2
+ENSG00000134107	NM_003670	Homo sapiens	basic helix-loop-helix family, member e40
+ENSG00000176399	NM_022160	Homo sapiens	DMRT-like family A1
+ENSG00000143032	NM_020063	Homo sapiens	BarH-like homeobox 2
+ENSG00000188171	NM_001076675	Homo sapiens	zinc finger protein 626
+ENSG00000188171	NM_145297	Homo sapiens	zinc finger protein 626
+ENSG00000116132	NM_006902	Homo sapiens	paired related homeobox 1
+ENSG00000116132	NM_022716	Homo sapiens	paired related homeobox 1
+ENSG00000213347	NM_031300	Homo sapiens	MAX dimerization protein 3
+ENSG00000213347	NM_001142935	Homo sapiens	MAX dimerization protein 3
+ENSG00000168267	NM_178161	Homo sapiens	pancreas specific transcription factor, 1a
+ENSG00000174332	NM_147193	Homo sapiens	GLIS family zinc finger 1
+ENSG00000186790	NM_012186	Homo sapiens	forkhead box E3
+ENSG00000123388	NM_014212	Homo sapiens	homeobox C11
+ENSG00000168062	NM_138456	Homo sapiens	basic leucine zipper transcription factor, ATF-like 2
+ENSG00000168269	NM_144769	Homo sapiens	forkhead box I1
+ENSG00000168269	NM_012188	Homo sapiens	forkhead box I1
+ENSG00000174738	NM_005126	Homo sapiens	nuclear receptor subfamily 1, group D, member 2
+ENSG00000174738	NM_001145425	Homo sapiens	nuclear receptor subfamily 1, group D, member 2
+ENSG00000122180	NM_002479	Homo sapiens	myogenin (myogenic factor 4)
+ENSG00000163435	NM_004433	Homo sapiens	E74-like factor 3 (ets domain transcription factor, epithelial-specific )
+ENSG00000163435	NM_001114309	Homo sapiens	E74-like factor 3 (ets domain transcription factor, epithelial-specific )
+ENSG00000158691	NM_001145043	Homo sapiens	zinc finger and SCAN domain containing 12
+ENSG00000158691	NM_001163391	Homo sapiens	zinc finger and SCAN domain containing 12
+ENSG00000153879	NM_001806	Homo sapiens	CCAAT/enhancer binding protein (C/EBP), gamma
+ENSG00000187626	NM_019110	Homo sapiens	zinc finger with KRAB and SCAN domains 4
+ENSG00000197566	NM_020787	Homo sapiens	zinc finger protein 624
+ENSG00000143995	NM_002398	Homo sapiens	Meis homeobox 1
+ENSG00000101096	NM_173091	Homo sapiens	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2
+ENSG00000101096	NM_001136021	Homo sapiens	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2
+ENSG00000101096	NM_012340	Homo sapiens	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2
+ENSG00000161298	NM_032825	Homo sapiens	zinc finger protein 382
+ENSG00000131914	NM_024674	Homo sapiens	lin-28 homolog (C. elegans)
+ENSG00000142528	NM_015428	Homo sapiens	zinc finger protein 473
+ENSG00000142528	NM_001006656	Homo sapiens	zinc finger protein 473
+ENSG00000083844	NM_003417	Homo sapiens	zinc finger protein 264
+ENSG00000206289	NM_021976	Homo sapiens	retinoid X receptor, beta
+ENSG00000198176	NM_007111	Homo sapiens	transcription factor Dp-1
+ENSG00000118707	NM_021809	Homo sapiens	TGFB-induced factor homeobox 2
+ENSG00000185278	NM_032522	Homo sapiens	zinc finger and BTB domain containing 37
+ENSG00000185278	NM_001122770	Homo sapiens	zinc finger and BTB domain containing 37
+ENSG00000143257	NM_001077471	Homo sapiens	nuclear receptor subfamily 1, group I, member 3
+ENSG00000143257	NM_001077481	Homo sapiens	nuclear receptor subfamily 1, group I, member 3
+ENSG00000143257	NM_001077482	Homo sapiens	nuclear receptor subfamily 1, group I, member 3
+ENSG00000143257	NM_001077470	Homo sapiens	nuclear receptor subfamily 1, group I, member 3
+ENSG00000143257	NM_005122	Homo sapiens	nuclear receptor subfamily 1, group I, member 3
+ENSG00000143257	NM_001077480	Homo sapiens	nuclear receptor subfamily 1, group I, member 3
+ENSG00000143257	NM_001077469	Homo sapiens	nuclear receptor subfamily 1, group I, member 3
+ENSG00000143257	NM_001077474	Homo sapiens	nuclear receptor subfamily 1, group I, member 3
+ENSG00000143257	NM_001077475	Homo sapiens	nuclear receptor subfamily 1, group I, member 3
+ENSG00000143257	NM_001077472	Homo sapiens	nuclear receptor subfamily 1, group I, member 3
+ENSG00000143257	NM_001077473	Homo sapiens	nuclear receptor subfamily 1, group I, member 3
+ENSG00000143257	NM_001077478	Homo sapiens	nuclear receptor subfamily 1, group I, member 3
+ENSG00000143257	NM_001077479	Homo sapiens	nuclear receptor subfamily 1, group I, member 3
+ENSG00000143257	NM_001077476	Homo sapiens	nuclear receptor subfamily 1, group I, member 3
+ENSG00000143257	NM_001077477	Homo sapiens	nuclear receptor subfamily 1, group I, member 3
+ENSG00000198182	NM_032689	Homo sapiens	zinc finger protein 607
+ENSG00000129514	NM_004496	Homo sapiens	forkhead box A1
+ENSG00000131931	NM_199003	Homo sapiens	THAP domain containing, apoptosis associated protein 1
+ENSG00000131931	NM_018105	Homo sapiens	THAP domain containing, apoptosis associated protein 1
+ENSG00000112365	NM_001164313	Homo sapiens	zinc finger and BTB domain containing 24
+ENSG00000112365	NM_014797	Homo sapiens	zinc finger and BTB domain containing 24
+ENSG00000154727	NM_002040	Homo sapiens	GA binding protein transcription factor, alpha subunit 60kDa
+ENSG00000134758	NM_016271	Homo sapiens	ring finger protein 138
+ENSG00000134758	NM_198128	Homo sapiens	ring finger protein 138
+ENSG00000161405	NM_183229	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+ENSG00000161405	NM_183228	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+ENSG00000161405	NM_183232	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+ENSG00000161405	NM_183231	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+ENSG00000161405	NM_183230	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+ENSG00000161405	NM_012481	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+ENSG00000029993	XM_929965	Homo sapiens	similar to high mobility group box 3; high-mobility group box 3
+ENSG00000029993	NM_005342	Homo sapiens	similar to high mobility group box 3; high-mobility group box 3
+ENSG00000029993	XM_002342586	Homo sapiens	similar to high mobility group box 3; high-mobility group box 3
+ENSG00000029993	XM_001717725	Homo sapiens	similar to high mobility group box 3; high-mobility group box 3
+ENSG00000029993	XM_001717176	Homo sapiens	similar to high mobility group box 3; high-mobility group box 3
+ENSG00000029993	XM_001714426	Homo sapiens	similar to high mobility group box 3; high-mobility group box 3
+ENSG00000029993	XM_001130734	Homo sapiens	similar to high mobility group box 3; high-mobility group box 3
+ENSG00000029993	XM_939877	Homo sapiens	similar to high mobility group box 3; high-mobility group box 3
+ENSG00000184677	NM_014870	Homo sapiens	zinc finger and BTB domain containing 40
+ENSG00000184677	NM_001083621	Homo sapiens	zinc finger and BTB domain containing 40
+ENSG00000105261	XM_001717165	Homo sapiens	similar to OVO homolog-like 1
+ENSG00000105261	XM_001716321	Homo sapiens	similar to OVO homolog-like 1
+ENSG00000105261	XM_001715091	Homo sapiens	similar to OVO homolog-like 1
+ENSG00000174595	NM_138693	Homo sapiens	Kruppel-like factor 14
+ENSG00000197576	NM_002141	Homo sapiens	homeobox A4
+ENSG00000157613	NM_052854	Homo sapiens	cAMP responsive element binding protein 3-like 1
+ENSG00000198185	NM_199441	Homo sapiens	zinc finger protein 334
+ENSG00000198185	NM_018102	Homo sapiens	zinc finger protein 334
+ENSG00000063587	NM_001080485	Homo sapiens	zinc finger protein 275
+ENSG00000198081	NM_003409	Homo sapiens	zinc finger protein 161 homolog (mouse)
+ENSG00000198081	NM_001143823	Homo sapiens	zinc finger protein 161 homolog (mouse)
+ENSG00000101076	NM_001030004	Homo sapiens	hepatocyte nuclear factor 4, alpha
+ENSG00000101076	NM_178850	Homo sapiens	hepatocyte nuclear factor 4, alpha
+ENSG00000101076	NM_175914	Homo sapiens	hepatocyte nuclear factor 4, alpha
+ENSG00000101076	NM_178849	Homo sapiens	hepatocyte nuclear factor 4, alpha
+ENSG00000101076	NM_001030003	Homo sapiens	hepatocyte nuclear factor 4, alpha
+ENSG00000101076	NM_000457	Homo sapiens	hepatocyte nuclear factor 4, alpha
+ENSG00000070444	NM_020310	Homo sapiens	MAX binding protein
+ENSG00000113722	NM_001804	Homo sapiens	caudal type homeobox 1
+ENSG00000174586	NM_198458	Homo sapiens	zinc finger protein 497
+ENSG00000149136	NM_003146	Homo sapiens	structure specific recognition protein 1
+ENSG00000089486	NM_013399	Homo sapiens	chromosome 16 open reading frame 5
+ENSG00000165556	NM_001265	Homo sapiens	caudal type homeobox 2
+ENSG00000160961	NM_032433	Homo sapiens	zinc finger protein 333
+ENSG00000148516	NM_001128128	Homo sapiens	zinc finger E-box binding homeobox 1
+ENSG00000148516	NM_030751	Homo sapiens	zinc finger E-box binding homeobox 1
+ENSG00000137309	XM_001720338	Homo sapiens	hypothetical LOC100130009; high mobility group AT-hook 1
+ENSG00000137309	XM_001719388	Homo sapiens	hypothetical LOC100130009; high mobility group AT-hook 1
+ENSG00000137309	NM_002131	Homo sapiens	hypothetical LOC100130009; high mobility group AT-hook 1
+ENSG00000137309	NM_145899	Homo sapiens	hypothetical LOC100130009; high mobility group AT-hook 1
+ENSG00000137309	XM_001718914	Homo sapiens	hypothetical LOC100130009; high mobility group AT-hook 1
+ENSG00000137309	NM_145905	Homo sapiens	hypothetical LOC100130009; high mobility group AT-hook 1
+ENSG00000137309	NM_145902	Homo sapiens	hypothetical LOC100130009; high mobility group AT-hook 1
+ENSG00000137309	NM_145901	Homo sapiens	hypothetical LOC100130009; high mobility group AT-hook 1
+ENSG00000137309	NM_145903	Homo sapiens	hypothetical LOC100130009; high mobility group AT-hook 1
+ENSG00000184659	NM_199244	Homo sapiens	forkhead box D4-like 2; forkhead box D4-like 4
+ENSG00000184659	NM_001099279	Homo sapiens	forkhead box D4-like 2; forkhead box D4-like 4
+ENSG00000140548	NM_198526	Homo sapiens	zinc finger protein 710
+ENSG00000125533	NM_080606	Homo sapiens	basic helix-loop-helix family, member e23
+ENSG00000114861	NM_032682	Homo sapiens	forkhead box P1
+ENSG00000114861	NM_001012505	Homo sapiens	forkhead box P1
+ENSG00000197587	NM_147192	Homo sapiens	diencephalon/mesencephalon homeobox 1
+ENSG00000197587	NM_172225	Homo sapiens	diencephalon/mesencephalon homeobox 1
+ENSG00000173875	NM_153358	Homo sapiens	zinc finger protein 791
+ENSG00000171735	NM_015215	Homo sapiens	calmodulin binding transcription activator 1
+ENSG00000186766	NM_207426	Homo sapiens	forkhead box I2
+ENSG00000174306	NM_015035	Homo sapiens	zinc fingers and homeoboxes 3
+ENSG00000143067	XM_001716853	Homo sapiens	hypothetical LOC100130667; zinc finger protein 697
+ENSG00000143067	XM_001716408	Homo sapiens	hypothetical LOC100130667; zinc finger protein 697
+ENSG00000143067	XM_001715213	Homo sapiens	hypothetical LOC100130667; zinc finger protein 697
+ENSG00000143067	NM_001080470	Homo sapiens	hypothetical LOC100130667; zinc finger protein 697
+ENSG00000161277	NM_152658	Homo sapiens	THAP domain containing 8
+ENSG00000169554	NM_014795	Homo sapiens	zinc finger E-box binding homeobox 2
+ENSG00000169554	NM_001171653	Homo sapiens	zinc finger E-box binding homeobox 2
+ENSG00000175832	NM_001986	Homo sapiens	ets variant 4
+ENSG00000175832	NM_001079675	Homo sapiens	ets variant 4
+ENSG00000123933	NM_006454	Homo sapiens	MAX dimerization protein 4
+ENSG00000131910	NM_021969	Homo sapiens	nuclear receptor subfamily 0, group B, member 2
+ENSG00000129535	NM_006177	Homo sapiens	neural retina leucine zipper
+ENSG00000006194	NM_005741	Homo sapiens	zinc finger protein 263
+ENSG00000187607	NM_001130842	Homo sapiens	zinc finger protein 286A
+ENSG00000187607	NM_020652	Homo sapiens	zinc finger protein 286A
+ENSG00000198597	NM_014717	Homo sapiens	zinc finger protein 536
+ENSG00000167685	NM_018337	Homo sapiens	zinc finger protein 444
+ENSG00000100426	NM_014838	Homo sapiens	zinc finger, BED-type containing 4
+ENSG00000187098	NM_000248	Homo sapiens	microphthalmia-associated transcription factor
+ENSG00000187098	NM_198177	Homo sapiens	microphthalmia-associated transcription factor
+ENSG00000187098	NM_198159	Homo sapiens	microphthalmia-associated transcription factor
+ENSG00000187098	NM_198158	Homo sapiens	microphthalmia-associated transcription factor
+ENSG00000187098	NM_198178	Homo sapiens	microphthalmia-associated transcription factor
+ENSG00000187098	NM_006722	Homo sapiens	microphthalmia-associated transcription factor
+ENSG00000114853	NM_145166	Homo sapiens	zinc finger and BTB domain containing 47
+ENSG00000142539	NM_003121	Homo sapiens	Spi-B transcription factor (Spi-1/PU.1 related)
+ENSG00000168348	NM_032594	Homo sapiens	insulinoma-associated 2
+ENSG00000064933	NM_000534	Homo sapiens	PMS1 postmeiotic segregation increased 1 (S. cerevisiae)
+ENSG00000064933	NM_001128143	Homo sapiens	PMS1 postmeiotic segregation increased 1 (S. cerevisiae)
+ENSG00000064933	NM_001128144	Homo sapiens	PMS1 postmeiotic segregation increased 1 (S. cerevisiae)
+ENSG00000125740	NM_001114171	Homo sapiens	FBJ murine osteosarcoma viral oncogene homolog B
+ENSG00000125740	NM_006732	Homo sapiens	FBJ murine osteosarcoma viral oncogene homolog B
+ENSG00000185022	NM_152878	Homo sapiens	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)
+ENSG00000185022	NM_012323	Homo sapiens	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)
+ENSG00000185022	NM_001161572	Homo sapiens	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)
+ENSG00000185022	NM_001161573	Homo sapiens	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)
+ENSG00000185022	NM_001161574	Homo sapiens	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)
+ENSG00000198131	NM_014480	Homo sapiens	zinc finger protein 544
+ENSG00000105976	NM_000245	Homo sapiens	met proto-oncogene (hepatocyte growth factor receptor)
+ENSG00000105976	NM_001127500	Homo sapiens	met proto-oncogene (hepatocyte growth factor receptor)
+ENSG00000198026	NM_022095	Homo sapiens	zinc finger protein 335
+ENSG00000124092	NM_080618	Homo sapiens	CCCTC-binding factor (zinc finger protein)-like
+ENSG00000203883	NM_018419	Homo sapiens	SRY (sex determining region Y)-box 18
+ENSG00000159915	NM_181756	Homo sapiens	zinc finger protein 233
+ENSG00000198028	NM_152476	Homo sapiens	zinc finger protein 560
+ENSG00000159917	NM_004234	Homo sapiens	zinc finger protein 235
+ENSG00000126603	NM_032575	Homo sapiens	GLIS family zinc finger 2
+ENSG00000175691	NM_021217	Homo sapiens	zinc finger protein 77
+ENSG00000125945	NM_001077195	Homo sapiens	zinc finger protein 436
+ENSG00000125945	NM_030634	Homo sapiens	zinc finger protein 436
+ENSG00000137166	NM_138457	Homo sapiens	forkhead box P4
+ENSG00000137166	NM_001012427	Homo sapiens	forkhead box P4
+ENSG00000137166	NM_001012426	Homo sapiens	forkhead box P4
+ENSG00000160113	NM_005234	Homo sapiens	nuclear receptor subfamily 2, group F, member 6
+ENSG00000178951	NM_015898	Homo sapiens	zinc finger and BTB domain containing 7A
+ENSG00000126804	NM_014950	Homo sapiens	zinc finger and BTB domain containing 1
+ENSG00000126804	NM_001123329	Homo sapiens	zinc finger and BTB domain containing 1
+ENSG00000156925	NM_003413	Homo sapiens	Zic family member 3 (odd-paired homolog, Drosophila)
+ENSG00000150347	NM_032199	Homo sapiens	AT rich interactive domain 5B (MRF1-like)
+ENSG00000101057	NM_002466	Homo sapiens	v-myb myeloblastosis viral oncogene homolog (avian)-like 2
+ENSG00000134595	NM_005634	Homo sapiens	SRY (sex determining region Y)-box 3
+ENSG00000198146	NM_014106	Homo sapiens	zinc finger protein 770
+ENSG00000083817	NM_017879	Homo sapiens	zinc finger protein 416
+ENSG00000105967	NM_001018058	Homo sapiens	transcription factor EC
+ENSG00000105967	NM_012252	Homo sapiens	transcription factor EC
+ENSG00000083812	NM_014347	Homo sapiens	zinc finger protein 324
+ENSG00000083814	NM_024833	Homo sapiens	zinc finger protein 671
+ENSG00000160321	NM_007153	Homo sapiens	zinc finger protein 208
+ENSG00000156127	NM_006399	Homo sapiens	basic leucine zipper transcription factor, ATF-like
+ENSG00000113916	NM_001134738	Homo sapiens	B-cell CLL/lymphoma 6
+ENSG00000113916	NM_001130845	Homo sapiens	B-cell CLL/lymphoma 6
+ENSG00000113916	NM_001706	Homo sapiens	B-cell CLL/lymphoma 6
+ENSG00000124496	NM_033502	Homo sapiens	transcriptional regulating factor 1
+ENSG00000196812	NM_025231	Homo sapiens	zinc finger and SCAN domain containing 16
+ENSG00000163909	NM_014571	Homo sapiens	hairy/enhancer-of-split related with YRPW motif-like
+ENSG00000185960	NM_006883	Homo sapiens	short stature homeobox
+ENSG00000185960	NM_000451	Homo sapiens	short stature homeobox
+ENSG00000159905	NM_001144824	Homo sapiens	zinc finger protein 234
+ENSG00000159905	NM_006630	Homo sapiens	zinc finger protein 234
+ENSG00000179965	NM_001142305	Homo sapiens	zinc finger protein 771
+ENSG00000179965	NM_016643	Homo sapiens	zinc finger protein 771
+ENSG00000140836	NM_001164766	Homo sapiens	zinc finger homeobox 3; hypothetical LOC100132068
+ENSG00000140836	NM_006885	Homo sapiens	zinc finger homeobox 3; hypothetical LOC100132068
+ENSG00000113716	NM_014983	Homo sapiens	HMG box domain containing 3
+ENSG00000198346	NM_001004301	Homo sapiens	zinc finger protein 813
+ENSG00000172748	NM_001042416	Homo sapiens	zinc finger protein 596
+ENSG00000172748	NM_173539	Homo sapiens	zinc finger protein 596
+ENSG00000172748	NM_001042415	Homo sapiens	zinc finger protein 596
+ENSG00000180855	NM_005815	Homo sapiens	zinc finger protein 443
+ENSG00000198342	NM_030824	Homo sapiens	zinc finger protein 442
+ENSG00000125952	NM_002382	Homo sapiens	MYC associated factor X
+ENSG00000125952	NM_197957	Homo sapiens	MYC associated factor X
+ENSG00000125952	NM_145114	Homo sapiens	MYC associated factor X
+ENSG00000125952	NM_145112	Homo sapiens	MYC associated factor X
+ENSG00000125952	NM_145113	Homo sapiens	MYC associated factor X
+ENSG00000125952	NM_145116	Homo sapiens	MYC associated factor X
+ENSG00000206454	NM_203289	Homo sapiens	POU class 5 homeobox 1
+ENSG00000206454	NM_002701	Homo sapiens	POU class 5 homeobox 1
+ENSG00000198153	NM_001145404	Homo sapiens	zinc finger protein 506
+ENSG00000198153	NM_001099269	Homo sapiens	zinc finger protein 506
+ENSG00000111087	NM_001167609	Homo sapiens	GLI family zinc finger 1
+ENSG00000111087	NM_001160045	Homo sapiens	GLI family zinc finger 1
+ENSG00000111087	NM_005269	Homo sapiens	GLI family zinc finger 1
+ENSG00000136504	NM_007067	Homo sapiens	MYST histone acetyltransferase 2; similar to MYST histone acetyltransferase 2
+ENSG00000175879	NM_019558	Homo sapiens	homeobox D8
+ENSG00000105750	NM_003429	Homo sapiens	zinc finger protein 85
+ENSG00000151612	NM_178835	Homo sapiens	zinc finger protein 827
+ENSG00000198046	NM_022103	Homo sapiens	zinc finger protein 667
+ENSG00000121075	NM_018488	Homo sapiens	T-box 4
+ENSG00000083828	NM_017652	Homo sapiens	zinc finger protein 586
+ENSG00000066136	NM_001142590	Homo sapiens	nuclear transcription factor Y, gamma
+ENSG00000066136	NM_001142589	Homo sapiens	nuclear transcription factor Y, gamma
+ENSG00000066136	NM_001142587	Homo sapiens	nuclear transcription factor Y, gamma
+ENSG00000066136	NM_001142588	Homo sapiens	nuclear transcription factor Y, gamma
+ENSG00000066136	NM_014223	Homo sapiens	nuclear transcription factor Y, gamma
+ENSG00000215271	NM_020834	Homo sapiens	homeobox and leucine zipper encoding
+ENSG00000089902	NM_015156	Homo sapiens	REST corepressor 1
+ENSG00000119608	NM_001080408	Homo sapiens	prospero homeobox 2
+ENSG00000204231	NM_021976	Homo sapiens	retinoid X receptor, beta
+ENSG00000147488	NM_014682	Homo sapiens	suppression of tumorigenicity 18 (breast carcinoma) (zinc finger protein)
+ENSG00000172789	NM_018953	Homo sapiens	homeobox C5
+ENSG00000185947	NM_003414	Homo sapiens	zinc finger protein 267
+ENSG00000213921	NM_001143832	Homo sapiens	leucine twenty homeobox
+ENSG00000137185	NM_006299	Homo sapiens	zinc finger protein 193
+ENSG00000125968	NM_181353	Homo sapiens	inhibitor of DNA binding 1, dominant negative helix-loop-helix protein
+ENSG00000125968	NM_002165	Homo sapiens	inhibitor of DNA binding 1, dominant negative helix-loop-helix protein
+ENSG00000196214	NM_001010851	Homo sapiens	zinc finger protein 766
+ENSG00000213928	NM_006084	Homo sapiens	interferon regulatory factor 9
+ENSG00000198040	NM_001127372	Homo sapiens	zinc finger protein 84
+ENSG00000198040	NM_003428	Homo sapiens	zinc finger protein 84
+ENSG00000184895	NM_003140	Homo sapiens	sex determining region Y
+ENSG00000151090	NM_000461	Homo sapiens	thyroid hormone receptor, beta (erythroblastic leukemia viral (v-erb-a) oncogene homolog 2, avian)
+ENSG00000151090	NM_001128177	Homo sapiens	thyroid hormone receptor, beta (erythroblastic leukemia viral (v-erb-a) oncogene homolog 2, avian)
+ENSG00000151090	NM_001128176	Homo sapiens	thyroid hormone receptor, beta (erythroblastic leukemia viral (v-erb-a) oncogene homolog 2, avian)
+ENSG00000178935	NM_024762	Homo sapiens	zinc finger protein 552
+ENSG00000144355	NM_001038493	Homo sapiens	distal-less homeobox 1
+ENSG00000144355	NM_178120	Homo sapiens	distal-less homeobox 1
+ENSG00000130584	NM_025224	Homo sapiens	zinc finger and BTB domain containing 46
+ENSG00000043039	NM_003658	Homo sapiens	BARX homeobox 2
+ENSG00000004848	NM_139058	Homo sapiens	aristaless related homeobox
+ENSG00000198353	NM_153633	Homo sapiens	homeobox C4
+ENSG00000198353	NM_014620	Homo sapiens	homeobox C4
+ENSG00000120738	NM_001964	Homo sapiens	early growth response 1
+ENSG00000180884	NM_175872	Homo sapiens	zinc finger protein 792
+ENSG00000184492	NM_012184	Homo sapiens	forkhead box D4-like 1
+ENSG00000119614	NM_182894	Homo sapiens	visual system homeobox 2
+ENSG00000083838	NM_017908	Homo sapiens	zinc finger protein 446
+ENSG00000121068	NM_005994	Homo sapiens	T-box 2
+ENSG00000160908	NM_032164	Homo sapiens	zinc finger protein 394
+ENSG00000198169	NM_138367	Homo sapiens	zinc finger protein 251
+ENSG00000180053	NM_001136271	Homo sapiens	NK2 transcription factor related, locus 6 (Drosophila)
+ENSG00000138083	NM_005413	Homo sapiens	SIX homeobox 3
+ENSG00000179943	NM_032836	Homo sapiens	FLT3-interacting zinc finger 1
+ENSG00000164778	NM_001427	Homo sapiens	engrailed homeobox 2
+ENSG00000198039	NM_021148	Homo sapiens	zinc finger protein 273
+ENSG00000168505	NM_001485	Homo sapiens	gastrulation brain homeobox 2
+ENSG00000146618	NM_152898	Homo sapiens	Fer3-like (Drosophila)
+ENSG00000082175	NM_000926	Homo sapiens	progesterone receptor
+ENSG00000106410	NM_001080413	Homo sapiens	NOBOX oogenesis homeobox
+ENSG00000180257	NM_001031665	Homo sapiens	zinc finger protein 816A
+ENSG00000186103	NM_001012659	Homo sapiens	arginine-fifty homeobox
+ENSG00000168779	NM_006884	Homo sapiens	short stature homeobox 2
+ENSG00000168779	NM_003030	Homo sapiens	short stature homeobox 2
+ENSG00000168779	NM_001163678	Homo sapiens	short stature homeobox 2
+ENSG00000083842	NM_021089	Homo sapiens	zinc finger protein 8
+ENSG00000088876	NM_024325	Homo sapiens	zinc finger protein 343
+ENSG00000160352	NM_182515	Homo sapiens	zinc finger protein 714
+ENSG00000184486	NM_005604	Homo sapiens	POU class 3 homeobox 2
+ENSG00000177873	NM_173656	Homo sapiens	zinc finger protein 619
+ENSG00000177873	NM_001145094	Homo sapiens	zinc finger protein 619
+ENSG00000177873	NM_001145093	Homo sapiens	zinc finger protein 619
+ENSG00000177873	NM_001145082	Homo sapiens	zinc finger protein 619
+ENSG00000177873	NM_001145083	Homo sapiens	zinc finger protein 619
+ENSG00000184481	NM_001170931	Homo sapiens	forkhead box O4
+ENSG00000184481	NM_005938	Homo sapiens	forkhead box O4
+ENSG00000126368	NM_021724	Homo sapiens	nuclear receptor subfamily 1, group D, member 1
+ENSG00000114126	NM_006286	Homo sapiens	transcription factor Dp-2 (E2F dimerization partner 2)
+ENSG00000105732	NM_022752	Homo sapiens	zinc finger protein 574
+ENSG00000213988	NM_021047	Homo sapiens	zinc finger protein 253
+ENSG00000107175	NM_006368	Homo sapiens	cAMP responsive element binding protein 3
+ENSG00000177125	NM_001099270	Homo sapiens	zinc finger and BTB domain containing 34
+ENSG00000179388	NM_004430	Homo sapiens	early growth response 3
+ENSG00000196233	NM_032440	Homo sapiens	ligand dependent nuclear receptor corepressor
+ENSG00000196233	NM_001170765	Homo sapiens	ligand dependent nuclear receptor corepressor
+ENSG00000196233	NM_001170766	Homo sapiens	ligand dependent nuclear receptor corepressor
+ENSG00000167635	NM_007145	Homo sapiens	zinc finger protein 146
+ENSG00000167635	NM_001099639	Homo sapiens	zinc finger protein 146
+ENSG00000167635	NM_001099638	Homo sapiens	zinc finger protein 146
+ENSG00000180806	NM_006897	Homo sapiens	homeobox C9
+ENSG00000174796	NM_144721	Homo sapiens	THAP domain containing 6
+ENSG00000187821	NM_001029887	Homo sapiens	HES/HEY-like transcription factor
+ENSG00000185730	NM_030895	Homo sapiens	zinc finger protein 696
+ENSG00000131668	NM_021570	Homo sapiens	BARX homeobox 1
+ENSG00000198105	NM_021045	Homo sapiens	zinc finger protein 248
+ENSG00000005889	NM_003410	Homo sapiens	zinc finger protein, X-linked
+ENSG00000131264	NM_005193	Homo sapiens	caudal type homeobox 4
+ENSG00000131061	NM_032819	Homo sapiens	zinc finger protein 341
+ENSG00000176371	NM_017894	Homo sapiens	zinc finger and SCAN domain containing 2
+ENSG00000176371	NM_181877	Homo sapiens	zinc finger and SCAN domain containing 2
+ENSG00000176371	NM_001007072	Homo sapiens	zinc finger and SCAN domain containing 2
+ENSG00000178919	NM_004473	Homo sapiens	forkhead box E1 (thyroid transcription factor 2)
+ENSG00000197905	NM_003213	Homo sapiens	TEA domain family member 4
+ENSG00000197905	NM_201441	Homo sapiens	TEA domain family member 4
+ENSG00000197905	NM_201443	Homo sapiens	TEA domain family member 4
+ENSG00000114315	NM_005524	Homo sapiens	hairy and enhancer of split 1, (Drosophila)
+ENSG00000124459	NM_003425	Homo sapiens	zinc finger protein 45
+ENSG00000151623	NM_000901	Homo sapiens	nuclear receptor subfamily 3, group C, member 2
+ENSG00000151623	NM_001166104	Homo sapiens	nuclear receptor subfamily 3, group C, member 2
+ENSG00000126351	NM_003250	Homo sapiens	thyroid hormone receptor, alpha (erythroblastic leukemia viral (v-erb-a) oncogene homolog, avian)
+ENSG00000126351	NM_199334	Homo sapiens	thyroid hormone receptor, alpha (erythroblastic leukemia viral (v-erb-a) oncogene homolog, avian)
+ENSG00000025434	NM_005693	Homo sapiens	nuclear receptor subfamily 1, group H, member 3
+ENSG00000025434	NM_001130101	Homo sapiens	nuclear receptor subfamily 1, group H, member 3
+ENSG00000025434	NM_001130102	Homo sapiens	nuclear receptor subfamily 1, group H, member 3
+ENSG00000180035	NM_152652	Homo sapiens	zinc finger protein 48
+ENSG00000167232	NM_003430	Homo sapiens	zinc finger protein 91
+ENSG00000151615	NM_004575	Homo sapiens	POU class 4 homeobox 2
+ENSG00000186300	NM_152791	Homo sapiens	zinc finger protein 555
+ENSG00000179195	NM_152437	Homo sapiens	zinc finger protein 664
+ENSG00000104472	NM_017444	Homo sapiens	chromatin accessibility complex 1
+ENSG00000089225	NM_080717	Homo sapiens	T-box 5
+ENSG00000089225	NM_181486	Homo sapiens	T-box 5
+ENSG00000089225	NM_080718	Homo sapiens	T-box 5
+ENSG00000089225	NM_000192	Homo sapiens	T-box 5
+ENSG00000167034	NM_006167	Homo sapiens	NK3 homeobox 1
+ENSG00000167625	NM_133444	Homo sapiens	zinc finger protein 526
+ENSG00000105722	NM_006494	Homo sapiens	Ets2 repressor factor
+ENSG00000196247	NM_016220	Homo sapiens	zinc finger protein 107
+ENSG00000196247	NM_001013746	Homo sapiens	zinc finger protein 107
+ENSG00000180818	NM_017409	Homo sapiens	homeobox C10
+ENSG00000164749	NM_004133	Homo sapiens	hepatocyte nuclear factor 4, gamma
+ENSG00000217236	NM_001145250	Homo sapiens	solute carrier family 29 (nucleoside transporters), member 3; Sp9 transcription factor homolog (mouse)
+ENSG00000217236	NM_018344	Homo sapiens	solute carrier family 29 (nucleoside transporters), member 3; Sp9 transcription factor homolog (mouse)
+ENSG00000213973	NM_001080409	Homo sapiens	zinc finger protein 99
+ENSG00000166888	NM_003153	Homo sapiens	signal transducer and activator of transcription 6, interleukin-4 induced
+ENSG00000183734	NM_005170	Homo sapiens	achaete-scute complex homolog 2 (Drosophila)
+ENSG00000151650	NM_014468	Homo sapiens	VENT homeobox homolog (Xenopus laevis)
+ENSG00000183733	NM_001004311	Homo sapiens	folliculogenesis specific basic helix-loop-helix
+ENSG00000164853	NM_001080461	Homo sapiens	UNC homeobox
+ENSG00000163497	NM_017521	Homo sapiens	FEV (ETS oncogene family)
+ENSG00000112182	NM_021813	Homo sapiens	BTB and CNC homology 1, basic leucine zipper transcription factor 2
+ENSG00000112182	NM_001170794	Homo sapiens	BTB and CNC homology 1, basic leucine zipper transcription factor 2
+ENSG00000105997	NM_153631	Homo sapiens	homeobox A3
+ENSG00000105997	NM_153632	Homo sapiens	homeobox A3
+ENSG00000105997	NM_030661	Homo sapiens	homeobox A3
+ENSG00000111046	NM_002469	Homo sapiens	myogenic factor 6 (herculin)
+ENSG00000063515	NM_005315	Homo sapiens	goosecoid homeobox 2
+ENSG00000105996	NM_006735	Homo sapiens	homeobox A2
+ENSG00000111049	NM_005593	Homo sapiens	myogenic factor 5
+ENSG00000106852	NM_199160	Homo sapiens	LIM homeobox 6
+ENSG00000106852	NM_014368	Homo sapiens	LIM homeobox 6
+ENSG00000111424	NM_001017535	Homo sapiens	vitamin D (1,25- dihydroxyvitamin D3) receptor
+ENSG00000111424	NM_000376	Homo sapiens	vitamin D (1,25- dihydroxyvitamin D3) receptor
+ENSG00000198393	NM_019591	Homo sapiens	zinc finger protein 26
+ENSG00000092203	NM_014828	Homo sapiens	TOX high mobility group box family member 4
+ENSG00000105991	NM_153620	Homo sapiens	homeobox A1
+ENSG00000105991	NM_005522	Homo sapiens	homeobox A1
+ENSG00000104856	NM_006509	Homo sapiens	v-rel reticuloendotheliosis viral oncogene homolog B
+ENSG00000196391	NM_001004309	Homo sapiens	zinc finger protein 774
+ENSG00000118526	NM_198392	Homo sapiens	transcription factor 21
+ENSG00000118526	NM_003206	Homo sapiens	transcription factor 21
+ENSG00000180828	NM_152414	Homo sapiens	basic helix-loop-helix family, member e22
+ENSG00000187801	NM_023070	Homo sapiens	zinc finger protein 643
+ENSG00000105717	NM_025245	Homo sapiens	pre-B-cell leukemia homeobox 4
+ENSG00000164736	NM_022454	Homo sapiens	SRY (sex determining region Y)-box 17
+ENSG00000144792	NM_173658	Homo sapiens	zinc finger protein 660
+ENSG00000177842	NM_175888	Homo sapiens	zinc finger protein 620
+ENSG00000136535	NM_006593	Homo sapiens	T-box, brain, 1
+ENSG00000077092	NM_000965	Homo sapiens	retinoic acid receptor, beta
+ENSG00000077092	NM_016152	Homo sapiens	retinoic acid receptor, beta
+ENSG00000176165	NM_005249	Homo sapiens	forkhead box G1
+ENSG00000178403	NM_024019	Homo sapiens	neurogenin 2
+ENSG00000106459	NM_001040110	Homo sapiens	nuclear respiratory factor 1
+ENSG00000106459	NM_005011	Homo sapiens	nuclear respiratory factor 1
+ENSG00000179981	NM_005786	Homo sapiens	teashirt zinc finger homeobox 1
+ENSG00000088881	NM_001110514	Homo sapiens	early B-cell factor 4
+ENSG00000134532	NM_006940	Homo sapiens	SRY (sex determining region Y)-box 5
+ENSG00000134532	NM_152989	Homo sapiens	SRY (sex determining region Y)-box 5
+ENSG00000134532	NM_178010	Homo sapiens	SRY (sex determining region Y)-box 5
+ENSG00000128000	NM_001005851	Homo sapiens	zinc finger protein 780B
+ENSG00000186564	NM_004474	Homo sapiens	forkhead box D2
+ENSG00000100219	NM_005080	Homo sapiens	X-box binding protein 1
+ENSG00000100219	NM_001079539	Homo sapiens	X-box binding protein 1
+ENSG00000109705	NM_001189	Homo sapiens	NK3 homeobox 2
+ENSG00000186951	NM_005036	Homo sapiens	peroxisome proliferator-activated receptor alpha
+ENSG00000186951	NM_001001928	Homo sapiens	peroxisome proliferator-activated receptor alpha
+ENSG00000196263	NM_020813	Homo sapiens	zinc finger protein 471
+ENSG00000107187	NM_014564	Homo sapiens	LIM homeobox 3
+ENSG00000107187	NM_178138	Homo sapiens	LIM homeobox 3
+ENSG00000085276	NM_001164000	Homo sapiens	ecotropic viral integration site 1
+ENSG00000085276	NM_005241	Homo sapiens	ecotropic viral integration site 1
+ENSG00000085276	NM_001105078	Homo sapiens	ecotropic viral integration site 1
+ENSG00000085276	NM_001105077	Homo sapiens	ecotropic viral integration site 1
+ENSG00000085276	NM_004991	Homo sapiens	ecotropic viral integration site 1
+ENSG00000085276	NM_001163999	Homo sapiens	ecotropic viral integration site 1
+ENSG00000085274	NM_018657	Homo sapiens	myoneurin
+ENSG00000100625	NM_017420	Homo sapiens	SIX homeobox 4
+ENSG00000118513	NM_001161657	Homo sapiens	v-myb myeloblastosis viral oncogene homolog (avian)
+ENSG00000118513	NM_001130173	Homo sapiens	v-myb myeloblastosis viral oncogene homolog (avian)
+ENSG00000118513	NM_001161656	Homo sapiens	v-myb myeloblastosis viral oncogene homolog (avian)
+ENSG00000118513	NM_001161659	Homo sapiens	v-myb myeloblastosis viral oncogene homolog (avian)
+ENSG00000118513	NM_001161658	Homo sapiens	v-myb myeloblastosis viral oncogene homolog (avian)
+ENSG00000118513	NM_005375	Homo sapiens	v-myb myeloblastosis viral oncogene homolog (avian)
+ENSG00000118513	NM_001161660	Homo sapiens	v-myb myeloblastosis viral oncogene homolog (avian)
+ENSG00000118513	NM_001130172	Homo sapiens	v-myb myeloblastosis viral oncogene homolog (avian)
+ENSG00000176160	NM_001080439	Homo sapiens	heat shock transcription factor family member 5
+ENSG00000109906	NM_006006	Homo sapiens	zinc finger and BTB domain containing 16
+ENSG00000109906	NM_001018011	Homo sapiens	zinc finger and BTB domain containing 16
+ENSG00000105708	NM_021030	Homo sapiens	zinc finger protein 14
+ENSG00000196267	NM_001102657	Homo sapiens	zinc finger protein 836
+ENSG00000164532	NM_001077653	Homo sapiens	T-box 20
+ENSG00000164532	NM_020417	Homo sapiens	T-box 20
+ENSG00000164532	NM_001166220	Homo sapiens	T-box 20
+ENSG00000196268	NM_175910	Homo sapiens	zinc finger protein 493
+ENSG00000196268	NM_145326	Homo sapiens	zinc finger protein 493
+ENSG00000196268	NM_001076678	Homo sapiens	zinc finger protein 493
+ENSG00000187815	NM_198494	Homo sapiens	zinc finger protein 642

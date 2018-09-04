@@ -35,11 +35,9 @@ node_table = utils.parseTable(node_file, '\t')
 nodelist = [x[0] for x in node_table]
 print nodelist
 super_enhancer_file = '/crusader/projects/cll/final/rose/' + projectName + '_H3K27ac/' + projectName + '_H3K27ac_peaks_SuperEnhancers.table.txt'
-#super_enhancer_file = '/crusader/projects/cll/final/rose/pCLL_' + projectName + '_H3K27ac_ROSE/pCLL_' + projectName + '_H3K27ac_peaks_SuperEnhancers.table.txt'
-#super_enhancer_file = '/crusader/projects/cll/final/rose/pCLL_' + projectName + '_H3K27ac_ROSE/pCLL_' + projectName + '_H3K27ac_peaks_AllEnhancers.table.txt'
+
 se_table = utils.parseTable(super_enhancer_file, '\t')
 
-#subpeak_file = '/crusader/projects/cll/final/macsEnriched/pCLL_' + projectName + '_ATAC.peaks.bed'
 subpeak_file = '/crusader/projects/cll/final/zinba/lines/MEC1_ATAC/MEC1_ATAC.peaks.bed'
 subpeak_table = utils.parseTable(subpeak_file, '\t')
 subpeak_loci = []
