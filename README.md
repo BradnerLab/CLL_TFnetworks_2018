@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document contains scripts used to analyze data and generate figures for Ott et al (2018) in Cancer Cell. For inquries about specific analyses, please contact Alex Federation at federation@altius.org or Christopher Ott at christopher.ott@mgh.harvard.edu. In this README file, we provide either a detailed description  or the exact scripts used to generate each figure. For an up-to-date distribution of the code for network construction, please use pip (https://pypi.org/project/coltron/). For additional information about supplemental figures, please contact Alex Federation.
+This document contains scripts used to analyze data and generate figures for Ott et al (2018). For inquries about specific analyses, please contact Alex Federation at federation@altius.org or Christopher Ott at christopher.ott@mgh.harvard.edu. In this README file, we provide either a detailed description  or the exact scripts used to generate each figure. For an up-to-date distribution of the code for network construction, please use pip (https://pypi.org/project/coltron/). For additional information about supplemental figures, please contact Alex Federation.
 
 ## Figure 1
 
@@ -26,7 +26,7 @@ Values for input into the heatmap were generated with diffSupers.R using super e
 
 ### B, C
 
-Gene tracks were generated with BamplotTurbo. An up-to-date version is found here: https://github.com/BradnerLab/pipeline/bamPlot_turbo.py
+Gene tracks were generated with IGV version 2.4.3. 
 
 ### D
 
