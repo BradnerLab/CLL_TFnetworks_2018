@@ -13,7 +13,7 @@
 
 import os
 import sys
-sys.path.append('/ark/home/af661/src/utils/')
+sys.path.append('/home/rad/packages/TRN/pipeline')
 import utils
 
 import string
@@ -549,11 +549,12 @@ def buildGraph(projectFolder, projectName, motifConvertFile, refseqToNameDict, c
     for line in fimoTable[1:]:
 
         source = motifDatabaseDict[line[0]]   #motifId
-        region = line[1].split('|')
+        # region = line[1].split('|')
+        region = line[2].split('|')
         target = refseqToNameDict[region[0]]   #gene name corresponding to the NMid
         graph.add_edge(source, target)
-        
-        motifDict[source].append((region[1], int(region[2]) + int(line[2]), int(region[2]) + int(line[3])))
+        # motifDict[source].append((region[1], int(region[2]) + int(line[2]), int(region[2]) + int(line[3])))
+        motifDict[source].append((region[1], int(region[2]) + int(line[3]), int(region[2]) + int(line[4])))
 
     utils.formatFolder(projectFolder + 'motifBED/', True)
     for gene in motifDict.keys():
@@ -721,7 +722,6 @@ def formatNetworkOutput(graph, projectFolder, projectName, canidateGenes):
     print sortCliqueRanking[0]
 
     # Visualizations
-
     sizeFile = projectFolder + projectName + '_CANIDATE_TF_AND_SUPER_TABLE.txt'
     os.system('Rscript networkScatter.R ' + degFile + ' ' + sizeFile + ' ' +
               projectFolder + projectName + '_NETWORK_SCATTER.pdf')
@@ -789,8 +789,8 @@ def main():
         if options.motifs:
             motifDatabaseFile = options.motifs
         else:
-            motifConvertFile = '/ark/home/af661/src/coreTFnetwork/annotations/MotifDictionary.txt'
-            motifDatabaseFile = '/ark/home/af661/src/coreTFnetwork/annotations/VertebratePWMs.txt'
+            motifConvertFile = '/home/rad/packages/TRN/CLL_TFnetworks_2018/annotations/MotifDictionary.txt'
+            motifDatabaseFile = '/home/rad/packages/TRN/CLL_TFnetworks_2018/annotations/VertebratePWMs.txt'
 
 
         # User input files
@@ -811,19 +811,19 @@ def main():
         genome = options.genome
         genome = upper(genome)
         if genome == 'HG19':
-            genomeDirectory = '/grail/genomes/Homo_sapiens/UCSC/hg19/Sequence/Chromosomes/'
-            annotationFile = '/ark/home/cl512/pipeline/annotation/hg19_refseq.ucsc'
-            TFfile = '/ark/home/af661/src/coreTFnetwork/annotations/TFlist_NMid_hg19.txt'
+            genomeDirectory = '/home/rad/packages/data/fasta/human/hg19/chromosomes/'
+            annotationFile = '/home/rad/packages/TRN/pipeline/annotation/hg19_refseq.ucsc'
+            TFfile = '/home/rad/packages/TRN/CLL_TFnetworks_2018/annotations/TFlist_NMid_hg19.txt'
 
         if genome == 'HG18':
             genomeDirectory = '/grail/genomes/Homo_sapiens/human_gp_mar_06_no_random/fasta/'
             annotationFile = '/ark/home/cl512/src/pipeline/annotation/hg18_refseq.ucsc'
-            TFfile = '/ark/home/af661/src/coreTFnetwork/annotations/TFlist_NMid_hg19.txt'
+            TFfile = '/home/rad/packages/TRN/CLL_TFnetworks_2018/annotations/TFlist_NMid_hg19.txt'
 
         if genome == 'MM9':
             genomeDirectory = '/grail/genomes/Mus_musculus/UCSC/mm9/Sequence/Chromosomes/'
-            annotationFile = '/ark/home/cl512/pipeline/annotation/mm9_refseq.ucsc'
-            TFfile = '/ark/home/af661/src/coreTFnetwork/annotations/TFlist_NMid_mm9.txt'
+            annotationFile = '/home/rad/packages/TRN/pipeline/annotation/mm9_refseq.ucsc'
+            TFfile = '/home/rad/packages/TRN/CLL_TFnetworks_2018/annotations/TFlist_NMid_mm9.txt'
 
 
         TFtable = utils.parseTable(TFfile, '\t')
