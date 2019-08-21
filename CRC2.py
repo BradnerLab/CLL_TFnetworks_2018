@@ -13,7 +13,8 @@
 
 import os
 import sys
-sys.path.append('/home/rad/packages/TRN/pipeline')
+# https://stackoverflow.com/questions/279237/import-a-module-from-a-relative-path/6098238
+sys.path.insert(0,'/home/rad/users/gaurav/projects/ctrc/scripts/pipeline')
 import utils
 
 import string
@@ -789,8 +790,8 @@ def main():
         if options.motifs:
             motifDatabaseFile = options.motifs
         else:
-            motifConvertFile = '/home/rad/packages/TRN/CLL_TFnetworks_2018/annotations/MotifDictionary.txt'
-            motifDatabaseFile = '/home/rad/packages/TRN/CLL_TFnetworks_2018/annotations/VertebratePWMs.txt'
+            motifConvertFile = '/home/rad/users/gaurav/projects/ctrc/scripts/CLL_TFnetworks_2018/annotations/MotifDictionary.txt'
+            motifDatabaseFile = '/home/rad/users/gaurav/projects/ctrc/scripts/CLL_TFnetworks_2018/annotations/VertebratePWMs.txt'
 
 
         # User input files
@@ -812,18 +813,18 @@ def main():
         genome = upper(genome)
         if genome == 'HG19':
             genomeDirectory = '/home/rad/packages/data/fasta/human/hg19/chromosomes/'
-            annotationFile = '/home/rad/packages/TRN/pipeline/annotation/hg19_refseq.ucsc'
-            TFfile = '/home/rad/packages/TRN/CLL_TFnetworks_2018/annotations/TFlist_NMid_hg19.txt'
+            annotationFile = '/home/rad/users/gaurav/projects/ctrc/scripts/pipeline/annotation/hg19_refseq.ucsc'
+            TFfile = '/home/rad/users/gaurav/projects/ctrc/scripts/CLL_TFnetworks_2018/annotations/TFlist_NMid_hg19.txt'
 
         if genome == 'HG18':
             genomeDirectory = '/grail/genomes/Homo_sapiens/human_gp_mar_06_no_random/fasta/'
             annotationFile = '/ark/home/cl512/src/pipeline/annotation/hg18_refseq.ucsc'
-            TFfile = '/home/rad/packages/TRN/CLL_TFnetworks_2018/annotations/TFlist_NMid_hg19.txt'
+            TFfile = '/home/rad/users/gaurav/projects/ctrc/scripts/CLL_TFnetworks_2018/annotations/TFlist_NMid_hg19.txt'
 
         if genome == 'MM9':
             genomeDirectory = '/grail/genomes/Mus_musculus/UCSC/mm9/Sequence/Chromosomes/'
-            annotationFile = '/home/rad/packages/TRN/pipeline/annotation/mm9_refseq.ucsc'
-            TFfile = '/home/rad/packages/TRN/CLL_TFnetworks_2018/annotations/TFlist_NMid_mm9.txt'
+            annotationFile = '/home/rad/users/gaurav/projects/ctrc/scripts/pipeline/annotation/mm9_refseq.ucsc'
+            TFfile = '/home/rad/users/gaurav/projects/ctrc/scripts/CLL_TFnetworks_2018/annotations/TFlist_NMid_mm9.txt'
 
 
         TFtable = utils.parseTable(TFfile, '\t')
