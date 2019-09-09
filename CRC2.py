@@ -825,6 +825,11 @@ def main():
             genomeDirectory = '/grail/genomes/Mus_musculus/UCSC/mm9/Sequence/Chromosomes/'
             annotationFile = '/home/rad/users/gaurav/projects/ctrc/scripts/pipeline/annotation/mm9_refseq.ucsc'
             TFfile = '/home/rad/users/gaurav/projects/ctrc/scripts/CLL_TFnetworks_2018/annotations/TFlist_NMid_mm9.txt'
+        
+        if genome == 'MM10':
+            genomeDirectory = '/home/rad/packages/data/fasta/mouse/mm10/chromosomes/'
+            annotationFile = '/home/rad/users/gaurav/projects/ctrc/scripts/pipeline/annotation/mm10_refseq.ucsc'
+            TFfile = '/home/rad/users/gaurav/projects/ctrc/scripts/CLL_TFnetworks_2018/annotations/TFlist_NMid_mm10.txt'
 
 
         TFtable = utils.parseTable(TFfile, '\t')
