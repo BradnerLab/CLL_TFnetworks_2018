@@ -370,7 +370,12 @@ def scoreValley(locus, bamFile, projectName, projectFolder):
             shoulderHeightMin = min(leftmax, rightmax)
             shoulderHeightMax = max(leftmax, rightmax)
 
-        ratio = (shoulderHeightMax-float(smoothDensity[i]))/regionMax
+        ratio = 0
+        try:
+            ratio = (shoulderHeightMax-float(smoothDensity[i]))/regionMax
+        except:
+            pass
+        
         if ratio > 0.3:
             score = 1
         else:
@@ -776,6 +781,8 @@ def main():
                       help = "Enter an alternative PWM file for the analysis")
     parser.add_option("-t","--tfs", dest="tfs",nargs=1,default=None,
                       help = "Enter additional TFs (comma separated) to be used in the bindinf analysis")
+    parser.add_option("-u","--ucsc", dest="is_ucsc", action='store_true', default=False,
+                      help = "If set, use the ucsc folders or files with chromosome names as chr1, chr2, etc.")
 
     (options,args) = parser.parse_args()
 
@@ -827,10 +834,13 @@ def main():
             TFfile = '/home/rad/users/gaurav/projects/ctrc/scripts/CLL_TFnetworks_2018/annotations/TFlist_NMid_mm9.txt'
         
         if genome == 'MM10':
-            genomeDirectory = '/home/rad/packages/data/fasta/mouse/mm10/chromosomes/'
-            annotationFile = '/home/rad/users/gaurav/projects/ctrc/scripts/pipeline/annotation/mm10_refseq.ucsc'
             TFfile = '/home/rad/users/gaurav/projects/ctrc/scripts/CLL_TFnetworks_2018/annotations/TFlist_NMid_mm10.txt'
-
+            if options.is_ucsc:
+                genomeDirectory = '/home/rad/packages/data/fasta/mouse/mm10/ucsc_chromosomes/'
+                annotationFile = '/home/rad/users/gaurav/projects/ctrc/scripts/pipeline/annotation/ucsc/mm10_refseq.ucsc'
+            else:
+                genomeDirectory = '/home/rad/packages/data/fasta/mouse/mm10/chromosomes/'
+                annotationFile = '/home/rad/users/gaurav/projects/ctrc/scripts/pipeline/annotation/mm10_refseq.ucsc'
 
         TFtable = utils.parseTable(TFfile, '\t')
         TFlist = [line[0] for line in TFtable]
@@ -878,6 +888,12 @@ def main():
         enhancerLoci = createEnhancerLoci(enhancerTable, enhancerNumber)
         expressedNM, expressionDictNM = createExpressionDict(annotationFile, projectFolder, projectName, refseqToNameDict, expCutoff,expressionFile)
         TFtoEnhancerDict = findCanidateTFs(annotationFile, enhancerLoci, expressedNM, expressionDictNM,  bamFile, TFlist, refseqToNameDict, projectFolder, projectName, promoter)
+
+        # print TFtoEnhancerDict
+        # sys.exit()
+
+
+
         formatOutput(TFtoEnhancerDict, refseqToNameDict, projectName, projectFolder)
         canidateGenes = [upper(refseqToNameDict[x]) for x in TFtoEnhancerDict.keys()]
         
