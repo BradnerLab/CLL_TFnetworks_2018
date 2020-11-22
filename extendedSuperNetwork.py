@@ -74,7 +74,7 @@ def main():
 
     # bgCmd = 'fasta-get-markov -m 1 < ' + projectFolder + projectName + '_SUBPEAKS.fa > ' + projectFolder + projectName + '_bg.meme'
     bgMeme = "{0}/{1}_bg.meme".format(projectFolder, projectName)
-    bgCmd = "fasta-get-markov -m 1 < {0} > {1}".format(subpeaksFasta, bgMeme)
+    bgCmd = "fasta-get-markov -dna -m 1 < {0} > {1}".format(subpeaksFasta, bgMeme)
     subprocess.call(bgCmd, shell=True)
 
     fimoFolder = "{0}/FIMO".format(projectFolder)
