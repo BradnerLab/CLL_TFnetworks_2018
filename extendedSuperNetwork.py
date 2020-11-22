@@ -1,17 +1,15 @@
 #!/usr/local/bin/python
 """
 ***********************************************
-- PROGRAM: convert_vcf_to_annotation_input.py 
+- PROGRAM: extendedSuperNetwork.py 
 - CONTACT: Gaurav Jain(gaurav.jain@tum.de)
 ***********************************************
 """
-
-
 def main():
-    projectFolder = '/crusader/projects/cll/final/network/extended/node-SE/'
-    projectName = 'MEC1'
-    utils.formatFolder(projectFolder + projectName, True)
-    projectFolder = projectFolder + projectName + '/'
+    # projectFolder = '/crusader/projects/cll/final/network/extended/node-SE/'
+    # projectName = 'MEC1'
+    # utils.formatFolder(projectFolder + projectName, True)
+    # projectFolder = projectFolder + projectName + '/'
 
     # First, load in the node TFs, ATAC peaks and super enhancer regions we'll consider for this analysis
     # From networks already constructed from CRC2.py
@@ -56,8 +54,8 @@ def main():
             fasta.append(upper(fastaLine))
 
 
-    outname = projectFolder + projectName + '_SUBPEAKS.fa'
-    utils.unParseTable(fasta, outname, '')
+    subpeaksFasta = "{0}/{1}_SUBPEAKS.fa".format(projectFolder,projectName)
+    utils.unParseTable(fasta, subpeaksFasta, '')
 
 
     # call FIMO and find the motifs within each enhancer
@@ -77,35 +75,39 @@ def main():
     for gene in nodelist:
         if gene in motifNames:
             canidateMotifs.append(gene)
-
     print(canidateMotifs)
 
-    bgCmd = 'fasta-get-markov -m 1 < ' + projectFolder + projectName + '_SUBPEAKS.fa > ' + projectFolder + projectName + '_bg.meme'
+    # bgCmd = 'fasta-get-markov -m 1 < ' + projectFolder + projectName + '_SUBPEAKS.fa > ' + projectFolder + projectName + '_bg.meme'
+    bgMeme = "{0}/{1}_bg.meme".format(projectFolder, projectName)
+    bgCmd = "fasta-get-markov -m 1 < {0} > {1}".format(subpeaksFasta, bgMeme)
     subprocess.call(bgCmd, shell=True)
 
-    utils.formatFolder(projectFolder + 'FIMO/', True)
+    fimoFolder = "{0}/FIMO".format(projectFolder)
+    fimoFile  =  "{0}/fimo.txt".format(fimoFolder)
+    utils.formatFolder(fimoFolder, True)
 
     fimoCmd = 'fimo'
     for TF in canidateMotifs:
         print(TF)
         for x in motifDatabaseDict[TF]:
-            fimoCmd += ' --motif ' + "'%s'" % (str(x))
+            # fimoCmd += ' --motif ' + "'%s'" % (str(x))
+            fimoCmd = "{0} --motif {1}".format(fimoCmd, x)
 
-    #fimoCmd += ' --thresh 1e-5'
-    fimoCmd += ' -verbosity 1'  # thanks for that ;)!
-    fimoCmd += ' -text'
-    fimoCmd += ' -oc ' + projectFolder + 'FIMO'
-    fimoCmd += ' --bgfile ' + projectFolder + projectName + '_bg.meme'
-    fimoCmd += ' ' + motifDatabaseFile + ' '
-    fimoCmd += projectFolder + projectName + '_SUBPEAKS.fa'
-    fimoCmd += ' > '+ projectFolder + 'FIMO/fimo.txt'  ##
+    # ##fimoCmd += ' --thresh 1e-5'
+    # fimoCmd += ' -verbosity 1'  # thanks for that ;)!
+    # fimoCmd += ' -text'
+    # fimoCmd += ' -oc ' + projectFolder + 'FIMO'
+    # fimoCmd += ' --bgfile ' + projectFolder + projectName + '_bg.meme'
+    # fimoCmd += ' ' + motifDatabaseFile + ' '
+    # fimoCmd += projectFolder + projectName + '_SUBPEAKS.fa'
+    # fimoCmd += ' > '+ projectFolder + 'FIMO/fimo.txt'  ##
+    fimoCmd = "{0} -verbosity 1 -text -oc {1} --bgfile {2} {3} {4} > {5}".format(fimoCmd, fimoFolder, bgMeme, motifDatabaseFile, subpeaksFasta, fimoFile)
     print(fimoCmd)
 
     fimoOutput = subprocess.call(fimoCmd, shell=True)  #will wait that fimo is done to go on
 
 
     # next, build a dictionary with all network info and output a matrix with the same information
-
     motifDatabase = utils.parseTable(motifConvertFile, '\t')
     motifDatabaseDict = {}
     motifNames = [line[1] for line in motifDatabase]
@@ -114,12 +116,10 @@ def main():
     for line in motifDatabase:
         motifDatabaseDict[line[0]] = line[1]
 
-    fimoFile =  projectFolder + 'FIMO/fimo.txt'
-    fimoTable = utils.parseTable(fimoFile, '\t')
 
+    fimoTable = utils.parseTable(fimoFile, '\t')
     motifDict = defaultdict(dict)
     for line in fimoTable[1:]:
-
         source = motifDatabaseDict[line[0]]   #motifId
         region = line[1].split('|')
         target = region[0]   #gene name corresponding to the NMid
@@ -131,22 +131,16 @@ def main():
     # make matrix
     matrix = [se_namelist]
     for tf in motifDict:
-
         newline = [tf]
-        
         for se_id in se_namelist:
-
             if se_id in motifDict[tf]:
                 newline.append(motifDict[tf][se_id])
             else:
                 newline.append(0)
         matrix.append(newline)
 
-    matrix_name = projectFolder + projectName + '_extendedNetwork.allEnhancers.matrix.txt'
+    matrix_name = "{0}/{1}_extendedNetwork.allEnhancers.matrix.txt".format(projectFolder, projectName)
     utils.unParseTable(matrix, matrix_name, '\t')
-
-
-
 
 ################ USER DEFINED FUNCTIONS ###################
 def print_help():
@@ -161,7 +155,7 @@ def check_options():
         formatter_class=argparse.RawTextHelpFormatter,
         epilog=textwrap.dedent('''\
         ----------------- SAMPLE USAGE ------------------
-        - python scripts/convert_vcf_to_annotation_input.py -if=/media/rad/HDD1/pdacMetastasis/input/mPDAC_wgs/DS4/results/Mutect2/DS4.Mutect2.txt -od=/home/rad/users/gaurav/projects/pdacMetastasis/output/mPDAC_wgs/txt
+        - python extendedSuperNetwork.py -if=/media/rad/HDD1/pdacMetastasis/input/mPDAC_wgs/DS4/results/Mutect2/DS4.Mutect2.txt -od=/home/rad/users/gaurav/projects/pdacMetastasis/output/mPDAC_wgs/txt
         -------------------------------------------------
         CONTACT: 
             Gaurav Jain
@@ -176,7 +170,7 @@ def check_options():
     parser.add_argument("-se", metavar='--supenf', help="*Super enhancers file from the CRC analysis. It's crcdir/rose2/<filename>_SuperEnhancers.table.txt", dest="super_enhancer_file", type=str, required=True)
     parser.add_argument("-ap", metavar='--atacpk', help="*Atacseq peaks file. It is a BED file of regions to search for motifs", dest="subpeak_file", type=str, required=True)
     parser.add_argument("-mt", metavar="--motifs", help=" Enter an alternative PWM file for the analysis", dest="motifs")
-    parser.add_argument("-gn", metavar="--genome", help="Provide the build of the genome to be used for the analysis. Currently supports HG19, HG18 and MM9", dest="genome", default="MM10")
+    parser.add_argument("-gn", metavar="--genome", help=" Provide the build of the genome to be used for the analysis. Currently supports HG19, HG18, MM9 and MM10\n Default = MM10", dest="genome", default="MM10")
 
     # Print the help message only if no arguments are supplied
     if len(sys.argv)==1:
@@ -208,19 +202,20 @@ if __name__=="__main__":
     # Built in modules
     import os
     import sys
+    import argparse
     sys.path.insert(0,'/home/rad/users/gaurav/projects/ctrc/scripts/pipeline')
     import utils
 
     import string
-
-    import numpy
-    import scipy
-    import scipy.stats
+    import textwrap
+    import numpy as np
+    import scipy as sp
+    import scipy.stats as stats
 
     import subprocess
     import os
 
-    from string import upper
+    # from string import upper
     from random import randrange
     from collections import defaultdict
 
