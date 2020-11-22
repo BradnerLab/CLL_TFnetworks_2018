@@ -6,11 +6,6 @@
 ***********************************************
 """
 def main():
-    # projectFolder = '/crusader/projects/cll/final/network/extended/node-SE/'
-    # projectName = 'MEC1'
-    # utils.formatFolder(projectFolder + projectName, True)
-    # projectFolder = projectFolder + projectName + '/'
-
     # First, load in the node TFs, ATAC peaks and super enhancer regions we'll consider for this analysis
     # From networks already constructed from CRC2.py
 
@@ -155,7 +150,7 @@ def check_options():
         formatter_class=argparse.RawTextHelpFormatter,
         epilog=textwrap.dedent('''\
         ----------------- SAMPLE USAGE ------------------
-        - python extendedSuperNetwork.py -if=/media/rad/HDD1/pdacMetastasis/input/mPDAC_wgs/DS4/results/Mutect2/DS4.Mutect2.txt -od=/home/rad/users/gaurav/projects/pdacMetastasis/output/mPDAC_wgs/txt
+        - python extendedSuperNetwork.py -pn=127abcam-5320-PPT-1 -ad=/media/rad/HDD1/nfchip/christine/pdacBatch1/gjchip/analysis/crcs/extendedNetworks -nf=/media/rad/HDD1/nfchip/christine/pdacBatch1/gjchip/analysis/crcs/127abcam-5320-PPT-1/crcs127abcam-5320-PPT-1_NODELIST.txt -se=/media/rad/HDD1/nfchip/christine/pdacBatch1/gjchip/analysis/crcs/127abcam-5320-PPT-1/rose2/127abcam-5320-PPT-1_summits_SuperEnhancers.table.txt -ap=/media/rad/HDD1/atacseq/christine/AGRad_ATACseq_MUC001/analysis/customPeaks/mergedLibrary/q0_01/5320_PPT-1_004_R1_peaks.broadPeak -gn=MM10
         -------------------------------------------------
         CONTACT: 
             Gaurav Jain
@@ -165,12 +160,13 @@ def check_options():
 
     # Add arguments 
     parser.add_argument("-pn", metavar='--prname', help="*Project name"    , dest="projectName"  , type=str, required=True)
-    parser.add_argument("-pd", metavar='--prjdir', help="*Project directry", dest="projectFolder", type=str, required=True)
+    parser.add_argument("-ad", metavar='--anydir', help="*Analysis directry", dest="analysisDir", type=str, required=True)
     parser.add_argument("-nf", metavar='--nodefl', help="*Node file from the CRC analysis. It's <filename>_NODELIST.txt", dest="node_file", type=str, required=True)
     parser.add_argument("-se", metavar='--supenf', help="*Super enhancers file from the CRC analysis. It's crcdir/rose2/<filename>_SuperEnhancers.table.txt", dest="super_enhancer_file", type=str, required=True)
     parser.add_argument("-ap", metavar='--atacpk', help="*Atacseq peaks file. It is a BED file of regions to search for motifs", dest="subpeak_file", type=str, required=True)
     parser.add_argument("-mt", metavar="--motifs", help=" Enter an alternative PWM file for the analysis", dest="motifs")
     parser.add_argument("-gn", metavar="--genome", help=" Provide the build of the genome to be used for the analysis. Currently supports HG19, HG18, MM9 and MM10\n Default = MM10", dest="genome", default="MM10")
+    parser.add_argument("-uc",         "--ucscfm", help=" If set, use the ucsc folders or files with chromosome names as chr1, chr2, etc.", dest="is_ucsc", action='store_true', default=False,)
 
     # Print the help message only if no arguments are supplied
     if len(sys.argv)==1:
@@ -178,8 +174,8 @@ def check_options():
         sys.exit(1)
 
     # Save the STDOUT output in a log file
-    if parser.parse_args().input_file:
-        logdir="{0}/logs".format(get_file_info(parser.parse_args().projectFolder)[0])
+    if parser.parse_args().node_file:
+        logdir="{0}/logs".format(get_file_info(parser.parse_args().analysisDir)[0])
         create_dir(logdir)
         logfile = "{0}/{1}_extended_super_network.log".format(logdir, get_file_info(parser.parse_args().node_file)[1])
         print(logdir)
@@ -223,6 +219,10 @@ if __name__=="__main__":
     from networkx.algorithms.clique import find_cliques_recursive
     import pickle
 
+    # user defined modules
+    from gjainPyLib import *      # import all the functions from the Gaurav`s python library
+
+
     ################ USER CONFIGURATION ###################
     np.set_printoptions(precision=6)
     #######################################################
@@ -232,14 +232,15 @@ if __name__=="__main__":
 
     # Store the variables
     projectName         = args.projectName
-    projectFolder       = args.projectFolder
+    analysisDir       = args.analysisDir
     node_file           = args.node_file
     super_enhancer_file = args.super_enhancer_file
     subpeak_file        = args.subpeak_file
     motifs              = args.motifs
+    genome              = args.genome
+    is_ucsc             = args.is_ucsc
     # genomeDirectory = '/grail/genomes/Homo_sapiens/UCSC/hg19/Sequence/Chromosomes/'
-    genome = options.genome
-    genome = upper(genome)
+    genome = genome.upper()
     if genome == 'HG19':
         genomeDirectory = '/home/rad/packages/data/fasta/human/hg19/chromosomes/'
         annotationFile = '/home/rad/users/gaurav/projects/ctrc/scripts/pipeline/annotation/hg19_refseq.ucsc'
@@ -257,19 +258,24 @@ if __name__=="__main__":
 
     if genome == 'MM10':
         TFfile = '/home/rad/users/gaurav/projects/ctrc/scripts/CLL_TFnetworks_2018/annotations/TFlist_NMid_mm10.txt'
-        if options.is_ucsc:
+        if is_ucsc:
             genomeDirectory = '/home/rad/packages/data/fasta/mouse/mm10/ucsc_chromosomes/'
             annotationFile = '/home/rad/users/gaurav/projects/ctrc/scripts/pipeline/annotation/ucsc/mm10_refseq.ucsc'
         else:
             genomeDirectory = '/home/rad/packages/data/fasta/mouse/mm10/chromosomes/'
             annotationFile = '/home/rad/users/gaurav/projects/ctrc/scripts/pipeline/annotation/mm10_refseq.ucsc'
 
-    if options.motifs:
+    if motifs:
         motifDatabaseFile = options.motifs
     else:
         motifConvertFile = '/home/rad/users/gaurav/projects/ctrc/scripts/CLL_TFnetworks_2018/annotations/MotifDictionary.txt'
         motifDatabaseFile = '/home/rad/users/gaurav/projects/ctrc/scripts/CLL_TFnetworks_2018/annotations/VertebratePWMs.txt'
 
+    # projectFolder = '/crusader/projects/cll/final/network/extended/node-SE/'
+    # projectName = 'MEC1'
+    # utils.formatFolder(projectFolder + projectName, True)
+    # projectFolder = projectFolder + projectName + '/'
+    projectFolder = "{0}/{1}".format(analysisDir, projectName); create_dir(projectFolder)
     main()
 
 
