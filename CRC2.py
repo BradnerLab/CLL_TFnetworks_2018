@@ -506,7 +506,7 @@ def findMotifs(canidateGenes, projectFolder, projectName, motifConvertFile, moti
 
     #canidateMotifs = ['NANOG', 'POU5F1', 'SOX2']
 
-    bgCmd = 'fasta-get-markov -m 1 < ' + projectFolder + projectName + '_SUBPEAKS.fa > ' + projectFolder + projectName + '_bg.meme'
+    bgCmd = 'fasta-get-markov -dna -m 1 < ' + projectFolder + projectName + '_SUBPEAKS.fa > ' + projectFolder + projectName + '_bg.meme'
     subprocess.call(bgCmd, shell=True)
 
     utils.formatFolder(projectFolder + 'FIMO/', True)
