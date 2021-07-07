@@ -13,7 +13,8 @@
 
 import os
 import sys
-sys.path.append('/ark/home/af661/src/utils/')
+# https://stackoverflow.com/questions/279237/import-a-module-from-a-relative-path/6098238
+sys.path.insert(0,'/home/rad/users/gaurav/projects/ctrc/scripts/pipeline')
 import utils
 
 import string
@@ -369,7 +370,12 @@ def scoreValley(locus, bamFile, projectName, projectFolder):
             shoulderHeightMin = min(leftmax, rightmax)
             shoulderHeightMax = max(leftmax, rightmax)
 
-        ratio = (shoulderHeightMax-float(smoothDensity[i]))/regionMax
+        ratio = 0
+        try:
+            ratio = (shoulderHeightMax-float(smoothDensity[i]))/regionMax
+        except:
+            pass
+        
         if ratio > 0.3:
             score = 1
         else:
@@ -500,7 +506,7 @@ def findMotifs(canidateGenes, projectFolder, projectName, motifConvertFile, moti
 
     #canidateMotifs = ['NANOG', 'POU5F1', 'SOX2']
 
-    bgCmd = 'fasta-get-markov -m 1 < ' + projectFolder + projectName + '_SUBPEAKS.fa > ' + projectFolder + projectName + '_bg.meme'
+    bgCmd = 'fasta-get-markov -dna -m 1 < ' + projectFolder + projectName + '_SUBPEAKS.fa > ' + projectFolder + projectName + '_bg.meme'
     subprocess.call(bgCmd, shell=True)
 
     utils.formatFolder(projectFolder + 'FIMO/', True)
@@ -549,11 +555,12 @@ def buildGraph(projectFolder, projectName, motifConvertFile, refseqToNameDict, c
     for line in fimoTable[1:]:
 
         source = motifDatabaseDict[line[0]]   #motifId
-        region = line[1].split('|')
+        # region = line[1].split('|')
+        region = line[2].split('|')
         target = refseqToNameDict[region[0]]   #gene name corresponding to the NMid
         graph.add_edge(source, target)
-        
-        motifDict[source].append((region[1], int(region[2]) + int(line[2]), int(region[2]) + int(line[3])))
+        # motifDict[source].append((region[1], int(region[2]) + int(line[2]), int(region[2]) + int(line[3])))
+        motifDict[source].append((region[1], int(region[2]) + int(line[3]), int(region[2]) + int(line[4])))
 
     utils.formatFolder(projectFolder + 'motifBED/', True)
     for gene in motifDict.keys():
@@ -721,7 +728,6 @@ def formatNetworkOutput(graph, projectFolder, projectName, canidateGenes):
     print sortCliqueRanking[0]
 
     # Visualizations
-
     sizeFile = projectFolder + projectName + '_CANIDATE_TF_AND_SUPER_TABLE.txt'
     os.system('Rscript networkScatter.R ' + degFile + ' ' + sizeFile + ' ' +
               projectFolder + projectName + '_NETWORK_SCATTER.pdf')
@@ -775,6 +781,8 @@ def main():
                       help = "Enter an alternative PWM file for the analysis")
     parser.add_option("-t","--tfs", dest="tfs",nargs=1,default=None,
                       help = "Enter additional TFs (comma separated) to be used in the bindinf analysis")
+    parser.add_option("-u","--ucsc", dest="is_ucsc", action='store_true', default=False,
+                      help = "If set, use the ucsc folders or files with chromosome names as chr1, chr2, etc.")
 
     (options,args) = parser.parse_args()
 
@@ -789,8 +797,8 @@ def main():
         if options.motifs:
             motifDatabaseFile = options.motifs
         else:
-            motifConvertFile = '/ark/home/af661/src/coreTFnetwork/annotations/MotifDictionary.txt'
-            motifDatabaseFile = '/ark/home/af661/src/coreTFnetwork/annotations/VertebratePWMs.txt'
+            motifConvertFile = '/home/rad/users/gaurav/projects/ctrc/scripts/CLL_TFnetworks_2018/annotations/MotifDictionary.txt'
+            motifDatabaseFile = '/home/rad/users/gaurav/projects/ctrc/scripts/CLL_TFnetworks_2018/annotations/VertebratePWMs.txt'
 
 
         # User input files
@@ -811,20 +819,28 @@ def main():
         genome = options.genome
         genome = upper(genome)
         if genome == 'HG19':
-            genomeDirectory = '/grail/genomes/Homo_sapiens/UCSC/hg19/Sequence/Chromosomes/'
-            annotationFile = '/ark/home/cl512/pipeline/annotation/hg19_refseq.ucsc'
-            TFfile = '/ark/home/af661/src/coreTFnetwork/annotations/TFlist_NMid_hg19.txt'
+            genomeDirectory = '/home/rad/packages/data/fasta/human/hg19/chromosomes/'
+            annotationFile = '/home/rad/users/gaurav/projects/ctrc/scripts/pipeline/annotation/hg19_refseq.ucsc'
+            TFfile = '/home/rad/users/gaurav/projects/ctrc/scripts/CLL_TFnetworks_2018/annotations/TFlist_NMid_hg19.txt'
 
         if genome == 'HG18':
             genomeDirectory = '/grail/genomes/Homo_sapiens/human_gp_mar_06_no_random/fasta/'
             annotationFile = '/ark/home/cl512/src/pipeline/annotation/hg18_refseq.ucsc'
-            TFfile = '/ark/home/af661/src/coreTFnetwork/annotations/TFlist_NMid_hg19.txt'
+            TFfile = '/home/rad/users/gaurav/projects/ctrc/scripts/CLL_TFnetworks_2018/annotations/TFlist_NMid_hg19.txt'
 
         if genome == 'MM9':
             genomeDirectory = '/grail/genomes/Mus_musculus/UCSC/mm9/Sequence/Chromosomes/'
-            annotationFile = '/ark/home/cl512/pipeline/annotation/mm9_refseq.ucsc'
-            TFfile = '/ark/home/af661/src/coreTFnetwork/annotations/TFlist_NMid_mm9.txt'
-
+            annotationFile = '/home/rad/users/gaurav/projects/ctrc/scripts/pipeline/annotation/mm9_refseq.ucsc'
+            TFfile = '/home/rad/users/gaurav/projects/ctrc/scripts/CLL_TFnetworks_2018/annotations/TFlist_NMid_mm9.txt'
+        
+        if genome == 'MM10':
+            TFfile = '/home/rad/users/gaurav/projects/ctrc/scripts/CLL_TFnetworks_2018/annotations/TFlist_NMid_mm10.txt'
+            if options.is_ucsc:
+                genomeDirectory = '/home/rad/packages/data/fasta/mouse/mm10/ucsc_chromosomes/'
+                annotationFile = '/home/rad/users/gaurav/projects/ctrc/scripts/pipeline/annotation/ucsc/mm10_refseq.ucsc'
+            else:
+                genomeDirectory = '/home/rad/packages/data/fasta/mouse/mm10/chromosomes/'
+                annotationFile = '/home/rad/users/gaurav/projects/ctrc/scripts/pipeline/annotation/mm10_refseq.ucsc'
 
         TFtable = utils.parseTable(TFfile, '\t')
         TFlist = [line[0] for line in TFtable]
@@ -872,6 +888,12 @@ def main():
         enhancerLoci = createEnhancerLoci(enhancerTable, enhancerNumber)
         expressedNM, expressionDictNM = createExpressionDict(annotationFile, projectFolder, projectName, refseqToNameDict, expCutoff,expressionFile)
         TFtoEnhancerDict = findCanidateTFs(annotationFile, enhancerLoci, expressedNM, expressionDictNM,  bamFile, TFlist, refseqToNameDict, projectFolder, projectName, promoter)
+
+        # print TFtoEnhancerDict
+        # sys.exit()
+
+
+
         formatOutput(TFtoEnhancerDict, refseqToNameDict, projectName, projectFolder)
         canidateGenes = [upper(refseqToNameDict[x]) for x in TFtoEnhancerDict.keys()]
         
